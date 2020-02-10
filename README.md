@@ -6,7 +6,11 @@ Database of all apps in the Banana Hackers store. This is where the app fetches 
 
 ## How to add a your app to this store
 
-... this section is comming soon
+To add your app you need to create an file that describes it.
+That file should have the name `[appname].yml` and be located in the `apps` folder.
+
+You can copy and fill out `example/template.yml`,
+look at the other apps to see how the format works.
 
 
 ## Abuse
