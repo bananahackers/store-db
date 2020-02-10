@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node .",
+    "generate-dev": "ENV=DEVELOPMENT node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "js-yaml": "^3.13.1"
+  }
+}
