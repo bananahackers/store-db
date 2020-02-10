@@ -13,8 +13,8 @@ git_repo: https://github.com/strukturart/rss-reader
 download:
   url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip
   version: "1.0"
-author: 
-maintainer: 
+author:  strukturart<https://github.com/strukturart>
+maintainer: strukturart<https://github.com/strukturart>
 meta:
   tags: news
   category: news
