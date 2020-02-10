@@ -4,7 +4,7 @@ cache:
   paths:
     - node_modules/
 
-test_db:
+pages:
   script:
     - cd _generator
     - npm ci
