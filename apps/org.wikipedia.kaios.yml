@@ -1,0 +1,21 @@
+name: Wikipedia
+description: |
+ The Free Encyclopedia
+ With the free Wikipedia app, search and explore information from all over the world in 300+ languages.
+icon: https://github.com/wikimedia/wikipedia-kaios/blob/master/images/112px.png
+# screenshots are optional
+# screenshots:
+# website is optional
+# website: https://github.com/wikimedia/wikipedia-kaios
+git_repo: https://github.com/wikimedia/wikipedia-kaios
+download:
+  url: 
+  version: "1.0.0"
+author: Wikimedia Foundation<https://wikimediafoundation.org/>
+maintainer: Wikimedia Foundation
+meta:
+  tags: wiki; wikipedia; knowledge
+  categorys:
+   - entertainment
+   - book/reference
+type: privileged
