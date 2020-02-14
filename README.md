@@ -21,3 +21,19 @@ If you see an app that
 - or does other bad stuff with your device...
 
 Please report that app in an gitlab issue and we'll look into it.
+
+
+## License
+
+### The information about the apps
+(everything inside of the `apps` folder)
+You can do whatever you want with that Information, it is public knowledge.
+Except for selling that information, that's evil.
+
+### The apps themself
+See the license property inside of the app yaml file in the app folder
+and look into the manifest of the application.zip
+
+### The data generator
+(the `_generator` folder)
+It is licenced under the MIT Licence.
