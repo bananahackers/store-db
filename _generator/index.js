@@ -112,6 +112,7 @@ async function main() {
     }
 
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
+        version: 1,
         generated_at: Date.now(),
         apps
     }, { spaces: DEBUG ? 1 : 0 })
