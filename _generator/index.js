@@ -8,7 +8,7 @@ const DEBUG = process.env.ENV === "DEVELOPMENT"
 const isEmpty = (string) => !string || string.trim().length == 0
 
 /** Checks if everything is valid and if the data is complete */
-function validate(appData) {
+function validate_apps(appData, availibleCategories) {
     const errors = []
     const error = error => errors.push("- " + error)
 
@@ -47,12 +47,24 @@ function validate(appData) {
         error("Maintainer is missing")
     }
 
-    if (!appData.meta || isEmpty(appData.meta.tags)) {
-        error("meta.tags missing")
-    }
 
-    if (!appData.meta || isEmpty(appData.meta.category)) {
-        error("meta.category missing")
+    if (appData.meta) {
+        if (isEmpty(appData.meta.tags)) {
+            error("meta.tags missing")
+        }
+
+        if (Array.isArray(appData.meta.categories)) {
+            // todo check if they were defined
+            appData.meta.categories.forEach(category => {
+                if (availibleCategories.indexOf(category) === -1) {
+                    error(`meta.categories: "${category}" was not found, did you forget define it in the 'categories' folder?`)
+                }
+            })
+        } else {
+            error("meta.categories missing or not an array")
+        }
+    } else {
+        error("meta is missing")
     }
 
     // Optional
@@ -83,27 +95,75 @@ function validate(appData) {
     }
 }
 
+function validate_category(category) {
+    const errors = []
+    const error = error => errors.push("- " + error)
+
+    if (isEmpty(category.name)) {
+        error("Name is missing")
+    }
+
+    // description is optional
+    // if (isEmpty(category.description)) {
+    //     error("Description is missing")
+    // }
+
+    if (isEmpty(category.icon)) {
+        error("Icon is missing")
+    } else if (false /** todo check if it is an valid font awesome icon */) {
+        error("Icon code is not a valid font awesome icon")
+    }
+
+    if (errors.length > 0) {
+        throw new Error(errors.join('\n '))
+    }
+}
+
 async function main() {
+    let success = true
 
     const PUBLIC = join(__dirname, '../public')
     await fs.ensureDir(PUBLIC)
     await fs.emptyDir(PUBLIC)
 
+    console.log("Processing categories:")
+    const CATEGORIES = join(__dirname, '../categories')
+    const cfiles = await fs.readdir(CATEGORIES)
+
+    let categories = {}
+
+    for (let i = 0; i < cfiles.length; i++) {
+        const file = cfiles[i]
+        console.log("... Processing", file, '...')
+        try {
+            const yaml_content = await fs.readFile(join(CATEGORIES, file), 'utf-8')
+            const data = yaml.load(yaml_content)
+            validate_category(data)
+            categories[file.replace(/.ya?ml/, "")] = data
+        } catch (error) {
+            console.error(`Error/s in ${file}:\n`, error.message)
+            success = false
+        }
+    }
+
+    // log all found categories
+    console.log("Found the following Categories:", Object.keys(categories), "\n")
+
+    console.log("Processing apps:")
+
     const APPS = join(__dirname, '../apps')
+    const afiles = await fs.readdir(APPS)
 
-    const files = await fs.readdir(APPS)
-
-    let success = true
     let apps = []
 
-    for (let i = 0; i < files.length; i++) {
-        const file = files[i]
+    for (let i = 0; i < afiles.length; i++) {
+        const file = afiles[i]
         console.log("... Processing", file, '...')
         try {
             const yaml_content = await fs.readFile(join(APPS, file), 'utf-8')
             const appData = yaml.load(yaml_content)
-            validate(appData)
-            appData.slug = file
+            validate_apps(appData, Object.keys(categories))
+            appData.slug = file.replace(/.ya?ml/, "")
             apps.push(appData)
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
@@ -114,6 +174,7 @@ async function main() {
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
         version: 1,
         generated_at: Date.now(),
+        categories,
         apps
     }, { spaces: DEBUG ? 1 : 0 })
 

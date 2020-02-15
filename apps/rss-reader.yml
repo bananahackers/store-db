@@ -17,4 +17,5 @@ author:  strukturart<https://github.com/strukturart>
 maintainer: strukturart<https://github.com/strukturart>
 meta:
   tags: news
-  category: news
+  categories:
+   - news

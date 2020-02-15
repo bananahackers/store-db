@@ -24,4 +24,5 @@ author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
 meta:
   tags: map; openstreatmap; osm; maps; travel;
-  category: travel
+  categories: 
+   - travel
