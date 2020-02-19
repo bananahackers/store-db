@@ -7,6 +7,8 @@ const DEBUG = process.env.ENV === "DEVELOPMENT"
 
 const isEmpty = (string) => !string || string.trim().length == 0
 
+const APP_TYPES = ['weblink', 'hosted', 'packaged', 'priviliged', 'certified', 'root']
+
 /** Checks if everything is valid and if the data is complete */
 function validate_apps(appData, availibleCategories) {
     const errors = []
@@ -65,6 +67,12 @@ function validate_apps(appData, availibleCategories) {
         }
     } else {
         error("meta is missing")
+    }
+
+    if(isEmpty(appData.type)){
+        error("type missing")
+    } else if (!APP_TYPES.includes(appData.type)) {
+        error(appData.type + "is not a valid app type, this field can contain one of " + APP_TYPES.join(', '))
     }
 
     // Optional
