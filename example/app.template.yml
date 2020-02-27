@@ -11,8 +11,11 @@ git_repo:
 download:
   url: 
   version:
+type:
+license:
 author: 
 maintainer: 
 meta:
   tags: 
-  category:
+  categories:
+   -

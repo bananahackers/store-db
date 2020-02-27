@@ -3,7 +3,7 @@ description: |
   With this app you can search within wikipedia
 icon: https://github.com/strukturart/wikipedia-search/blob/master/application/icons/icon-56-56.png
 # screenshots are optional
-screenshots:
+# screenshots:
 license: MIT
 # website is optional
 website: https://github.com/strukturart/wikipedia-search
@@ -15,5 +15,7 @@ download:
 author: strukturart<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
 meta:
-  tags: search,wikipedia
-  category: search,wikipedia
+  tags: search; wikipedia
+  categories:
+   - search
+type: packaged
