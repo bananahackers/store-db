@@ -5,7 +5,7 @@ const isUrl = require('is-url-superb')
 
 const DEBUG = process.env.ENV === "DEVELOPMENT"
 
-const isEmpty = (string) => !string || string.trim().length == 0
+const isEmpty = (string) => typeof string !== "string" || string.trim().length == 0
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'priviliged', 'certified', 'root']
 

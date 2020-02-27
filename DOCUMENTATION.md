@@ -13,7 +13,7 @@ in the app description files you can only use categories that were defined befor
 
 Name of the category.
 
-### .description
+### .description (optional)
 
 Description of the category.
 

@@ -1,4 +1,4 @@
 name: News
 description: Apps that provide access to news sources.
 ## Font Awesome icon name (fontawesome.com)
-icon: fa_newspaper
+icon: fas fa_newspaper
