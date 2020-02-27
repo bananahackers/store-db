@@ -9,7 +9,20 @@ in the app description files you can only use categories that were defined befor
 
 ## Category format
 
-(TODO, for now look at the other apps and at the template inside of the examples folder)
+### .name
+
+Name of the category.
+
+### .description
+
+Description of the category.
+
+### .icon
+Icon of the category, must be an id of a fontawesome icon (only free icons, for a list of availible icons see https://fontawesome.com/icons?d=gallery&m=free)
+
+```yaml
+icon: fa_plane
+```
 
 ## App format
 
