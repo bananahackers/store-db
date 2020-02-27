@@ -75,6 +75,10 @@ function validate_apps(appData, availibleCategories) {
         error(appData.type + "is not a valid app type, this field can contain one of " + APP_TYPES.join(', '))
     }
 
+    if (isEmpty(appData.license)) {
+        error("License is missing")
+    }
+
     // Optional
 
     if (Array.isArray(appData.screenshots)) {
@@ -180,11 +184,14 @@ async function main() {
     }
 
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
+        $schema: "./schema.json",
         version: 1,
         generated_at: Date.now(),
         categories,
         apps
     }, { spaces: DEBUG ? 1 : 0 })
+
+    await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
 
     if (!success) {
         process.exit(1)
