@@ -17,7 +17,7 @@ look at the other apps to see how the format works.
 
 For storing/serving your opensource app we recommend github or gitlab releases.
 
-Also look at our [documentation](./DOCUMETATION.md).
+Also look at our [documentation](./DOCUMENTATION.md).
 
 ## Abuse
 
