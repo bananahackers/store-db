@@ -1,0 +1,20 @@
+name: TweetFit
+description: A fast and responsive Twitter App dedicated for KaiOS. It is not an official app from Twitter, it uses the Twitter public API to retrieve user timeline.
+icon: https://qichuan.github.io/kaios-twitter-gh/icons/app_112.png
+# screenshots are optional
+# screenshots:
+license: MIT
+# website is optional
+# website: 
+# git repo is optional
+# git_repo: 
+download:
+  url: https://qichuan.github.io/kaios-twitter-gh/release/tweetfit_0.1.2_bHStore.zip
+  version: "0.1.2"
+author:  ZHANG Qichuan<https://github.com/qichuan>
+maintainer: ZHANG Qichuan<https://github.com/qichuan>
+meta:
+  tags: social, twitter
+  categories:
+   - social
+type: packaged
