@@ -1,0 +1,20 @@
+name: E&M Dictionary
+description: Simple Lightweight English & Medical Dictionary
+icon: https://raw.githubusercontent.com/musky603/E-M-Dictionary/build/ic_dict112.png
+# screenshots are optional
+# screenshots:
+license: Free
+# website is optional
+# website: https://u.nu/bhdict
+# git repo is optional
+git_repo: https://github.com/musky603/E-M-Dictionary/
+download:
+  url: https://github.com/musky603/E-M-Dictionary/blob/build/Emdict4OmniSD.zip?raw=true
+  version: "1.09"
+author:  Fanofgk<http://easyonlineshop.rf.gd>
+maintainer: Fanofgk<http://easyonlineshop.rf.gd>
+meta:
+  tags: Dictionary; Medical Dictionary
+  categories:
+   - Education
+type: packaged
