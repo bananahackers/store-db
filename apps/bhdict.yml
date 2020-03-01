@@ -16,5 +16,5 @@ maintainer: Fanofgk<http://easyonlineshop.rf.gd>
 meta:
   tags: Dictionary; Medical Dictionary
   categories:
-   - Education
-type: privileged
+   - education
+type: packaged
