@@ -7,7 +7,7 @@ const DEBUG = process.env.ENV === "DEVELOPMENT"
 
 const isEmpty = (string) => typeof string !== "string" || string.trim().length == 0
 
-const APP_TYPES = ['weblink', 'hosted', 'packaged', 'priviliged', 'certified', 'root']
+const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
 
 /** Checks if everything is valid and if the data is complete */
 function validate_apps(appData, availibleCategories) {

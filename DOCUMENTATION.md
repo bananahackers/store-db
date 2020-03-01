@@ -65,7 +65,7 @@ type        | meaning
 `weblink`   | just a link to a website, that site is not optimized for kaiOS / ffOS / GerdaROM
 `hosted`    | hosted app (real app with manifest and made to run on kaiOS)
 `packaged`  | similar to hosted, but comes in a zip file without auto-updates
-`priviliged`| same as packaged, but runs with more rights
+`privileged`| same as packaged, but runs with more rights
 `certified` | basically same rights as system webapps
 `root`      | runs native software (wallace app for example)
 
