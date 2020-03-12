@@ -1,0 +1,18 @@
+name: VM-IRC
+description: Connect to freenode IRC network via this app
+icon: https://notabug.org/bananaphone/vm-irc/raw/master/img/icons/icon128x128.png
+# screenshots are optional
+license: LGPL 3.0 or later
+website: https://notabug.org/bananaphone/vm-irc
+git_repo: https://notabug.org/bananaphone/vm-irc
+download:
+  url: https://notabug.org/attachments/0acdfd8c-a9ec-4f8f-9b9b-5af2b2d76af0
+  version: "2.0"
+author: Farooq Karimi Zadeh <hapu@riseup.net>
+maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
+meta:
+  tags: irc; freenode; irc-client; simple-irc-client; minimal-irc-client;
+  categories: 
+   - social
+   - communication
+type: packaged
