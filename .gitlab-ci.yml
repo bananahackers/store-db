@@ -14,3 +14,10 @@ pages:
       - public
   only:
     - master
+
+test:
+  script:
+    - cd _generator
+    - npm ci
+    - node .
+  except: master
