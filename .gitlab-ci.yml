@@ -20,4 +20,5 @@ test:
     - cd _generator
     - npm ci
     - node .
-  except: master
+  except:
+    - master
