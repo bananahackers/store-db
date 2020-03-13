@@ -1,4 +1,4 @@
 name: Communication
 description: Apps that allow you to communicate with other people.
 ## Font Awesome icon name (http://fontawesome.com)
-# icon: fas fa_book_reader
+icon: fas fa-comments
