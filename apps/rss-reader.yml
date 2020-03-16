@@ -1,13 +1,13 @@
 name: rss-reader
 description: read you favorit rss/atom feeds
-icon: https://github.com/strukturart/rss-reader/blob/master/application/icons/icon-112-112.png
+icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
 # screenshots are optional
 screenshots:
 - https://github.com/strukturart/rss-reader/blob/master/images/image-1.png
 - https://github.com/strukturart/rss-reader/blob/master/images/image-2.png
 license: MIT
 # website is optional
-# website: https://github.com/strukturart/rss-reader
+website: https://github.com/strukturart/rss-reader
 # git repo is optional
 git_repo: https://github.com/strukturart/rss-reader
 download:
