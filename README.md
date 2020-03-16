@@ -27,3 +27,7 @@ If you see an app that
 - or does other bad stuff with your device...
 
 Please report that app in an gitlab issue and we'll look into it.
+
+## Clients
+
+- https://github.com/strukturart/kaiOs-alt-app-store
