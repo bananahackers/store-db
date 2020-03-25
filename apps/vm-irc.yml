@@ -13,6 +13,5 @@ maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
 meta:
   tags: irc; freenode; irc-client; simple-irc-client; minimal-irc-client;
   categories: 
-   - social
    - communication
 type: packaged

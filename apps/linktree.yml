@@ -1,0 +1,20 @@
+name: bhackers src
+description: The BananaHackers sources, powered by Linktree
+icon: https://raw.githubusercontent.com/musky603/E-M-Dictionary/build/icon.png
+# screenshots are optional
+# screenshots:
+license: Free
+# website is optional
+# website: https://linktr.ee/bhackers
+# git repo is optional
+# git_repo: https://cutt.ly/bananah
+download:
+  url: https://github.com/musky603/E-M-Dictionary/blob/build/bhackerslink.zip?raw=true
+  version: "0.0.1"
+author:  Fanofgk<https://bananahackers.net>
+maintainer: Fanofgk<https://bananahackers.net>
+meta:
+  tags: Bhackers; KaiOS
+  categories:
+   - social
+type: weblink
