@@ -1,11 +1,7 @@
 name: Open Street Map
 description: |
- This is an Open Street Map app for the Nokia 81104G.
- Features
-  - Map
-  - Send your position by sms
-  - Import Tracks (geoJson)
-  - Save your position
+a map app that uses the map data from openstreetmap. Tracks can be imported, search for locations and waypoint can be saved.
+
 icon: https://raw.githubusercontent.com/strukturart/osm-map/master/images/logo.png
 # screenshots are optional
 screenshots:
@@ -23,7 +19,7 @@ download:
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
 meta:
-  tags: map; openstreatmap; osm; maps; travel;
+  tags: map; openstreetmap;
   categories: 
    - travel
 type: packaged
