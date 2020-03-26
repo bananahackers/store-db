@@ -2,7 +2,6 @@ name: rss-reader
 description: read you favorit rss/atom feeds
 icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
 # screenshots are optional
-
 screenshots:
 - https://github.com/strukturart/rss-reader/blob/master/images/image-1.png
 - https://github.com/strukturart/rss-reader/blob/master/images/image-2.png
@@ -12,7 +11,7 @@ website: https://github.com/strukturart/rss-reader
 # git repo is optional
 git_repo: https://github.com/strukturart/rss-reader
 download:
-  url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip
+  url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip?raw=true
   version: "1.0"
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
