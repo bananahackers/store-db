@@ -126,3 +126,6 @@ Link to the website of the app (if it has one)
 
 ### .git_repo (optional)
 Link to the git repo of the app (if it has one)
+
+### .donation_url
+Link to paypal, buymeacoffee.com or other providers
