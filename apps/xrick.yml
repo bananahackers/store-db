@@ -1,0 +1,24 @@
+name: XRick
+description: |
+ Retro platforming action. Avoid traps, collect treasure. 45 levels, no ads, unlimited continues.
+icon: https://raw.githubusercontent.com/pelya/xrick-kaios/master/build/app/icon_112.png
+# screenshots are optional
+screenshots:
+  - http://www.bigorno.net/xrick/shot02.gif
+  - http://www.bigorno.net/xrick/shot03.gif
+  - http://www.bigorno.net/xrick/shot04.gif
+license: GPL
+# website is optional
+website: http://www.bigorno.net/xrick/
+# git repo is optional
+git_repo: https://github.com/pelya/xrick-kaios
+download:
+  url: https://github.com/pelya/xrick-kaios/releases/download/05.05.04/XRick-omnisd.zip
+  version: "05.05.04"
+author: pelya <x.pelya.x@gmail.com>
+maintainer: pelya <x.pelya.x@gmail.com>
+meta:
+  tags: platformer;
+  categories:
+   - games
+type: packaged
