@@ -69,7 +69,7 @@ function validate_apps(appData, availibleCategories) {
         error("meta is missing")
     }
 
-    if(isEmpty(appData.type)){
+    if (isEmpty(appData.type)) {
         error("type missing")
     } else if (!APP_TYPES.includes(appData.type)) {
         error(appData.type + "is not a valid app type, this field can contain one of " + APP_TYPES.join(', '))
@@ -77,6 +77,14 @@ function validate_apps(appData, availibleCategories) {
 
     if (isEmpty(appData.license)) {
         error("License is missing")
+    }
+
+    if (isEmpty(appData.has_tracking)) {
+        error("has Tracking is missing")
+    }
+
+    if (isEmpty(appData.has_ads)) {
+        error("has ads is missing")
     }
 
     // Optional
@@ -101,6 +109,12 @@ function validate_apps(appData, availibleCategories) {
         }
     }
 
+    if (appData.donation) {
+        if (!isUrl(appData.donation)) {
+            error(`donation url invalid: "${appData.donation}"`)
+        }
+    }
+
 
     if (errors.length > 0) {
         throw new Error(errors.join('\n '))
@@ -122,7 +136,7 @@ function validate_category(category) {
 
     if (isEmpty(category.icon)) {
         error("Icon is missing")
-    } else if (false /** todo check if it is an valid font awesome icon */) {
+    } else if (false /** todo check if it is an valid font awesome icon */ ) {
         error("Icon code is not a valid font awesome icon")
     }
 
