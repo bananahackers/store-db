@@ -129,11 +129,20 @@ Link to the git repo of the app (if it has one)
 
 ### .donation (optional)
 Link to paypal, buymeacoffee.com or other providers
+```yaml
+.donation: "https://..."
+```
 
 ### .has_tracking
 the app tracks the user to evaluate data
+```yaml
+.has_tracking: true
+```
 
 ### .has_ads
-advertising will appear
+if advertising will appear
+```yaml
+.has_ads: true
+```
 
 
