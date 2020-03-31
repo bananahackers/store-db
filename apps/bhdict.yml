@@ -13,6 +13,10 @@ download:
   version: "1.09"
 author:  Fanofgk<http://easyonlineshop.rf.gd>
 maintainer: Fanofgk<http://easyonlineshop.rf.gd>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation:
 meta:
   tags: Dictionary; Medical Dictionary
   categories:

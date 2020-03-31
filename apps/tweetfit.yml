@@ -13,6 +13,10 @@ download:
   version: "0.1.2"
 author:  ZHANG Qichuan<https://github.com/qichuan>
 maintainer: ZHANG Qichuan<https://github.com/qichuan>
+has_tracking: true
+has_ads: true
+# donation is optional
+donation: https://www.buymeacoffee.com/vj6Q8lR
 meta:
   tags: social, twitter
   categories:

@@ -10,6 +10,10 @@ download:
   version: "2.0"
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation: 
 meta:
   tags: irc; freenode; irc-client; simple-irc-client; minimal-irc-client;
   categories: 

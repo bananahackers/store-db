@@ -79,12 +79,12 @@ function validate_apps(appData, availibleCategories) {
         error("License is missing")
     }
 
-    if (isEmpty(appData.has_tracking)) {
+    if (typeof appData.has_tracking !== "boolean") {
         error("has Tracking is missing")
     }
 
-    if (isEmpty(appData.has_ads)) {
-        error("has ads is missing")
+    if (typeof appData.has_ads !== "boolean") {
+        error("has Ads is missing")
     }
 
     // Optional
