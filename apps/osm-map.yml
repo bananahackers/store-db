@@ -22,6 +22,8 @@ download:
   version: "1.0.0"
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
+has_tracking: false
+has_ads: false
 donation: https://www.buymeacoffee.com/vj6Q8lR
 meta:
   tags: map; openstreatmap; osm; maps; travel;

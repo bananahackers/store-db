@@ -13,6 +13,10 @@ download:
   version: "0.0.1"
 author: Ivan<https://bananahackers.net>
 maintainer: Ivan<https://bananahackers.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation:
 meta:
   tags: Bhackers; KaiOS
   categories:

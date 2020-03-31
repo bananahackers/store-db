@@ -15,7 +15,10 @@ type:
 license:
 author: 
 maintainer: 
+#donation is optional
 donation:
+has_ads:
+has_tracking:
 meta:
   tags: 
   categories:
