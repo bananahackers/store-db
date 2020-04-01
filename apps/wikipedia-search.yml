@@ -8,7 +8,7 @@ license: MIT
 # website is optional
 website: https://github.com/strukturart/wikipedia-search
 # git repo is optional
-git_repo: https://github.com/strukturart/wikipedia-search
+git_repo: https://github.com/strukturart/wikipedia-search/blob/master/build/wikipedia.zip
 download: 
   url: https://github.com/strukturart/wikipedia-search
   version: "1.0"
