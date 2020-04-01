@@ -1,7 +1,7 @@
 name: wikipedia-search
 description: |
-  With this app you can search within wikipedia
-icon: https://github.com/strukturart/wikipedia-search/blob/master/application/icons/icon-56-56.png
+ With this app you can search within Wikipedia. If you have activated geolocation you can display all the articles found at your current position. This can be useful when travelling.
+icon: https://github.com/strukturart/wikipedia-search/blob/master/application/icons/icon-56-56.png?raw=true
 # screenshots are optional
 # screenshots:
 license: MIT
@@ -13,7 +13,7 @@ download:
   url: https://github.com/strukturart/wikipedia-search
   version: "1.0"
 author: strukturart<https://github.com/strukturart>
-maintainer:  perry<https://github.com/strukturart>
+maintainer:  strukturart<https://github.com/strukturart>
 has_tracking: false
 has_ads: false
 # donation is optional
