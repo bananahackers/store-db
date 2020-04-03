@@ -16,7 +16,7 @@ maintainer: Ivan<https://bananahackers.net>
 has_tracking: false
 has_ads: false
 # donation is optional
-donation:
+donation: https://www.paypal.me/ivanalexhc
 meta:
   tags: Bhackers; KaiOS
   categories:
