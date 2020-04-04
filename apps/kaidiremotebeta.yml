@@ -1,0 +1,24 @@
+name: Kaidi Remote (Beta)
+description: The Kodi Remote app for KaiOS.
+icon: https://github.com/jkelol111/kaidi/raw/master/docs/icons/kaidi_112.png
+screenshots:
+  - https://github.com/jkelol111/kaidi/raw/master/docs/screenshots/kaidi-home-screen.png
+  - https://github.com/jkelol111/kaidi/raw/master/docs/screenshots/kaidi-playing-screen.png
+  - https://github.com/jkelol111/kaidi/raw/master/docs/screenshots/kaidi-settings-screen.png
+website: https://jkelol111.github.io/kaidi
+git_repo: https://github.com/jkelol111/kaidi
+download:
+  url: https://github.com/jkelol111/kaidi/releases/download/v0.4.8-beta/kaidi-0.4.8-beta-omnisd.zip
+  version: "0.4.8"
+type: privileged
+license: "GPLv3"
+author: jkelol111
+maintainer: jkelol111
+donation: https://paypal.me/jkelol111
+has_ads: true
+has_tracking: false
+meta:
+  tags: kodi; remote; kaidi; beta
+  categories:
+    - utility
+    - multimedia
