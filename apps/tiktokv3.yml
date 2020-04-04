@@ -7,7 +7,7 @@ license: Free
 # website is optional
 website: https://tikster.net
 # git repo is optional
-git_repo: https://gitlab.com/musky603/bh-apps/-/blob/master/TikTokv3.zip
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/tiktokk
 download: 
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/TikTokv3.zip
   version: "1.3"
