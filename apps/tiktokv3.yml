@@ -1,0 +1,26 @@
+name: TikkTok
+description: Enjoy the experience of Cringy Social Community without any login and just need to explore search and trending
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/tiktok.png
+# screenshots are optional
+# screenshots:
+license: Free
+# website is optional
+website: https://tikster.net
+# git repo is optional
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/tiktokk
+download: 
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/TikTokv3.zip
+  version: "1.3"
+author: Fanofgk<http://easyonlineshop.rf.gd>
+maintainer:  Fanofgk<http://easyonlineshop.rf.gd>
+#Not at all
+has_tracking: false
+#I swear on KaiOS there is no ads for sure
+has_ads: false
+# donation is optional
+donation: https://www.paypal.me/IDevik
+meta:
+  tags: tiktok; socialism
+  categories:
+   - social
+type: privileged
