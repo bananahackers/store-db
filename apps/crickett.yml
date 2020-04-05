@@ -1,0 +1,25 @@
+name: Free Hit Cricket
+description: Have some fun with this Online Cum Offline Cricket Free Hit Game by Rk Tech Youtube and Ashish Suthaar.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/cricket.png
+# screenshots are optional
+# screenshots:
+license: Free
+# website is optional
+website: https://www.youtube.com/watch?v=tjAd4_LFKDI
+# git repo is optional
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/cricket
+download: 
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/freehitcricketbyRktechYoutube.zip
+  version: "0.0.1"
+author: Rk Tech Youtube<https://doodlecricket.github.io>
+maintainer:  Rk Tech Youtube<https://doodlecricket.github.io>
+has_tracking: true
+#I swear on KaiOS there is no ads for sure
+has_ads: false
+# donation is optional
+donation: 
+meta:
+  tags: cricket; free hit
+  categories:
+   - games
+type: privileged
