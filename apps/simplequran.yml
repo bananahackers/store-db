@@ -1,0 +1,22 @@
+name: Simple Quran
+description: Read the Holy Quran in Arabic
+icon: https://notabug.org/bananaphone/simplequran/raw/master/icons/icon128x128.png
+screenshots:
+ - https://notabug.org/bananaphone/simplequran/raw/master/simplequran.png
+license: GPLv3
+website: https://notabug.org/bananaphone/simplequran
+git_repo: https://notabug.org/bananaphone/simplequran
+download:
+  url: https://notabug.org/attachments/b7e45c06-a12c-4c73-aef3-ad68305b1ca1
+  version: "1.1"
+author: Farooq Karimi Zadeh <hapu@riseup.net>
+maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation: http://bitcoinshell.mooo.com/users/farooqkz/donate.html
+meta:
+  tags: quran; koran; islam; islamic-software; quran study tool; study tool;
+  categories: 
+   - education
+type: packaged
