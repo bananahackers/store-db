@@ -1,0 +1,22 @@
+name: Fooplot
+description: Draws mathematical functions. Use variable x and sin(x),cos(x),etc for pre-defined functions. Use Call key to clear all what has been drawn
+icon: https://notabug.org/bananaphone/simplequran/raw/master/icons/icon128x128.png
+screenshots:
+ - https://notabug.org/bananaphone/fooplot/raw/master/fooplot.png
+license: GPLv3
+website: https://notabug.org/bananaphone/fooplot
+git_repo: https://notabug.org/bananaphone/fooplot
+download:
+  url: https://notabug.org/attachments/6c10a6e7-76d4-4fab-8f1f-6ca1b30ce61f
+  version: "1.0"
+author: Farooq Karimi Zadeh <hapu@riseup.net>
+maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation: http://bitcoinshell.mooo.com/users/farooqkz/donate.html
+meta:
+  tags: math; mathematics; graphing; plotting; plot; function plot;
+  categories: 
+   - education
+type: packaged
