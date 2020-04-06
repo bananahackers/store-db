@@ -1,0 +1,27 @@
+name: KaiAuth
+description: Simple Google Authenticator alternative
+icon: https://kaiauth.zjyl1994.com/img/app_112.png
+# screenshots are optional
+screenshots:
+  - https://kaiauth.zjyl1994.com/img/main_interface.png
+  - https://kaiauth.zjyl1994.com/img/scan_qrcode.png
+  - https://kaiauth.zjyl1994.com/img/option_menu.png
+# website is optional
+website: https://kaiauth.zjyl1994.com
+# git repo is optional
+git_repo: https://github.com/zjyl1994/KaiAuth
+download:
+  url: https://kaiauth.zjyl1994.com/download/kaiauth-omnisd-latest.zip
+  version: "1.1.1"
+type: privileged
+license: MIT
+author: zjyl1994 <me@zjyl1994.com>
+maintainer: zjyl1994 <me@zjyl1994.com>
+#donation is optional
+donation: https://www.buymeacoffee.com/zjyl1994
+has_ads: false
+has_tracking: false
+meta:
+  tags: 2fa; totp; authenticator
+  categories:
+    - utility
