@@ -1,0 +1,22 @@
+name: Telegram
+description: Telegram Messanger client
+icon: https://github.com/strukturart/telegram-kaios/blob/master/application/img/icons/icon120.png?raw=true
+screenshots:
+ - https://github.com/strukturart/telegram-kaios/blob/master/application/img/icons/icon120.png?raw=true
+license: GPLv3
+website: https://github.com/zhukov/webogram
+git_repo: https://github.com/zhukov/webogram
+download:
+  url: https://github.com/strukturart/telegram-kaios/blob/master/build/Telegram.zip?raw=true
+  version: "1.0"
+author: https://github.com/zhukov
+maintainer:  https://github.com/zhukov
+has_tracking: false
+has_ads: false
+# donation is optional
+donation: 
+meta:
+  tags: communication;
+  categories: 
+   - communication
+type: packaged
