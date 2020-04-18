@@ -9,8 +9,8 @@ git_repo: https://github.com/zhukov/webogram
 download:
   url: https://github.com/strukturart/telegram-kaios/blob/master/build/Telegram.zip?raw=true
   version: "1.0"
-author: https://github.com/zhukov
-maintainer:  https://github.com/zhukov
+author: Igor Zhukov <https://github.com/zhukov>
+maintainer:  <Igor Zhukov <https://github.com/zhukov>
 has_tracking: false
 has_ads: false
 # donation is optional
