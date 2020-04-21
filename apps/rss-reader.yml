@@ -1,5 +1,6 @@
 name: rss-reader
-description: read you favorit rss/atom feeds
+description: read you favorit rss/atom feeds and download/stream your podcasts.
+
 icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
 # screenshots are optional
 screenshots:
