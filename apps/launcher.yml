@@ -1,5 +1,5 @@
 name: launcher
-description: open your favorit apps, basic settings, sleep mode,  check the weather
+description: Start your favorit apps, enable/disaple bluetooth,wifi,mobile-data,tethering, airplain, sleep mode and a weather forecast.
 
 icon: https://raw.githubusercontent.com/strukturart/custom-launcher/master/images/logo.png
 # screenshots are optional
@@ -13,7 +13,7 @@ website: https://github.com/strukturart/custom-launcher
 # git repo is optional
 git_repo: https://github.com/strukturart/custom-launcher
 download:
-  url: https://github.com/strukturart/custom-launcher/blob/master/build/custom-launcher.zip?raw=true
+  url: https://github.com/strukturart/custom-launcher/blob/master/build/launcher.zip?raw=true
   version: "1.0"
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
