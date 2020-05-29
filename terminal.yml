@@ -1,0 +1,19 @@
+name: Terminal
+description: Terminal emulator for KaiOS with busybox
+icon: https://gitlab.com/affenull2345/terminal-emulator-kaios/-/raw/master/icon56.png
+screenshots:
+     - https://gitlab.com/affenull2345/terminal-emulator-kaios/-raw/master/screenshot.png
+git_repo: https://gitlab.com/affenull2345/terminal-emulator-kaios
+download:
+    url: https://gitlab.com/affenull2345/terminal-emulator-kaios/-/raw/master/terminal-omnisd.zip
+    version: "1.0"
+license: GPLv3
+author: Affe Null <affenull2345@gmail.com>
+maintainer: Affe Null <affenull2345@gmail.com>
+has_ads: false
+has_tracking: false
+meta:
+    tags: 
+    categories:
+     - utility
+type: certified
