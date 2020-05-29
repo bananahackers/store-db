@@ -1,6 +1,6 @@
 name: Terminal
 description: Terminal emulator for KaiOS with busybox
-icon: https://gitlab.com/affenull2345/terminal-emulator-kaios/-/raw/master/icon56.png
+icon: https://gitlab.com/affenull2345/terminal-emulator-kaios/-/raw/master/src/icon56.png
 screenshots:
      - https://gitlab.com/affenull2345/terminal-emulator-kaios/-raw/master/screenshot.png
 git_repo: https://gitlab.com/affenull2345/terminal-emulator-kaios
