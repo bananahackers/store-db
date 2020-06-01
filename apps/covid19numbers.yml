@@ -1,0 +1,23 @@
+name: COVID-19 Numbers
+description: Track COVID-19 numbers and get info to protect yourself and others. Information is from WHO, we are not responsible for the accuracy of the information provided.
+icon: https://github.com/jkelol111/kaios-covid19-numbers/raw/master/docs/icons/kaidi_112.png
+screenshots:
+  - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/location.png
+  - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/main.png
+  - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/information.png
+git_repo: https://github.com/jkelol111/kaios-covid19-numbers
+download:
+  url: https://github.com/jkelol111/kaios-covid19-numbers/releases/download/v1.0.0/covid19numbers-1.0.0-stable-omnisd.zip
+  version: "1.0.0"
+type: privileged
+license: MIT
+author: jkelol111
+maintainer: jkelol111
+donation: https://paypal.me/jkelol111
+has_ads: true
+has_tracking: false
+meta:
+  tags: covid19
+  categories:
+    - utility
+    - health
