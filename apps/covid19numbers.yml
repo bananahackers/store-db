@@ -7,8 +7,8 @@ screenshots:
   - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/information.png
 git_repo: https://github.com/jkelol111/kaios-covid19-numbers
 download:
-  url: https://github.com/jkelol111/kaios-covid19-numbers/releases/download/v1.0.0/covid19-numbers-1.0.0-stable-omnisd.zip
-  version: "1.0.0"
+  url: https://github.com/jkelol111/kaios-covid19-numbers/releases/download/v1.0.1/covid19-numbers-1.0.1-stable-omnisd.zip
+  version: "1.0.1"
 type: privileged
 license: MIT
 author: jkelol111
