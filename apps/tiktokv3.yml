@@ -13,9 +13,9 @@ download:
   version: "1.3"
 author: Fanofgk<http://easyonlineshop.rf.gd>
 maintainer:  Fanofgk<http://easyonlineshop.rf.gd>
- #As always we cant trust app origin country so
+# As always we cant trust app origin country so
 has_tracking: true
-#I swear there is no ads by me but we cant trust on its origin country so
+# I swear there is no ads by me but we cant trust on its origin country so
 has_ads: true
 # donation is optional
 donation: https://www.paypal.me/IDevik
