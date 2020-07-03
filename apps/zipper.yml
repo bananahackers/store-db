@@ -1,0 +1,24 @@
+name: Zipper
+description: Zip and unzip files on your device. There is no internet connection needed!
+icon: https://raw.githubusercontent.com/canicjusz/Zipper/master/minified/img/icons/Zipper_128.png
+# screenshots are optional
+# screenshots:
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/canicjusz/Zipper
+download:
+  url: https://github.com/canicjusz/Zipper/blob/master/Zipper.zip?raw=true
+  version: "1.0.0"
+type: privileged
+license: Unknown
+author: Jan Michalak <janmichalak@int.pl>
+maintainer: Jan Michalak <janmichalak@int.pl>
+# donation is optional
+# donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: zip; compression; decompression
+  categories:
+   - utility
