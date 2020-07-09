@@ -9,8 +9,8 @@ screenshots:
   - "https://app.podlp.com/d/screenshot/podcast_play.png"
 website: "https://podlp.com"
 download:
-  url: "https://app.podlp.com/d/PodLP_1.0.1.zip"
-  version: "1.0.1"
+  url: "https://app.podlp.com/d/PodLP_1.0.2.zip"
+  version: "1.0.2"
 type: privileged
 license: Unknown
 author: Tom Barrasso <support@podlp.com>
