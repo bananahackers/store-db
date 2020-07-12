@@ -1,0 +1,29 @@
+name: Mp3 Juices
+description: Discover and Download Mp3 audio files on the go.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/mp3juices/icon.png
+# screenshots are optional
+# screenshots:
+license: Unknown
+# website is optional
+website: https://www.mp3juices.cc
+download: 
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/mp3juices/mp3juices_cc.zip
+  version: "0.0.1"
+author: S Aronno <https://www.youtube.com/channel/UCroSTt_KrlgJGwA-ODT2frA>
+maintainer: S Aronno <https://www.youtube.com/channel/UCroSTt_KrlgJGwA-ODT2frA>
+has_tracking: true
+#I swear on KaiOS there is no ads for sure
+has_ads: false
+# donation is optional
+donation: https://www.paypal.me/idevik
+meta:
+  tags: mp3; audio
+  categories:
+   - multimedia
+type: weblink
+
+
+
+
+
+
