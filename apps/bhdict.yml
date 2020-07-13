@@ -1,22 +1,22 @@
-name: E&M Dictionary
-description: Simple Lightweight English & Medical Dictionary
-icon: https://raw.githubusercontent.com/musky603/E-M-Dictionary/build/ic_dict112.png
+name: Medical Dictionary
+description: Simple Lightweight Online Medical Dictionary
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/icdict112.png
 # screenshots are optional
 # screenshots:
-license: Free
+license: Unknown
 # website is optional
 # website: https://u.nu/bhdict
 # git repo is optional
 git_repo: https://github.com/musky603/E-M-Dictionary/
 download:
-  url: https://github.com/musky603/E-M-Dictionary/blob/build/Emdict4OmniSD.zip?raw=true
-  version: "1.09"
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/medidictV1.10.zip
+  version: "1.10"
 author:  Fanofgk<http://easyonlineshop.rf.gd>
 maintainer: Fanofgk<http://easyonlineshop.rf.gd>
 has_tracking: false
 has_ads: false
 # donation is optional
-donation:
+donation: https://www.paypal.me/IDevik
 meta:
   tags: Dictionary; Medical Dictionary
   categories:
