@@ -1,0 +1,18 @@
+name: Roposo
+description: Made in India Short Videos app.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/rpsIdnLogo.png
+# screenshots are optional
+# screenshots:
+license: Proprietary
+download:
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/roposo.zip
+  version: "1.0.0.0"
+author:  Rk Tech Youtube<http://easyonlineshop.rf.gd>
+maintainer: Rk Tech Youtube<http://easyonlineshop.rf.gd>
+has_tracking: true
+has_ads: true
+meta:
+  tags: Roposo; Short Videos
+  categories:
+   - social
+type: privileged
