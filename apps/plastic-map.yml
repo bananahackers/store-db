@@ -1,0 +1,17 @@
+name: Plastic Map
+description: Download and view plastic maps (mbtiles) offline. Keep your markers organized.
+icon: https://gitlab.com/guide42/plastic-map/-/raw/master/app/PlasticMap_112.png
+license: ISC
+type: privileged
+git_repo: https://gitlab.com/guide42/plastic-map
+download:
+  url: https://gitlab.com/guide42/plastic-map/uploads/99b925b794ff4d6b2a73d0cac50e453f/plastic-map-v0.1.0.zip
+  version: "0.1.0"
+author: Juan M <http://jm.guide42.com>
+maintainer: Juan M <http://jm.guide42.com>
+has_tracking: false
+has_ads: false
+meta:
+  tags: map; maps; travel; opentopomap; openstreetmap; mbtiles;
+  categories:
+    - travel
