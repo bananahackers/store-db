@@ -1,0 +1,17 @@
+name: Here INFO
+description: About where you are here and now, rise and set hours, astronomical positions, moon age, and much more.
+icon: https://gitlab.com/guide42/hereinfo/-/raw/master/public/icons/icon112x112.png
+license: ISC
+type: packaged
+git_repo: https://gitlab.com/guide42/hereinfo
+download:
+  url: https://gitlab.com/guide42/hereinfo/uploads/633d0752312cee2f5be1bfc848c0c0b6/hereinfo-v0.1.0.zip
+  version: "0.1.0"
+author: Juan M <http://jm.guide42.com>
+maintainer: Juan M <http://jm.guide42.com>
+has_tracking: false
+has_ads: false
+meta:
+  tags: sunrise; sunset; goldenhour; moon; sun; day; night; clock; position;
+  categories:
+    - utility
