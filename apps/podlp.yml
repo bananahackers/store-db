@@ -9,14 +9,14 @@ screenshots:
   - "https://app.podlp.com/d/screenshot/podcast_play.png"
 website: "https://podlp.com"
 download:
-  url: "https://app.podlp.com/d/PodLP_1.0.2.zip"
-  version: "1.0.2"
+  url: "https://app.podlp.com/d/PodLP_1.0.3.zip"
+  version: "1.0.3"
 type: privileged
 license: Unknown
 author: Tom Barrasso <support@podlp.com>
 maintainer: Tom Barrasso <support@podlp.com>
 donation: "https://www.paypal.me/tbarrasso"
-has_ads: true
+has_ads: false
 has_tracking: true
 meta:
   tags: podcasts; audio; news; PodLP;
