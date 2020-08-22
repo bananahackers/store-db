@@ -1,0 +1,25 @@
+name: RSS Reader by N4NO
+description: RSS Reader is the best RSS reading application on KaiOS. This application is designed to work with small screens.
+
+icon: http://kaios.n4no.com/releases/rss-reader/icon.112x112.png
+# screenshots are optional
+screenshots:
+- http://kaios.n4no.com/releases/rss-reader/screenshot.1.png
+- http://kaios.n4no.com/releases/rss-reader/screenshot.2.png
+license: freeware
+# website is optional
+website: http://n4no.com/
+download:
+  url: http://kaios.n4no.com/releases/rss-reader/1.0.1.bh.0bf8afb7de9e4e8.zip
+  version: "1.0.1"
+author: perry<https://github.com/strukturart>
+maintainer: perry<https://github.com/strukturart>
+has_tracking: true
+has_ads: true
+# donation is optional
+donation: https://paypal.me/b4rtaz
+meta:
+  tags: news
+  categories:
+   - news
+type: packaged
