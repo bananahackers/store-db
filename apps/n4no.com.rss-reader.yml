@@ -12,8 +12,8 @@ website: http://n4no.com/
 download:
   url: http://kaios.n4no.com/releases/rss-reader/1.0.1.bh.0bf8afb7de9e4e8.zip
   version: "1.0.1"
-author: perry<https://github.com/strukturart>
-maintainer: perry<https://github.com/strukturart>
+author: b4rtaz<https://twitter.com/b4rtaz>
+maintainer: b4rtaz<https://twitter.com/b4rtaz>
 has_tracking: true
 has_ads: true
 # donation is optional
