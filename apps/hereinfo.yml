@@ -5,8 +5,8 @@ license: ISC
 type: packaged
 git_repo: https://gitlab.com/guide42/hereinfo
 download:
-  url: https://gitlab.com/guide42/hereinfo/uploads/633d0752312cee2f5be1bfc848c0c0b6/hereinfo-v0.1.0.zip
-  version: "0.1.0"
+  url: https://gitlab.com/guide42/hereinfo/uploads/c37491146250cff51a1071b37111876d/hereinfo-v0.2.0.zip
+  version: "0.2.0"
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
