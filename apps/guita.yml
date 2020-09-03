@@ -1,0 +1,17 @@
+name: Guita
+description: Manage your pocket money, simple.
+icon: https://gitlab.com/guide42/guita/-/raw/master/public/icons/icon112x112.png
+license: ISC
+type: packaged
+git_repo: https://gitlab.com/guide42/guita
+download:
+  url: https://gitlab.com/guide42/guita/uploads/c03eae096dc9a3861260542c2a9feaf1/guita-v0.1.0.zip
+  version: "0.1.0"
+author: Juan M <http://jm.guide42.com>
+maintainer: Juan M <http://jm.guide42.com>
+has_tracking: false
+has_ads: false
+meta:
+  tags: cash; money; finance; transactions;
+  categories:
+    - utility
