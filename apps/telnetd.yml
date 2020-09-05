@@ -1,0 +1,25 @@
+name: Telnetd
+description: The first root app for Nokia 8110 4G. 
+icon: https://lh3.googleusercontent.com/1ph5bO8YSOuO7ZmFn4bSPB78DfpRnE4ofq6r1HCje4NmL6oXjq7QojBwqraH1deyOcnYozjmxYwADGPkpUSn7TyQgKZ9nCS-c0Qwt8IRWGfSwsGarw=w1280
+# screenshots are optional
+# screenshots:
+  
+# website is optional
+# website: 
+# git repo is optional
+# git_repo: 
+download:
+  url: https://groups.google.com/group/bananahackers/attach/cff5882d389fb/telnetd.zip?part=0.5&authuser=0
+  version: 1.1.0
+type: root
+license: Unknown
+author: speeduploop
+maintainer: jkelol111
+# donation is optional
+# donation: 
+has_ads: false
+has_tracking: false
+meta:
+  tags: root, 8110, bananahackers, telnet, telnetd
+  categories:
+   - utility
