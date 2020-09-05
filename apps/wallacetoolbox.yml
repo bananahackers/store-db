@@ -1,0 +1,25 @@
+name: Wallace Toolbox
+description: Universal toolbox for KaiOS internal tweaking.
+icon: https://gitlab.com/suborg/wallace-toolbox/-/raw/master/img/werewolf-112.png?inline=false
+# screenshots are optional
+# screenshots:
+  
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://gitlab.com/suborg/wallace-toolbox
+download:
+  url: https://cloud.disroot.org/s/obk8K7QCb2LokE8/download 
+  version: 0.0.4
+type: root
+license: Unknown
+author: Luxferre/Suborg/Nihilist
+maintainer: jkelol111
+# donation is optional
+# donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: root, 8110, bananahackers, adb, reset, imei, mods, wallace
+  categories:
+   - utility
