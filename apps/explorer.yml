@@ -1,0 +1,22 @@
+name: Explorer
+description: A file explorer to share files with other apps. A fork of Explorer by Sebastián Rajo with a fresh code of paint for KaiOS.
+license: GPLv3
+icon: https://raw.githubusercontent.com/FabianOvrWrt/kaios-freshapps/master/Explorer_112.png
+screenshots:
+  - https://raw.githubusercontent.com/FabianOvrWrt/kaios-freshapps/master/Explorer.png
+git_repo: https://github.com/FabianOvrWrt/kaios-freshapps
+download:
+  url: https://github.com/FabianOvrWrt/kaios-freshapps/raw/master/Explorer.zip
+  version: "1.0"
+type: privileged
+license: GPLv3
+author: FabianOvrWrt
+maintainer: FabianOvrWrt
+donation: https://paypal.me/OvrWrt
+has_ads: false
+has_tracking: false
+meta:
+  tags: music; mp3; playlist; audio
+  categories:
+   - multimedia
+
