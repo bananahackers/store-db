@@ -9,7 +9,6 @@ download:
   url: https://github.com/FabianOvrWrt/kaios-freshapps/raw/master/Explorer.zip
   version: "1.0"
 type: privileged
-license: GPLv3
 author: FabianOvrWrt
 maintainer: FabianOvrWrt
 donation: https://paypal.me/OvrWrt

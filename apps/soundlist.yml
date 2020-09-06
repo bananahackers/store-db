@@ -1,6 +1,5 @@
 name: Soundlist
 description: Create temporary playlist of your favourite music. A fork of Folder Player by Andrea Magro with a fresh code of paint for KaiOS.
-license: GPLv3
 icon: https://raw.githubusercontent.com/FabianOvrWrt/kaios-freshapps/master/Soundlist_112.png
 screenshots:
   - https://raw.githubusercontent.com/FabianOvrWrt/kaios-freshapps/master/Soundlist1.png
