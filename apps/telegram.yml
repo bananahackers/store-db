@@ -1,8 +1,8 @@
 name: Telegram
 description: Telegram Messanger client
 icon: https://github.com/strukturart/telegram-kaios/blob/master/application/img/icons/icon120.png?raw=true
-screenshots:
- - https://github.com/strukturart/telegram-kaios/blob/master/application/img/icons/icon120.png?raw=true
+#screenshots:
+# - 
 license: GPLv3
 website: https://github.com/zhukov/webogram
 git_repo: https://github.com/zhukov/webogram
