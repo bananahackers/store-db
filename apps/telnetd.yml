@@ -1,6 +1,6 @@
 name: Telnetd
 description: The first root app for Nokia 8110 4G. 
-icon: https://lh3.googleusercontent.com/1ph5bO8YSOuO7ZmFn4bSPB78DfpRnE4ofq6r1HCje4NmL6oXjq7QojBwqraH1deyOcnYozjmxYwADGPkpUSn7TyQgKZ9nCS-c0Qwt8IRWGfSwsGarw=w1280
+icon: https://cdn.discordapp.com/attachments/604645847703093248/752699392594673724/telnetd.png
 # screenshots are optional
 # screenshots:
   
@@ -16,7 +16,7 @@ license: Unknown
 author: speeduploop
 maintainer: jkelol111
 # donation is optional
-# donation: 
+donation: https://paypal.me/speeduploop
 has_ads: false
 has_tracking: false
 meta:

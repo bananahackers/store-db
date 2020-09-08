@@ -1,6 +1,6 @@
 name: ADBroot
 description: An easier way to root Nokia 8110 4G.
-icon: https://lh5.googleusercontent.com/9ID77fPtR03Dl2Cc9pFMUzHd5l2-TgHLcm31bUsoeumDo1uEqfdkiY2fnHTRgrXfgkGgVaa1axxJp-dDjZ_F8uOV6JuVlnzrN0CtMGZxm4KknTRC0B1A=w1280
+icon: https://cdn.discordapp.com/attachments/604645847703093248/752699381022720101/adbroot.png
 # screenshots are optional
 # screenshots:
   
@@ -16,7 +16,7 @@ license: Unknown
 author: speeduploop
 maintainer: jkelol111
 # donation is optional
-# donation:
+donation: https://paypal.me/speeduploop
 has_ads: false
 has_tracking: false
 meta:
