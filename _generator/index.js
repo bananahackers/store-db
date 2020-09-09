@@ -197,13 +197,17 @@ async function main() {
         }
     }
 
+    const generated_at =  Date.now();
+
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
         $schema: "./schema.json",
         version: 1,
-        generated_at: Date.now(),
+        generated_at,
         categories,
         apps
     }, { spaces: DEBUG ? 1 : 0 })
+
+    await fs.writeFile(join(PUBLIC, 'lastUpdate.txt'), generated_at)
 
     await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
 
