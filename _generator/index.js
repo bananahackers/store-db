@@ -207,7 +207,7 @@ async function main() {
         apps
     }, { spaces: DEBUG ? 1 : 0 })
 
-    await fs.writeFile(join(PUBLIC, 'lastUpdate.txt'), generated_at)
+    await fs.writeFile(join(PUBLIC, 'lastUpdate.txt'), String(generated_at))
 
     await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
 
