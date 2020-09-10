@@ -1,0 +1,25 @@
+name: UsersWeather
+description: Fetch local weather information using wttr.in
+icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/update/icon-112-112.png
+# screenshots are optional
+screenshots: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/update/2020-08-12-15-54-57.png
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/user18130814200115-2/User-s-Weather
+download:
+  url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/release/weather.zip
+  version: "3.3.0"
+type: privileged
+license: MIT
+author: User18130814200115
+maintainer: User18130814200115
+# donation is optional
+# donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: weather
+  categories:
+   - news 
+   - utility
