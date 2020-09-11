@@ -1,6 +1,6 @@
 name: Simple Quran
 description: Read the Holy Quran in Arabic. Up/Down for going backward/forward and Left/Right for going backward/forward 10 ayahs.
-icon: https://notabug.org/bananaphone/simplequran/raw/master/icons/icon128x128.png
+icon: https://i.postimg.cc/zvNmrKbn/quran.png
 screenshots:
  - https://notabug.org/bananaphone/simplequran/raw/master/simplequran.png
 license: GPLv3
