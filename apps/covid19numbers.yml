@@ -1,6 +1,6 @@
 name: COVID-19 Numbers
 description: Track COVID-19 numbers and get info to protect yourself and others. Information is from WHO, we are not responsible for the accuracy of the information provided.
-icon: https://cutt.ly/GueadDd
+icon: https://raw.githubusercontent.com/jkelol111/kaios-covid19-numbers/master/src/icons/covid19info-112.png
 screenshots:
   - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/location.png
   - https://github.com/jkelol111/kaios-covid19-numbers/raw/master/screenshots/main.png
