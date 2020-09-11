@@ -1,5 +1,5 @@
-name: UsersWeather
-description: Fetch local weather information using wttr.in
+name: Users Weather
+description: A simple app that interfactes with wttr.in for local weather information and forecasts 
 icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/weather/assets/icons/icon-112-112.png
 # screenshots are optional
 screenshots:
@@ -9,9 +9,9 @@ screenshots:
 # git repo is optional
 git_repo: https://github.com/user18130814200115-2/User-s-Weather
 download:
-  url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/release/weather.zip
-  version: "3.3.0"
-type: privileged
+  url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/latest/weather.zip
+  version: "3.3.3"
+type: packaged
 license: MIT
 author: User18130814200115
 maintainer: User18130814200115
