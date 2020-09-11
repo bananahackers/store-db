@@ -1,6 +1,6 @@
 name: Fooplot
 description: Draws mathematical functions. Use variable x and sin(x),cos(x),etc for pre-defined functions. Use Call key to clear all what has been drawn
-icon: https://notabug.org/bananaphone/simplequran/raw/master/icons/icon128x128.png
+icon: https://i.postimg.cc/nzB8g0zF/fooplot.png
 screenshots:
  - https://notabug.org/bananaphone/fooplot/raw/master/fooplot.png
 license: GPLv3
