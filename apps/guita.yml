@@ -5,8 +5,8 @@ license: ISC
 type: packaged
 git_repo: https://gitlab.com/guide42/guita
 download:
-  url: https://gitlab.com/guide42/guita/uploads/c03eae096dc9a3861260542c2a9feaf1/guita-v0.1.0.zip
-  version: "0.1.0"
+  url: https://gitlab.com/guide42/guita/uploads/1cf3575433a9c425bebdf0f2d5857297/guita-v0.2.0.zip
+  version: "0.2.0"
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
