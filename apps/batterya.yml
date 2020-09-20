@@ -1,0 +1,24 @@
+name: Battery Info
+description: Shows Battery of your KaiOS devices.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/batteryinfo/batt.png
+# screenshots are optional
+# screenshots:
+license: Unknown
+# website is optional
+# website: https://cutt.ly/bhstore
+# git repo is optional
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/batteryinfo
+download:
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/batteryinfo/batteryv1.zip
+  version: "1.0"
+author:  Sylvain D<https://bananahackers.net>
+maintainer: Fanofgk<https://bananahackers.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+# donation: 
+meta:
+  tags: Battery; Battery Info
+  categories:
+   - utility
+type: privileged
