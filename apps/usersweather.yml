@@ -10,7 +10,7 @@ screenshots:
 git_repo: https://github.com/user18130814200115-2/User-s-Weather
 download:
   url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/latest/weather.zip
-  version: "3.3.3"
+  version: "4"
 type: packaged
 license: MIT
 author: User18130814200115
