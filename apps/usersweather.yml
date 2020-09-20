@@ -1,6 +1,6 @@
 name: Users Weather
 description: A simple app that interfactes with wttr.in for local weather information and forecasts 
-icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/weather/assets/icons/icon-112-112.png
+icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/weather/application/assets/icons/icon-112-112.png
 # screenshots are optional
 screenshots:
 - https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/2020-08-12-15-54-57.png
