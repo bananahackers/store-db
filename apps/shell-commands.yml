@@ -1,4 +1,9 @@
 name: shell-commands
+description: With this app you can execute saved shell commands. e.g . cUrl  regular downloads / uploads
+icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
+# screenshots are optional
+screenshots:
+- https://github.com/strukturart/shell-command/blob/master/images/screenshot1.png?raw=true
 description: With this app you can execute saved shell commands. e.g . regular downloads / uploads
 icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
 # screenshots are optional
