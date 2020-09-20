@@ -1,0 +1,25 @@
+name: Meditation
+description: Simple timer suitable for meditation.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/Medidation/bell-128.png
+# screenshots are optional
+# screenshots:
+license: Unknown
+# website is optional
+# website: https://cutt.ly/bhstore
+# git repo is optional
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/Medidation
+download:
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/Medidation/meditationvp2.zip
+  version: "1.0"
+author:  Sylvain D<https://bananahackers.net>
+maintainer: Fanofgk<https://bananahackers.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+# donation: 
+meta:
+  tags: Meditation; Timer
+  categories:
+    - utility
+    - health
+type: privileged
