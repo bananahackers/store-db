@@ -7,7 +7,7 @@ license: GPLv3
 website: https://github.com/zhukov/webogram
 git_repo: https://github.com/zhukov/webogram
 download:
-  url: https://github.com/strukturart/telegram-kaios/blob/master/build/Telegram.zip?raw=true
+  url: https://github.com/strukturart/telegram-kaios/releases/download/0.1/telegram_kaiOs.zip
   version: "1.0"
 author: Igor Zhukov <https://github.com/zhukov>
 maintainer:  <Igor Zhukov <https://github.com/zhukov>
