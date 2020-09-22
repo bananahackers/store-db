@@ -9,7 +9,7 @@ icon: https://gitlab.com/suborg/wallace-toolbox/-/raw/master/img/werewolf-112.pn
 # git repo is optional
 git_repo: https://gitlab.com/suborg/wallace-toolbox
 download:
-  url: https://cutt.ly/GfKwUnJ
+  url: https://gitlab.com/suborg/wallace-toolbox/uploads/00f74da910b22737749f0b095b92b81f/wallace-toolbox-current.zip
   version: 0.0.5
 type: root
 license: Unknown
