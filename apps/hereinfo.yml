@@ -5,13 +5,13 @@ license: ISC
 type: packaged
 git_repo: https://gitlab.com/guide42/hereinfo
 download:
-  url: https://gitlab.com/guide42/hereinfo/uploads/90d420627f7734aa641b50a526746bd0/hereinfo-v0.3.0.zip
-  version: "0.3.0"
+  url: https://gitlab.com/guide42/hereinfo/uploads/3089e1cf874d82a5d8d5b6e535694f89/hereinfo-v0.4.0.zip
+  version: "0.4.0"
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
 has_ads: false
 meta:
-  tags: sunrise; sunset; goldenhour; moon; sun; day; night; clock; position;
+  tags: sunrise; sunset; goldenhour; moon; moonphase; sun; day; night; clock; position; calendar; almanac; sundial;
   categories:
     - utility
