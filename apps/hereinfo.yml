@@ -12,6 +12,6 @@ maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
 has_ads: false
 meta:
-  tags: sunrise; sunset; goldenhour; moon; sun; day; night; clock; position;
+  tags: sunrise; sunset; goldenhour; moon; moonphase; sun; day; night; clock; position; calendar; almanac; sundial;
   categories:
     - utility
