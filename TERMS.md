@@ -1,4 +1,3 @@
-
 # Privacy Policy and Terms of use
 
 Your privacy is important to us, that's why we try to collect only the data that we need
@@ -12,7 +11,6 @@ We only link to the app packages, we don't host them ourselves so when downloadi
 
 ### Data that might be shared with third paries
 
-- IP address when browsing apps ([we plan on fixing that](https://gitlab.com/banana-hackers/store-db/-/issues/13))
 - IP address when downloading apps
 
 ### Download Counter and ratings
@@ -20,7 +18,8 @@ We only link to the app packages, we don't host them ourselves so when downloadi
 When using the app we fetch the download count for all apps from our ratings server.
 This request might be logged, but we don't explicitly store your ip address.
 
-When downloading apps a request to the download counter will be made to increase it, this request contains: 
+When downloading apps a request to the download counter will be made to increase it, this request contains:
+
 - The name of the downloaded app
 - the time of the download
 - The IP address of the user, but its not explicitly saved at the moment.
