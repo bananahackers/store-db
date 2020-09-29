@@ -15,8 +15,7 @@ type: packaged
 license: MIT
 author: User18130814200115
 maintainer: User18130814200115
-# donation is optional
-# donation:
+donation: https://github.com/user18130814200115-2/User-s-Weather/blob/master/Donations.md
 has_ads: false
 has_tracking: false
 meta:
