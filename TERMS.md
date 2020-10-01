@@ -7,7 +7,7 @@ to provide the service to you.
 
 We rely on gitlab pages for hosting the data, this service might store cookies and save your ip address (https://about.gitlab.com/privacy/)
 
-We only link to the app packages, we don't host them ourselves so when downloading apps you will download them from thirdparty servers who can then see your ip address.
+We **only link** to the app packages, we don't host them ourselves so when downloading apps you will download them from thirdparty servers who can then see your ip address.
 
 ### Data that might be shared with third paries
 
@@ -38,6 +38,8 @@ We try to label apps that have tracking and/or advertisement.
 
 This service is community maintained and provided on a best-effort basis.
 We try our best make sure the data is correct, but we do not give any warranties that the information is correct. Use this service on your own risk.
+
+By using this service you agree to **not** hold us accountable for any damages that might occur while using this service or from apps that were downloaded through this service. Again you use this service on your OWN RISK!
 
 ## Abuse
 
