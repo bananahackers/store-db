@@ -4,7 +4,7 @@ icon: https://raw.githubusercontent.com/derhagen/kaios-guitar-tuner/master/img/i
 # git repo is optional
 git_repo: https://github.com/derhagen/kaios-guitar-tuner
 download:
-  url: https://github.com/derhagen/kaios-guitar-tuner/releases/download/0.1.1/kaios-guitar-tuner-0.1.1-omnisd.zip
+  url: https://github.com/derhagen/kaios-guitar-tuner/releases/download/v0.1.1/kaios-guitar-tuner-0.1.1-omnisd.zip
   version: "0.1.1"
 type: privileged
 license: GPLv3
