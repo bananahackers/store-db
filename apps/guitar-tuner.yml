@@ -1,11 +1,11 @@
 name: Guitar Tuner 
 description: A simple Guitar Tuner
-icon: https://raw.githubusercontent.com/derhagen/kaios-guitar-tuner/master/img/icons/icon192x192.png
+icon: https://raw.githubusercontent.com/derhagen/kaios-guitar-tuner/master/img/icons/GuiTuner_112.png
 # git repo is optional
 git_repo: https://github.com/derhagen/kaios-guitar-tuner
 download:
-  url: https://github.com/derhagen/kaios-guitar-tuner/releases/download/v0.1.0/kaios-guitar-tuner-0.1.0-omnisd.zip
-  version: "0.1.0"
+  url: https://github.com/derhagen/kaios-guitar-tuner/releases/download/v0.1.1/kaios-guitar-tuner-0.1.1-omnisd.zip
+  version: "0.1.1"
 type: privileged
 license: GPLv3
 author: derhagen
@@ -13,6 +13,6 @@ maintainer: derhagen
 has_ads: false
 has_tracking: false
 meta:
-  tags: guitar; tuner; instrument; ukulele; tune
+  tags: guitar; tuner; instrument; ukulele; tune; music
   categories:
    - utility
