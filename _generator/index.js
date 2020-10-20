@@ -8,7 +8,7 @@ const HostPrefix = "banana-hackers.gitlab.io/store-db/"
 const PUBLIC = join(__dirname, '../public')
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
-const ALLOWED_IMAGE_EXTENTIONS = ['.png','.jpeg', '.jpg', '.gif']
+const ALLOWED_IMAGE_EXTENTIONS = ['.png','.jpeg', '.jpg', '.gif', '.svg']
 
 const DEBUG = process.env.ENV === "DEVELOPMENT"
 const ICONS_FOLDER = join(PUBLIC, 'icons')
