@@ -5,13 +5,13 @@ license: ISC
 type: privileged
 git_repo: https://gitlab.com/guide42/plastic-map
 download:
-  url: https://gitlab.com/guide42/plastic-map/uploads/6204f18e56f8d060dd6fb6cf854fb5dc/plastic-map-v0.2.0.zip
-  version: "0.2.0"
+  url: https://gitlab.com/guide42/plastic-map/uploads/2847e70de38330b75b28703a8a627d19/plastic-map-v0.3.0.zip
+  version: "0.3.0"
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
 has_ads: false
 meta:
-  tags: map; maps; travel; opentopomap; openstreetmap; mbtiles;
+  tags: map; maps; travel; opentopomap; openstreetmap; mbtiles; compass;
   categories:
     - travel
