@@ -12,6 +12,6 @@ maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false
 has_ads: false
 meta:
-  tags: map; maps; travel; opentopomap; openstreetmap; mbtiles;
+  tags: map; maps; travel; opentopomap; openstreetmap; mbtiles; compass;
   categories:
     - travel
