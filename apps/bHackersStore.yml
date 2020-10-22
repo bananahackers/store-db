@@ -14,9 +14,9 @@ download:
   version: "0.8"
 author: perry<https://github.com/strukturart>
 maintainer:  
-  - perry<https://github.com/strukturart>
-  - 40min<https://github.com/Simon-Laux>
-  - shangul<https://github.com/farooqkz>
+ - perry<https://github.com/strukturart>
+ - 40min<https://github.com/Simon-Laux>
+ - shangul<https://github.com/farooqkz>
 has_tracking: true
 has_ads: false
 donation: https://paypal.me/strukturart
