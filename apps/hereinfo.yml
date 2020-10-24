@@ -4,6 +4,10 @@ icon: https://gitlab.com/guide42/hereinfo/-/raw/master/public/icons/icon112x112.
 license: ISC
 type: packaged
 git_repo: https://gitlab.com/guide42/hereinfo
+screenshots:
+  - https://gitlab.com/guide42/hereinfo/-/raw/master/docs/today.png?inline=false
+  - https://gitlab.com/guide42/hereinfo/-/raw/master/docs/moon.png?inline=false
+  - https://gitlab.com/guide42/hereinfo/-/raw/master/docs/sun.png?inline=false
 download:
   url: https://gitlab.com/guide42/hereinfo/uploads/a068c53705bd53f09eaf558d69e9d05b/hereinfo-v0.5.0.zip
   version: "0.5.0"
