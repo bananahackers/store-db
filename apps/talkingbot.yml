@@ -1,0 +1,23 @@
+name: Talking bot
+description: This is a stupid talking bot. Hold call key and talk(up to 10 seconds). Then wait up to ~30 seconds for a response from your phone(it will talk!). Donations are welcome, especially a server to host the API which is currently hosted on Heroku using a free account.
+icon: https://notabug.org/bananaphone/talkingbot/raw/master/icon.svg
+screenshots:
+  - https://notabug.org/bananaphone/talkingbot/raw/master/screenshot.png
+license: ISC
+website: https://notabug.org/bananaphone/talkingbot
+git_repo: https://notabug.org/bananaphone/talkingbot
+download:
+  url: https://notabug.org/attachments/166b4485-3614-43b2-8766-4f1f6639d8da
+  version: "1.0"
+author: Farooq Karimi Zadeh <hapu@riseup.net>
+maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+donation: http://far.chickenkiller.com/pages/donate.html
+meta:
+  tags: fun; AI; chatbot; talkbot; entertainment; talking bot;
+  categories: 
+   - games
+   - multimedia
+type: packaged
