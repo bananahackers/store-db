@@ -5,6 +5,8 @@ cache:
     - node_modules/
 
 pages:
+  variables:
+    HOST_PREFIX: "banana-hackers.gitlab.io/store-db/"
   script:
     - cd _generator
     - npm ci
@@ -16,6 +18,8 @@ pages:
     - master
 
 test:
+  variables:
+    HOST_PREFIX: "banana-hackers.gitlab.io/store-db/"
   script:
     - cd _generator
     - npm ci
