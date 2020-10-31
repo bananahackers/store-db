@@ -1,6 +1,6 @@
 name: Zipper
 description: Zip and unzip files on your device. There is no internet connection needed!
-icon: https://raw.githubusercontent.com/canicjusz/Zipper/master/minified/img/icons/Zipper_128.png
+icon: https://raw.githubusercontent.com/canicjusz/Zipper/master/zipper_128.png
 # screenshots are optional
 # screenshots:
 # website is optional
@@ -9,9 +9,9 @@ icon: https://raw.githubusercontent.com/canicjusz/Zipper/master/minified/img/ico
 git_repo: https://github.com/canicjusz/Zipper
 download:
   url: https://github.com/canicjusz/Zipper/blob/master/Zipper.zip?raw=true
-  version: "1.0.0"
+  version: "1.1.0"
 type: privileged
-license: Unknown
+license: WTFPL
 author: Jan Michalak <janmichalak@int.pl>
 maintainer: Jan Michalak <janmichalak@int.pl>
 # donation is optional
