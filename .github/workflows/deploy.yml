@@ -1,0 +1,40 @@
+name: Deploy to Pages
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: install dependencies
+        run: |
+         cd _generator
+         npm ci
+
+      - name: build site
+        run: |
+         cd _generator
+         node .
+        env:
+          HOST_PREFIX: "bananahackers.github.io/store-db/"
+
+      - name: Log files
+        run: ls public
+      
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch

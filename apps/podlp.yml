@@ -1,0 +1,25 @@
+name: PodLP
+description: Discover, listen, download, and subscribe to podcasts both online and offline.
+icon: "https://app.podlp.com/d/podlp-logo-144.png"
+screenshots:
+  - "https://app.podlp.com/d/screenshot/home.png"
+  - "https://app.podlp.com/d/screenshot/podcast_details.png"
+  - "https://app.podlp.com/d/screenshot/episode_details.png"
+  - "https://app.podlp.com/d/screenshot/episode_download.png"
+  - "https://app.podlp.com/d/screenshot/podcast_play.png"
+website: "https://podlp.com"
+download:
+  url: "https://app.podlp.com/d/PodLP_1.3.3.0.zip"
+  version: "1.3.3"
+type: privileged
+license: Unknown
+author: Tom Barrasso <support@podlp.com>
+maintainer: Tom Barrasso <support@podlp.com>
+donation: "https://www.paypal.me/tbarrasso"
+has_ads: false
+has_tracking: true
+meta:
+  tags: podcasts; audio; news; PodLP;
+  categories:
+   - news
+   - multimedia

@@ -1,0 +1,25 @@
+name: Users Weather
+description: A simple app that interfactes with wttr.in for local weather information and forecasts 
+icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/weather/application/assets/icons/icon-112-112.png
+# screenshots are optional
+screenshots:
+- https://raw.githubusercontent.com/user18130814200115-2/User-s-Weather/master/2020-08-12-15-54-57.png
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/user18130814200115-2/User-s-Weather
+download:
+  url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/latest/weather.zip
+  version: "4.3"
+type: packaged
+license: MIT
+author: User18130814200115
+maintainer: User18130814200115
+donation: https://github.com/user18130814200115-2/User-s-Weather/blob/master/Donations.md
+has_ads: false
+has_tracking: false
+meta:
+  tags: weather
+  categories:
+   - news 
+   - utility

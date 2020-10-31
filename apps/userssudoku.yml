@@ -1,0 +1,24 @@
+name: Users Sudoku
+description: A simple one-screen sudoku player with intergrated checking and 400 sudoku's from gnome-sudokus
+icon: https://github.com/user18130814200115-2/User-s-sudoku/blob/main/sudoku/assets/icons/icon-112-122.png?raw=true
+# screenshots are optional
+screenshots:
+- https://github.com/user18130814200115-2/User-s-sudoku/blob/main/screenshot.png?raw=true
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/user18130814200115-2/User-s-sudoku
+download:
+  url: https://github.com/user18130814200115-2/User-s-sudoku/releases/download/Latest/userssudoku.zip
+  version: "1.0"
+type: packaged
+license: MIT
+author: User18130814200115
+maintainer: User18130814200115
+donation: https://github.com/user18130814200115-2/User-s-Weather/blob/master/Donations.md
+has_ads: false
+has_tracking: false
+meta:
+  tags: sudoku; games;
+  categories:
+   - games

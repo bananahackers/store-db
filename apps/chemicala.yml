@@ -1,0 +1,24 @@
+name: ChemicalAid
+description: Chemical reaction, a process in which one or more substances, the reactants, are converted to one or more different substances, the products. Substances are either chemical elements or compounds.
+icon: https://gitlab.com/musky603/bh-apps/-/raw/master/chemicalaid/ChemicalAid84.png
+# screenshots are optional
+# screenshots:
+license: Unknown
+# website is optional
+# website:
+# git repo is optional
+git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/chemicalaid
+download:
+  url: https://gitlab.com/musky603/bh-apps/-/raw/master/chemicalaid/ChemicalAid.zip
+  version: "1.0"
+author:  S Aronno<https://bananahackers.net>
+maintainer: S Aronno<https://bananahackers.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+# donation: 
+meta:
+  tags: chemical; equations
+  categories:
+    - education
+type: privileged

@@ -1,0 +1,24 @@
+name: Xkcd Viewer
+description: A simple comic viewer for xkcd.
+icon: https://raw.githubusercontent.com/aaronrolls/kaios/master/xkcd%20viewer/source/icons/icon112x112.png
+# screenshots are optional
+# screenshots:
+license: Unknown
+# website is optional
+website: https://xkcd.com/
+# git repo is optional
+git_repo: https://github.com/aaronrolls/kaios/tree/master/xkcd%20viewer
+download:
+  url: https://github.com/aaronrolls/kaios/blob/master/xkcd%20viewer/versions/0.0.2/xkcd%20viewer.zip?raw=true
+  version: "0.0.2"
+author:  Aaron Rolls<https://bananahackers.net>
+maintainer: Aaron Rolls<https://bananahackers.net>
+has_tracking: false
+has_ads: false
+# donation is optional
+# donation: 
+meta:
+  tags: xkcd; comics
+  categories:
+    - utility
+type: weblink

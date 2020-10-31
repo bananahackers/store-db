@@ -43,10 +43,11 @@ description: This is just an example app, it does nothing special.
 
 ### .icon
 
-Url of an png icon of the app.
+Url of an png, jpeg or gif icon of the app.
 ```yaml
 icon: "https://app.example.com/icon.png"
 ```
+this url can't be shortened because it must include `.png`, `.jpeg` or `.gif` at the end
 
 ### .download
 An object that contains a url to the app and the version it is in.
@@ -120,6 +121,7 @@ screenshots:
   - "https://raw.githubusercontent.com/strukturart/osm-map/master/images/image-3.png"
   - "https://raw.githubusercontent.com/strukturart/osm-map/master/images/image-4.png"
 ```
+this urls can't be shortened because they must include `.png`, `.svg`, `.jpeg` or `.gif` at the end
 
 ### .website (optional)
 Link to the website of the app (if it has one)

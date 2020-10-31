@@ -1,6 +1,6 @@
 name: Simple Quran
 description: Read the Holy Quran in Arabic. Up/Down for going backward/forward and Left/Right for going backward/forward 10 ayahs.
-icon: https://notabug.org/bananaphone/simplequran/raw/master/icons/icon128x128.png
+icon: https://i.postimg.cc/zvNmrKbn/quran.png
 screenshots:
  - https://notabug.org/bananaphone/simplequran/raw/master/simplequran.png
 license: GPLv3
@@ -14,7 +14,7 @@ maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
 has_tracking: false
 has_ads: false
 # donation is optional
-donation: http://bitcoinshell.mooo.com/users/farooqkz/donate.html
+donation: http://far.chickenkiller.com/pages/donate.html
 meta:
   tags: quran; koran; islam; islamic-software; quran study tool; study tool;
   categories: 
