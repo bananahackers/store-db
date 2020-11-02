@@ -1,0 +1,19 @@
+name: Caching on Kai
+description: Go out and geocache on the KaiOS platform! Not an official app from geocaching.com, but does require a valid account on geocaching.com 
+license: GPLv3
+icon: https://raw.githubusercontent.com/canyouswim/Caching-on-Kai/master/assets/icons/icons8-geocaching-112.png
+git_repo: https://github.com/canyouswim/Caching-on-Kai
+download:
+  url: https://github.com/canyouswim/Caching-on-Kai/archive/master.zip
+  version: "0.5"
+type: privileged
+author: CanYouSwim
+maintainer: CanYouSwim
+has_ads: false
+has_tracking: false
+meta:
+  tags: geocaching; gps;
+  categories:
+   - games
+   - travel
+
