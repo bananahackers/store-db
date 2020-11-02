@@ -13,7 +13,7 @@ download:
   url: https://github.com/strukturart/bHacker-store-client/releases/download/0.8/bhacker-store.zip
   version: "0.8"
 author: perry<https://github.com/strukturart>
-maintainer: perry<https://github.com/strukturart>, 40min<https://github.com/Simon-Laux>, shangul<https://github.com/farooqkz>
+maintainer: perry<https://github.com/strukturart>, 40min<https://github.com/Simon-Laux>, Farooq Karimi Zadeh<fkz@riseup.net>
 has_tracking: true
 has_ads: false
 donation: https://paypal.me/strukturart
