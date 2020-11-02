@@ -113,6 +113,14 @@ link to license, name of opensource license or `Unknown`
 license: MIT
 ```
 
+> **IMPORTANT NOTE (for app owners):** 
+> While it is possible to choose licence of an app `Unknown` it is highly
+> recommended that you choose a licence for your app, preferably a FOSS one.
+> **Why?** Because if you don't and according to [Berne convention](https://en.wikipedia.org/wiki/Berne_Convention)
+> your app will be closed source and propiety which no one else can re-distribute or change
+> **even if you release its source code** on Github or Gitlab or anywhere else.
+{: .alert .alert-danger}
+
 ### .screenshots (optional)
 Array of screenshots from the app running on a device.
 ```yaml
