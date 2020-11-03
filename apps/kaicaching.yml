@@ -4,7 +4,7 @@ license: GPLv3
 icon: https://raw.githubusercontent.com/canyouswim/Caching-on-Kai/master/assets/icons/icons8-geocaching-112.png
 git_repo: https://github.com/canyouswim/Caching-on-Kai
 download:
-  url: https://github.com/canyouswim/Caching-on-Kai/blob/master/build/caching-on-kai.zip
+  url: https://github.com/canyouswim/Caching-on-Kai/raw/master/build/caching-on-kai.zip
   version: "1.0.1"
 type: privileged
 author: CanYouSwim
