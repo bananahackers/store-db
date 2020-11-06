@@ -1,6 +1,6 @@
 name: Flashcards
-description: Create decks, flaschards, review them or train in quick ~1 minute sessions.
-icon: https://raw.githubusercontent.com/canicjusz/flashcards/master/minified/img/icons/flashcards_112.png
+description: Create decks, flaschards and review them using spaced repetition system.
+icon: https://raw.githubusercontent.com/canicjusz/flashcards/master/flashcards_112.png
 # screenshots are optional
 # screenshots:
 # website is optional
@@ -8,12 +8,12 @@ icon: https://raw.githubusercontent.com/canicjusz/flashcards/master/minified/img
 # git repo is optional
 git_repo: https://github.com/canicjusz/flashcards
 download:
-  url: https://github.com/canicjusz/flashcards/raw/master/flashcards.zip
-  version: "1.0.0"
+  url: https://github.com/canicjusz/flashcards/blob/master/flashcards.zip?raw=true
+  version: "1.1.0"
 type: privileged
-license: Unknown
-author: Canicjusz <janmichalak@int.pl>
-maintainer: Canicjusz <janmichalak@int.pl>
+license: WTFPL
+author: Jan Michalak <janmichalak@int.pl>
+maintainer: Jan Michalak <janmichalak@int.pl>
 # donation is optional
 # donation:
 has_ads: false
