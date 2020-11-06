@@ -1,0 +1,24 @@
+name: 10000h
+description: Strengthen your skills with 10000 hours rule.
+icon: https://raw.githubusercontent.com/canicjusz/10000h/master/minified/img/icons/10000h_112.png
+# screenshots are optional
+# screenshots:
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/canicjusz/10000h
+download:
+  url: https://github.com/canicjusz/10000h/raw/master/10000h.zip
+  version: "1.0.0"
+type: privileged
+license: WTFPL
+author: Jan Michalak <janmichalak@int.pl>
+maintainer: Jan Michalak <janmichalak@int.pl>
+# donation is optional
+# donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: self-development; self-impovement
+  categories:
+   - utility
