@@ -88,7 +88,9 @@ Who maintains and packaged the app package that is referenced in `.download`.
 Most of the time this is the same person/group/organisation as the author, 
 but it differs when for example the store brings out a patched version of WhatsApp. 
 ```yaml
-maintainer: Maria Mustermann <m1997@example.com>
+maintainer: 
+  - Maria Mustermann <m1997@example.com>
+  - Tonka Pinkuy <tp@example.com>
 ```
 
 ### .meta
