@@ -76,7 +76,12 @@
                         "type": "string"
                     },
                     "maintainer": {
-                        "type": "string"
+                        "type": "array",
+                        "items": [
+                                    {
+                                        "type": "string"
+                                    }
+                                ]
                     },
                     "meta": {
                         "type": "object",
