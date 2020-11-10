@@ -3,6 +3,7 @@ const yaml = require('js-yaml')
 const { join, extname } = require('path')
 const isUrl = require('is-url-superb')
 const { http, https } = require('follow-redirects');
+var Ajv = require('ajv');
 
 const HostPrefix = process.env["HOST_PREFIX"]
 if(!HostPrefix){
@@ -245,6 +246,8 @@ async function main() {
             const yaml_content = await fs.readFile(join(APPS, file), 'utf-8')
             const appData = yaml.load(yaml_content)
             validate_apps(appData, Object.keys(categories))
+            console.log(typeof appData.author, appData.author);
+            
             appData.slug = file.replace(/.ya?ml/, "")
             // download icon
             download_queu.push(
@@ -273,6 +276,19 @@ async function main() {
         categories,
         apps
     }, { spaces: DEBUG ? 1 : 0 })
+
+    if(success){
+        // Validate that data.json is compliant with schema.json
+        console.log("Validate that data.json")
+        var ajv = new Ajv(); // options can be passed, e.g. {allErrors: true}
+        var validate = ajv.compile(await fs.readJSON(join(__dirname, 'schema.json')));
+        var valid = validate(await fs.readJSON(join(PUBLIC, 'data.json'), 'utf-8'));
+        if (!valid) {
+            console.log("validation error:", validate.errors)
+            success = false
+        };
+        console.log("Validation of data.json done")
+    }
 
     await fs.writeFile(join(PUBLIC, 'lastUpdate.txt'), String(generated_at))
 
