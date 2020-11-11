@@ -57,9 +57,12 @@ function validate_apps(appData, availibleCategories) {
     if (isEmpty(appData.author)) {
         error("Author is missing")
     }
-
     if (isEmpty(appData.maintainer)) {
         error("Maintainer is missing")
+        if(!Array.isArray(appData.maintainer))
+        {
+         error("Maintainer must be an array")
+        }
     }
 
 
