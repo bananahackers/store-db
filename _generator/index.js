@@ -61,7 +61,8 @@ function validate_apps(appData, availibleCategories) {
         error("Maintainer is missing")
         if(!Array.isArray(appData.maintainer))
         {
-         error("Maintainer must be an array")
+            let appData.maintainer = appData.maintainer.split('');
+         //error("Maintainer must be an array")
         }
     }
 
