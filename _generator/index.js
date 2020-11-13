@@ -70,9 +70,11 @@ function validate_apps(appData, availibleCategories) {
   
         }
     }
-    else if (isEmpty(appData.maintainer) {
+
+    if (isEmpty(appData.maintainer)) {
         error("Maintainer is missing")
     }
+  
     
 
     if (appData.meta) {
