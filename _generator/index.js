@@ -235,10 +235,11 @@ async function main() {
             const yaml_content = await fs.readFile(join(CATEGORIES, file), 'utf-8')
             const data = yaml.load(yaml_content)
             validate_category(data)
+            categories[file.replace(/.ya?ml/, "")] = data
+
             if(!Array.isArray(appData.maintainer)){
                 appData.maintainer = [appData.maintainer]
             }
-            categories[file.replace(/.ya?ml/, "")] = data
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
             success = false
