@@ -62,15 +62,16 @@ function validate_apps(appData, availibleCategories) {
         if(appData.maintainer.includes(undefined))
         {
             error("Maintainer array contains an empty element") 
-        };
+        }
     //check that all elements of the array are strings
         if(!appData.maintainer.every(i => (typeof i === "string")))
         {
             error("maintainer not all elements are strings") 
   
         }
-    } else if (isEmpty(appData.maintainer) {
-        error("Maintainer is missing")
+        else if (isEmpty(appData.maintainer) {
+            error("Maintainer is missing")
+        }
     }
 
     if (appData.meta) {
