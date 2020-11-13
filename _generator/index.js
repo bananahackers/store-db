@@ -69,10 +69,11 @@ function validate_apps(appData, availibleCategories) {
             error("maintainer not all elements are strings") 
   
         }
-        else if (isEmpty(appData.maintainer) {
-            error("Maintainer is missing")
-        }
     }
+    else if (isEmpty(appData.maintainer) {
+        error("Maintainer is missing")
+    }
+    
 
     if (appData.meta) {
         if (isEmpty(appData.meta.tags)) {
