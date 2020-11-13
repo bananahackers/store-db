@@ -57,15 +57,21 @@ function validate_apps(appData, availibleCategories) {
     if (isEmpty(appData.author)) {
         error("Author is missing")
     }
-    if (isEmpty(appData.maintainer)) {
-        error("Maintainer is missing")
-        if(!Array.isArray(appData.maintainer))
+    if (Array.isArray(appData.maintainer)) {
+    //check that the array has atleast one non empty element
+        if(appData.maintainer.includes(undefined))
         {
-            let appData.maintainer = appData.maintainer.split('');
-         //error("Maintainer must be an array")
+            error("Maintainer array contains an empty element") 
+        };
+    //check that all elements of the array are strings
+        if(!appData.maintainer.every(i => (typeof i === "string")))
+        {
+            error("maintainer not all elements are strings") 
+  
         }
+    } else if (isEmpty(appData.maintainer) {
+        error("Maintainer is missing")
     }
-
 
     if (appData.meta) {
         if (isEmpty(appData.meta.tags)) {
@@ -225,6 +231,9 @@ async function main() {
             const yaml_content = await fs.readFile(join(CATEGORIES, file), 'utf-8')
             const data = yaml.load(yaml_content)
             validate_category(data)
+            if(!Array.isArray(appData.maintainer)){
+                appData.maintainer = [appData.maintainer]
+            }
             categories[file.replace(/.ya?ml/, "")] = data
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
