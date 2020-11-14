@@ -278,7 +278,14 @@ async function main() {
                 download_screenshots(appData.slug, appData.screenshots || [])
             )
             appData.screenshots = paths_to_downloaded_screenshots(appData.slug, appData.screenshots || [])
+
+            //convert maintainer to array
+            if(!Array.isArray(appData.maintainer)){
+                appData.maintainer = [appData.maintainer]
+            }
+            
             // add app to dataset
+
             apps.push(appData)
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
