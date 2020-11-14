@@ -76,7 +76,8 @@
                         "type": "string"
                     },
                     "maintainer": {
-                        "type": "string"            
+                        "type": ["array","string"]   
+                                  
                     },
                     "meta": {
                         "type": "object",
