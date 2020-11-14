@@ -76,12 +76,8 @@
                         "type": "string"
                     },
                     "maintainer": {
-                        "type": "array",
-                        "items": [
-                                    {
-                                        "type": "string"
-                                    }
-                                ]
+                        "type": ["array","string"]   
+                                  
                     },
                     "meta": {
                         "type": "object",

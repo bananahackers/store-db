@@ -57,11 +57,25 @@ function validate_apps(appData, availibleCategories) {
     if (isEmpty(appData.author)) {
         error("Author is missing")
     }
+    if (Array.isArray(appData.maintainer)) {
+    //check that the array has atleast one non empty element
+        if(appData.maintainer.includes(undefined))
+        {
+            error("Maintainer array contains an empty element") 
+        }
+    //check that all elements of the array are strings
+        if(!appData.maintainer.every(i => (typeof i === "string")))
+        {
+            error("maintainer not all elements are strings") 
+  
+        }
+    }
 
     if (isEmpty(appData.maintainer)) {
         error("Maintainer is missing")
     }
-
+  
+    
 
     if (appData.meta) {
         if (isEmpty(appData.meta.tags)) {
@@ -222,6 +236,11 @@ async function main() {
             const data = yaml.load(yaml_content)
             validate_category(data)
             categories[file.replace(/.ya?ml/, "")] = data
+/*
+            if(!Array.isArray(appData.maintainer)){
+                appData.maintainer = [appData.maintainer]
+            }
+            */
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
             success = false
@@ -259,7 +278,14 @@ async function main() {
                 download_screenshots(appData.slug, appData.screenshots || [])
             )
             appData.screenshots = paths_to_downloaded_screenshots(appData.slug, appData.screenshots || [])
+
+            //convert maintainer to array
+            if(!Array.isArray(appData.maintainer)){
+                appData.maintainer = [appData.maintainer]
+            }
+            
             // add app to dataset
+
             apps.push(appData)
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
