@@ -76,10 +76,7 @@
                         "type": "string"
                     },
                     "maintainer": {
-                        "type": "array",
-                        "items": {
-                                    "type": "string"
-                                }       
+                        "type": "string"            
                     },
                     "meta": {
                         "type": "object",
