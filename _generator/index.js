@@ -236,10 +236,11 @@ async function main() {
             const data = yaml.load(yaml_content)
             validate_category(data)
             categories[file.replace(/.ya?ml/, "")] = data
-
+/*
             if(!Array.isArray(appData.maintainer)){
                 appData.maintainer = [appData.maintainer]
             }
+            */
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
             success = false
