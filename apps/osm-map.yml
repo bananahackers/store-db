@@ -16,7 +16,7 @@ license: MIT
 # git repo is optional
 git_repo: https://github.com/strukturart/osm-map
 download:
-  url: https://github.com/strukturart/osm-map/raw/master/build/osm-map.zip
+  url: https://github.com/canyouswim/Caching-on-Kai/releases/latest/download/osm-map.zip
   version: "1.1.0"
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
