@@ -1,0 +1,25 @@
+
+name: Users Tetris
+description: A simple one-screen tetris player
+icon: https://raw.githubusercontent.com/user18130814200115-2/User-s-Tetris/v1.0/src/application/assets/icons/icon-112-112.png
+# screenshots are optional
+screenshots:
+- https://raw.githubusercontent.com/user18130814200115-2/User-s-Tetris/main/2020-11-12-22-27-39.png
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/user18130814200115-2/User-s-Tetris
+download:
+  url: https://github.com/user18130814200115-2/User-s-Tetris/releases/download/latest/tetris.zip
+  version: "1.0"
+type: packaged
+license: MIT
+author: User18130814200115
+maintainer: User18130814200115
+donation: https://github.com/user18130814200115-2/User-s-Weather/blob/master/Donations.md
+has_ads: false
+has_tracking: false
+meta:
+  tags: tetris; games;
+  categories:
+   - games
