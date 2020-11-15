@@ -58,16 +58,15 @@ function validate_apps(appData, availibleCategories) {
         error("Author is missing")
     }
     if (Array.isArray(appData.maintainer)) {
-    //check that the array has atleast one non empty element
+        //check that the array has atleast one non empty element
         if(appData.maintainer.includes(undefined))
         {
-            error("Maintainer array contains an empty element") 
+            error("Maintainer array contains an empty element")
         }
-    //check that all elements of the array are strings
+        //check that all elements of the array are strings
         if(!appData.maintainer.every(i => (typeof i === "string")))
         {
-            error("maintainer not all elements are strings") 
-  
+            error("maintainer not all elements are strings")
         }
     }
 
@@ -236,11 +235,6 @@ async function main() {
             const data = yaml.load(yaml_content)
             validate_category(data)
             categories[file.replace(/.ya?ml/, "")] = data
-/*
-            if(!Array.isArray(appData.maintainer)){
-                appData.maintainer = [appData.maintainer]
-            }
-            */
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
             success = false
@@ -297,7 +291,7 @@ async function main() {
 
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
         $schema: "./schema.json",
-        version: 1,
+        version: 2,
         generated_at,
         categories,
         apps

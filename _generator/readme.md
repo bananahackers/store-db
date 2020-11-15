@@ -6,7 +6,7 @@ Before starting it you need to go into this directory and install its dependenci
 
 To start the generation run:
 
-```
+```sh
 HOST_PREFIX="banana-hackers.gitlab.io/store-db/" node index.js
 ```
 
