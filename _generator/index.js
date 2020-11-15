@@ -54,28 +54,24 @@ function validate_apps(appData, availibleCategories) {
         error("Download field missing")
     }
 
-    if (isEmpty(appData.author)) {
+    if (Array.isArray(appData.author)) {
+        //check that all elements of the array are strings
+        if(!appData.author.every(i => (i && typeof i === "string"))) {
+            error("Author/s invalid: not all elements are strings")
+        }
+    } else if (isEmpty(appData.author)) {
         error("Author is missing")
     }
-    if (Array.isArray(appData.maintainer)) {
-        //check that the array has atleast one non empty element
-        if(appData.maintainer.includes(undefined))
-        {
-            error("Maintainer array contains an empty element")
-        }
-        //check that all elements of the array are strings
-        if(!appData.maintainer.every(i => (typeof i === "string")))
-        {
-            error("maintainer not all elements are strings")
-        }
-    }
 
-    if (isEmpty(appData.maintainer)) {
+    if (Array.isArray(appData.maintainer)) {
+        //check that all elements of the array are strings
+        if(!appData.maintainer.every(i => (i && typeof i === "string"))) {
+            error("Maintainer/s invalid: not all elements are strings")
+        }
+    } else if (isEmpty(appData.maintainer)) {
         error("Maintainer is missing")
     }
   
-    
-
     if (appData.meta) {
         if (isEmpty(appData.meta.tags)) {
             error("meta.tags missing")
@@ -276,6 +272,10 @@ async function main() {
             //convert maintainer to array
             if(!Array.isArray(appData.maintainer)){
                 appData.maintainer = [appData.maintainer]
+            }
+            //convert author to array
+            if(!Array.isArray(appData.author)){
+                appData.author = [appData.author]
             }
             
             // add app to dataset

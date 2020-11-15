@@ -73,12 +73,15 @@
                         ]
                     },
                     "author": {
-                        "type": "string"
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "maintainer": {
                         "type": "array",
                         "items": {
-                          "type": "string"
+                            "type": "string"
                         }
                     },
                     "meta": {
