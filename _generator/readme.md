@@ -6,7 +6,7 @@ Before starting it you need to go into this directory and install its dependenci
 
 To start the generation run:
 
-```
+```sh
 HOST_PREFIX="banana-hackers.gitlab.io/store-db/" node index.js
 ```
 
@@ -51,3 +51,4 @@ Then sumbit a merge request containing everything that is needed for such a chan
   - make sure you have also updated `_generator/schema.json` to document your change.
   - **If** the change is incompatible (for example removed a property, changed type of property, (re)moved files) with older clients:
     - increase the `data.json`- version number by 1 (you can need to adjust that number inside of `index.js`)
+        - document your change in `_generator/data-json-changelog.md` and notify the client developers that they should support the new format BEFORE MERGING your PR.

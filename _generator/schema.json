@@ -73,11 +73,16 @@
                         ]
                     },
                     "author": {
-                        "type": "string"
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "maintainer": {
-                        "type": ["array","string"]   
-                                  
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "meta": {
                         "type": "object",
