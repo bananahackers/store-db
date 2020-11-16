@@ -1,0 +1,21 @@
+name: Topo Map
+description: Topo Map is an OpenStreetMap app for KaiOS devices.  It uses OpenTopoMap with hill shading and contour lines.
+icon: https://raw.githubusercontent.com/user18130814200115-2/Topo-Map/master/application/icons/icon-112-112.png
+screenshots:
+- https://raw.githubusercontent.com/user18130814200115-2/Topo-Map/master/topo1.png
+- https://raw.githubusercontent.com/user18130814200115-2/Topo-Map/master/topo2.png
+git_repo: https://github.com/GP4Flo/Topo-Map
+download:
+  url: https://github.com/user18130814200115-2/Topo-Map/releases/download/latest/topomap.zip
+  version: "1.0.4"
+type: packaged
+license: MIT
+author: GP4Flo
+maintainer: User18130814200115
+has_ads: false
+has_tracking: false
+meta:
+  tags: map; osm;
+  categories:
+   - utility
+   - travel
