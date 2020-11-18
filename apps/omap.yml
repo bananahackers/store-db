@@ -4,19 +4,19 @@ description: >
   This app is a good companion for your outdoor adventures. 
   You can load different types of maps, set your own markers, import gpx / geojson files 
   or send your position to friends and a few other helpful features.
-icon: https://raw.githubusercontent.com/strukturart/osm-map/master/images/logo.png
+icon: https://raw.githubusercontent.com/strukturart/o.map/master/images/logo.png
 # screenshots are optional
 screenshots:
-  - https://raw.githubusercontent.com/strukturart/osm-map/master/images/image-2.png
-  - https://raw.githubusercontent.com/strukturart/osm-map/master/images/image-3.png
-  - https://raw.githubusercontent.com/strukturart/osm-map/master/images/image-4.png
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-2.png
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-3.png
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-4.png
 license: MIT
 # website is optional
 # website: https://github.com/strukturart/osm-map
 # git repo is optional
-git_repo: https://github.com/strukturart/osm-map
+git_repo: https://github.com/strukturart/o.map
 download:
-  url: https://github.com/strukturart/osm-map/releases/latest/download/osm-map.zip
+  url: https://github.com/strukturart/osm-map/releases/latest/download/omap.zip
   version: "1.1.0"
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
