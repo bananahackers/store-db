@@ -5,7 +5,7 @@ icon: https://raw.githubusercontent.com/canyouswim/Caching-on-Kai/master/assets/
 git_repo: https://github.com/canyouswim/Caching-on-Kai
 download:
   url: https://github.com/canyouswim/Caching-on-Kai/releases/latest/download/caching-on-kai.zip
-  version: "1.6.0"
+  version: "2.1.1"
 type: privileged
 author: CanYouSwim
 maintainer: CanYouSwim
