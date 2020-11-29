@@ -1,0 +1,24 @@
+name: ISO Player
+description: Mount ISO files as virtual USB CD drive and boot your PC! (now for spreadtrum devices only, tested on Nobby 240 LTE)
+icon: https://github.com/CAHbKA-IV/Kai-ISO-player/raw/main/application/img/icons/icon_112.png
+# screenshots are optional
+# screenshots: 
+# website is optional
+# website: 
+# git repo is optional
+git_repo: https://github.com/CAHbKA-IV/Kai-ISO-player
+download:
+  url: https://github.com/CAHbKA-IV/Kai-ISO-player/releases/download/v1.0/iso-player.c-iv.ru.zip
+  version: "1.0"
+type: certified
+license: GPL
+author: CAHbKA-IV <cahbka-iv@mail.ru>
+maintainer: CAHbKA-IV <cahbka-iv@mail.ru>
+# donation is optional
+donation: https://sobe.ru/na/CIV_donate
+has_ads: false
+has_tracking: false
+meta:
+  tags: iso; mount
+  categories:
+   - utility
