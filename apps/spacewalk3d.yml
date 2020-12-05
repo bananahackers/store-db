@@ -1,0 +1,25 @@
+name: SpaceWalk3D
+description: Explore our amazing solar system and interact with all planets in full 3D.
+icon: "https://ays-arts.de/public/sw3d/SpaceWalk3D_112.png"
+screenshots:
+  - "https://ays-arts.de/public/sw3d/screenshots/earth.png"
+  - "https://ays-arts.de/public/sw3d/screenshots/timezones.png"
+  - "https://ays-arts.de/public/sw3d/screenshots/jupiter.png"
+  - "https://ays-arts.de/public/sw3d/screenshots/saturn.png"
+  - "https://ays-arts.de/public/sw3d/screenshots/overview.png"
+website: "https://ays-arts.de"
+download:
+  url: "https://ays-arts.de/public/sw3d/sw3d_1.2.3.zip"
+  version: "1.2.3"
+type: privileged
+license: Unknown
+author: Christian Waadt <contact@ays-arts.de>
+maintainer: Christian Waadt <contact@ays-arts.de>
+donation: "https://www.paypal.me/cwaadt"
+has_ads: false
+has_tracking: false
+meta:
+  tags: astronomy; 3d; earth; timezones; planets;
+  categories:
+   - education
+   - utility
