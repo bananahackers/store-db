@@ -1,0 +1,23 @@
+name: K-Loan
+description: K-Loan is an amortization calculator, that allows you to keep track of your loans.
+icon: "https://ays-arts.de/public/kloan/kloan_112.png"
+screenshots:
+  - "https://ays-arts.de/public/kloan/screenshots/k-loan_1.png"
+  - "https://ays-arts.de/public/kloan/screenshots/k-loan_2.png"
+  - "https://ays-arts.de/public/kloan/screenshots/k-loan_3.png"
+  - "https://ays-arts.de/public/kloan/screenshots/k-loan_4.png"
+website: "https://ays-arts.de"
+download:
+  url: "https://ays-arts.de/public/kloan/kloan_1.3.3.zip"
+  version: "1.3.3"
+type: privileged
+license: Unknown
+author: Christian Waadt <contact@ays-arts.de>
+maintainer: Christian Waadt <contact@ays-arts.de>
+donation: "https://www.paypal.me/cwaadt"
+has_ads: false
+has_tracking: false
+meta:
+  tags: loan; finance;
+  categories:
+   - utility
