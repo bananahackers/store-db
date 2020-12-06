@@ -1,0 +1,24 @@
+name: K-Loan
+description: Car wheel size calculation and comparison.
+icon: "https://ays-arts.de/public/wheelcal/wheelcal_112.png"
+screenshots:
+  - "https://ays-arts.de/public/wheelcal/screenshots/wheelCal_1.png"
+  - "https://ays-arts.de/public/wheelcal/screenshots/wheelCal_2.png"
+  - "https://ays-arts.de/public/wheelcal/screenshots/wheelCal_3.png"
+  - "https://ays-arts.de/public/wheelcal/screenshots/wheelCal_4.png"
+  - "https://ays-arts.de/public/wheelcal/screenshots/wheelCal_5.png"
+website: "https://ays-arts.de"
+download:
+  url: "https://ays-arts.de/public/wheelcal/wheelcal_1.3.0.zip"
+  version: "1.3.0"
+type: privileged
+license: Unknown
+author: Christian Waadt <contact@ays-arts.de>
+maintainer: Christian Waadt <contact@ays-arts.de>
+donation: "https://www.paypal.me/cwaadt"
+has_ads: false
+has_tracking: false
+meta:
+  tags: car; wheels; tyres; tires
+  categories:
+   - utility
