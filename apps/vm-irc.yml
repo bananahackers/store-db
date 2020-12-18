@@ -1,13 +1,13 @@
 name: VM-IRC
-description: Connect to freenode IRC network via this app
+description: Connect to freenode IRC network via this app. For PM use Call key. see app website for more info. The bug in which you could not send message to channels has been fixed. Thank you Ivan Pasev :)
 icon: https://notabug.org/bananaphone/vm-irc/raw/master/img/icons/icon128x128.png
 # screenshots are optional
 license: LGPL 3.0 or later
 website: https://notabug.org/bananaphone/vm-irc
 git_repo: https://notabug.org/bananaphone/vm-irc
 download:
-  url: https://notabug.org/attachments/aebbbaf8-3d37-404a-b776-af30a2ebf31f
-  version: "4.0"
+  url: https://notabug.org/attachments/f70215a5-71cf-417d-8d12-ea96fd1c3bdb
+  version: "4.0.1"
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
 has_tracking: false
