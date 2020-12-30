@@ -1,11 +1,11 @@
 name: Caching on Kai
-description: Go out and geocache on the KaiOS platform! Not an official app from geocaching.com, but does require a valid account on geocaching.com 
+description: Go out and geocache on the KaiOS platform! Not an official app from geocaching.com, but does require a valid account on geocaching.com. Now with the ability to take photos directly from the app.
 license: GPLv3
 icon: https://raw.githubusercontent.com/canyouswim/Caching-on-Kai/master/assets/appLogo/Logo_caching-on-kai_FullName.png
 git_repo: https://github.com/canyouswim/Caching-on-Kai
 download:
   url: https://github.com/canyouswim/Caching-on-Kai/releases/latest/download/caching-on-kai.zip
-  version: "2.2.0"
+  version: "2.3.0"
 type: privileged
 author: CanYouSwim
 maintainer: CanYouSwim
