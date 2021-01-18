@@ -8,8 +8,8 @@ screenshots:
 website: https://jkelol111.github.io/kaidi
 git_repo: https://github.com/jkelol111/kaidi
 download:
-  url: https://github.com/jkelol111/kaidi/releases/download/v1.0.3/kaidi-1.0.3-stable-omnisd.zip
-  version: "1.0.3"
+  url: https://github.com/jkelol111/kaidi/releases/download/v1.0.8/kaidi-1.0.8-stable-omnisd.zip
+  version: "1.0.8"
 type: privileged
 license: GPLv3
 author: jkelol111
