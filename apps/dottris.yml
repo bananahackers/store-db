@@ -1,0 +1,16 @@
+name: .TRIS
+description: The first KaiOS tetris game under 4096 bytes (unpacked)
+icon: https://i.imgur.com/2WimOw9.png
+download:
+  url: https://cloud.disroot.org/s/asw6HeAoBktfzkE/download
+  version: 0.1
+type: packaged
+license: Unlicense <https://unlicense.org/>
+author: Luxferre
+maintainer: Luxferre
+has_ads: false
+has_tracking: false
+meta:
+  tags: tetris; 4k
+  categories:
+   - games
