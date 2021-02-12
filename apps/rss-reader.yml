@@ -12,7 +12,7 @@ website: https://github.com/strukturart/rss-reader
 # git repo is optional
 git_repo: https://github.com/strukturart/rss-reader
 download:
-  url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip?raw=true
+  url: https://github.com/strukturart/rss-reader/releases/latest/download/rss-reader.zip
   version: "1.0"
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
