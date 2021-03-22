@@ -11,7 +11,7 @@ website: https://github.com/strukturart/shell-command
 # git repo is optional
 git_repo: https://github.com/strukturart/shell-command
 download:
-  url: https://github.com/strukturart/shell-command/blob/master/build/shell_command.zip?raw=true
+  url: https://github.com/strukturart/shell-command/releases/latest/download/shell_command.zip
   version: "1.0"
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
