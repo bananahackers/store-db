@@ -1,0 +1,28 @@
+name: Freedoom
+description: |
+ Freedoom is not affiliated with DOOM by id Software, and does not contain any content from that game.
+icon: https://raw.githubusercontent.com/pelya/doom-kaios/master/app/icon_112.png
+# screenshots are optional
+screenshots:
+  - https://raw.githubusercontent.com/pelya/doom-kaios/master/screenshots/screen1.png
+  - https://raw.githubusercontent.com/pelya/doom-kaios/master/screenshots/screen2.png
+  - https://raw.githubusercontent.com/pelya/doom-kaios/master/screenshots/screen3.png
+license: GPL
+# website is optional
+website: https://github.com/pelya/doom-kaios
+# git repo is optional
+git_repo: https://github.com/pelya/doom-kaios
+download:
+  url: https://github.com/pelya/doom-kaios/releases/download/1.0/Freedoom-omnisd.zip
+  version: "1.0"
+author: pelya <x.pelya.x@gmail.com>
+maintainer: pelya <x.pelya.x@gmail.com>
+has_tracking: false
+has_ads: true
+# donation is optional
+donation:
+meta:
+  tags: action;
+  categories:
+   - games
+type: packaged
