@@ -17,7 +17,7 @@ license: Unknown
 author: Gameloft <support@gameloft.com>
 maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
-has_tracking: unknown
+has_tracking: true
 meta:
   tags: nokia; classic; snake;
   categories:
