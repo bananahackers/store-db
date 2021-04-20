@@ -1,5 +1,5 @@
 name: TeleKram
-description: "Telegram Web fork for KaiOS. Supports dpad navigation and push notifications. Note: the app is in Beta expect bugs and slow performance. 2FA also doesn't work properly; some parts of the app doesn't support dpad navigation, to enable cursor press 5."
+description: a fork of Telegram Web for KaiOS. Supports dpad navigation and push notifications. Note, the app is in Beta expect bugs and slow performance. 2FA also doesn't work properly; some parts of the app doesn't support dpad navigation, to enable cursor press 5.
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/834134770740232272/icon90.png"
 screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/834136550954106880/out2.png"
