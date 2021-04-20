@@ -1,0 +1,24 @@
+name: Snake
+description: The Snake game found on Nokia KaiOS devices.
+icon: "https://cdn.discordapp.com/attachments/813030840526569472/833616686678540358/icon-114.png"
+screenshots:
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833628034497380382/unknown.png"
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833631020413747200/out2.png"
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833631167751258122/out2.png"
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833631246587789333/out2.png"
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833631782540148756/out2.png"
+  - "https://cdn.discordapp.com/attachments/813030840526569472/833632091810955274/out2.png"
+website: "http://gameloft.com"
+download:
+  url: "https://cdn.discordapp.com/attachments/813030840526569472/833622916037214218/snake.zip"
+  version: "2.2"
+type: certified
+license: Unknown
+author: Gameloft <support@gameloft.com>
+maintainer: Cyan <cyankindasus1@outlook.com>
+has_ads: false
+has_tracking: true
+meta:
+  tags: nokia; classic; snake;
+  categories:
+   - games
