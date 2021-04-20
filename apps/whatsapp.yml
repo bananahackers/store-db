@@ -1,0 +1,17 @@
+name: WhatsApp
+description: WhatsApp patched specifically for devices running GerdaOS.
+icon: "https://cdn.discordapp.com/attachments/687788038298140732/834145465276039239/icon.png"
+website: "https://groups.google.com/g/bananahackers/c/AStA-oas3Jg"
+download:
+  url: "https://cdn.discordapp.com/attachments/687788038298140732/834149222105743373/whatsapp-debug-20210312.gpkg.zip"
+  version: "2.2106.35"
+type: certified
+license: Proprietary
+author: Affe Null
+maintainer: Cyan <cyankindasus1@outlook.com>
+has_ads: false
+has_tracking: true
+meta:
+  tags: whatsapp; gerdaos; GerdaOS; patched;
+  categories:
+   - communication
