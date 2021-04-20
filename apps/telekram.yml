@@ -12,7 +12,7 @@ download:
   url: "https://cdn.discordapp.com/attachments/472144650128457738/834098561665990736/telekram.zip"
   version: "0.7.1"
 type: privileged
-license: GPL3
+license: GPLv3
 author: arma7x <arma7x@live.com>
 maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
