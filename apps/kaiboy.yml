@@ -9,8 +9,8 @@ website: https://groups.google.com/g/bananahackers/c/H1bsIJOnOTM/m/_vFwJ9ejAgAJ
 # git repo is optional
 # git_repo: 
 download:
-  url: https://sites.google.com/view/bananahackers/b-hackers-store#h.mlhgjfktqk8c
-  version: 0.0.5
+  url: https://cdn.discordapp.com/attachments/687788038298140732/834354419800735764/KaiBoy-0.1.0.gpkg.zip
+  version: 0.1.0
 type: privileged
 license: Unknown
 author: Luxferre/Suborg/Nihilist
