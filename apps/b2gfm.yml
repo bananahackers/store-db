@@ -1,0 +1,17 @@
+name: Kloud File Manager
+description: File Manager & Kloudless app(unofficial) for for KaiOS
+icon: "https://cdn.discordapp.com/attachments/472144650128457738/834880947349356614/le_icon.png"
+website: "https://github.com/arma7x/b2gfm"
+download:
+  url: "https://cdn.discordapp.com/attachments/472144650128457738/834881587064733766/b2gfm.zip"
+  version: "1.2.0"
+type: privileged
+license: MIT
+author: arma7x <arma7x@live.com>
+maintainer: Cyan <cyankindasus1@outlook.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: filemanager; files; backup; sync; wireless; kloudless;
+  categories:
+   - utility

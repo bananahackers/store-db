@@ -1,0 +1,24 @@
+name: Google Maps
+description: Google Maps made specifically for GerdaOS users. Note, GPS probably won't work.
+icon: "https://cdn.discordapp.com/attachments/687788038298140732/834390511950888990/AL9n99uYor47RTrcnsIf071hX99979gf0URvlPAMMoo0JHhY4KHWVU6KjQUaGjjAodFfpfzr8AwP0w9X7YukwAAAAASUVORK5CYI.png"
+screenshots:
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834375901630038066/out2.png"
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834377209728466964/out2.png"
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834377521989943326/out2.png"
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834377915428241428/out2.png"
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834378018536816640/out2.png"
+  - "https://cdn.discordapp.com/attachments/687788038298140732/834382316288999464/out2.png"
+website: "https://groups.google.com/g/bananahackers/c/8oVmcMmjysY/m/CgLYfTvhCgAJ"
+download:
+  url: "https://cdn.discordapp.com/attachments/687788038298140732/834391369756966992/gmaps_for_kaios_with_micro.zip"
+  version: "1.0"
+type: certified
+license: unknown
+author: Google
+maintainer: Cyan <cyankindasus1@outlook.com>
+has_ads: false
+has_tracking: true
+meta:
+  tags: map; maps; GerdaOS; gerdaos; google;
+  categories:
+   - travel
