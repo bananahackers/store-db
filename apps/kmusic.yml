@@ -7,7 +7,7 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/687788038298140732/834144836038426702/out2.png"
 website: "https://github.com/arma7x/kaimusic"
 download:
-  url: "https://cdn.discordapp.com/attachments/687788038298140732/834350204349972490/kaimusicc.zip"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic.zip?inline=false"
   version: "1.6.1"
 type: privileged
 license: MIT
