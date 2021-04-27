@@ -9,8 +9,8 @@ screenshots:
   - "https://ays-arts.de/public/ac3d/screenshots/benchmark.png"
 website: "https://ays-arts.de"
 download:
-  url: "https://ays-arts.de/public/ac3d/ac3d_1.3.5.zip"
-  version: "1.3.5"
+  url: "https://ays-arts.de/public/ac3d/ac3d_1.4.22.zip"
+  version: "1.4.22"
 type: privileged
 license: Unknown
 author: Christian Waadt <contact@ays-arts.de>
@@ -19,6 +19,6 @@ donation: "https://www.paypal.me/cwaadt"
 has_ads: false
 has_tracking: false
 meta:
-  tags: action; 3d; open-world;
+  tags: action; 3d; open-world; multiplayer; online
   categories:
    - games
