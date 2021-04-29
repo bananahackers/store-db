@@ -1,0 +1,28 @@
+name: OpenTyrian
+description: |
+ Arcade-style vertical scrolling shooter, with story mode and weapon upgrades.
+icon: https://raw.githubusercontent.com/pelya/opentyrian-kaios/master/app/icon_112.png
+# screenshots are optional
+screenshots:
+  - https://raw.githubusercontent.com/pelya/opentyrian-kaios/master/screenshots/opentyrian_scaled1.png
+  - https://raw.githubusercontent.com/pelya/opentyrian-kaios/master/screenshots/opentyrian_scaled2.png
+  - https://raw.githubusercontent.com/pelya/opentyrian-kaios/master/screenshots/2021-04-23-01-23-38.png
+license: GPL
+# website is optional
+website: https://github.com/pelya/opentyrian-kaios
+# git repo is optional
+git_repo: https://github.com/pelya/opentyrian-kaios
+download:
+  url: https://github.com/pelya/opentyrian-kaios/releases/download/2.1.3/OpenTyrian-omnisd.zip
+  version: "2.1.3"
+author: pelya <x.pelya.x@gmail.com>
+maintainer: pelya <x.pelya.x@gmail.com>
+has_tracking: false
+has_ads: true
+# donation is optional
+donation:
+meta:
+  tags: action;
+  categories:
+   - games
+type: packaged
