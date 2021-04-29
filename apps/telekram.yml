@@ -9,7 +9,7 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/834140704371376128/out2.png"
 website: "https://github.com/arma7x/telekram"
 download:
-  url: "https://cdn.discordapp.com/attachments/472144650128457738/834098561665990736/telekram.zip"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/telekram/telekram.zip?inline=false"
   version: "0.7.1"
 type: privileged
 license: GPLv3
