@@ -3,8 +3,8 @@ description: Web Browser & Unoffical GetPocket client for KaiOS. K-Pocket Browse
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/834863442262622258/icon112x112.png"
 website: "https://github.com/arma7x/K-Pocket-Browser"
 download:
-  url: "https://cdn.discordapp.com/attachments/472144650128457738/834865549263372388/K-Pocket-Browser.zip"
-  version: "1.2.2"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/K-Pocket-Browser.zip?inline=false"
+  version: "1.2.3"
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>
