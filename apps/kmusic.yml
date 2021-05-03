@@ -8,7 +8,7 @@ screenshots:
 website: "https://github.com/arma7x/kaimusic"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic.zip?inline=false"
-  version: "1.6.1"
+  version: "1.7.2"
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>
