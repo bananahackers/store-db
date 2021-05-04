@@ -1,6 +1,6 @@
 name: Snake
 description: The Nokia game found on Nokia KaiOS devices.
-icon: "https://cdn.discordapp.com/attachments/813030840526569472/833616686678540358/icon-114.png"
+icon: "https://cdn.discordapp.com/attachments/771512310543155200/839182673389944832/snek.png"
 screenshots:
   - "https://cdn.discordapp.com/attachments/813030840526569472/833628034497380382/unknown.png"
   - "https://cdn.discordapp.com/attachments/813030840526569472/833631020413747200/out2.png"
@@ -10,7 +10,7 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/813030840526569472/833632091810955274/out2.png"
 website: "http://gameloft.com"
 download:
-  url: "https://cdn.discordapp.com/attachments/813030840526569472/833622916037214218/snake.zip"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/snek.zip?inline=false"
   version: "2.2"
 type: certified
 license: Unknown
