@@ -12,5 +12,6 @@ maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
 has_tracking: false
 meta:
+  tags: economy;
   categories:
    - utility
