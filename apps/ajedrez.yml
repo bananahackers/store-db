@@ -1,0 +1,17 @@
+name: K-Chess
+description: K-Chess is unofficial lichess.org client for KaiOS
+icon: "https://raw.githubusercontent.com/arma7x/kai-chess/master/icon.png"
+website: "https://github.com/arma7x/kai-chess"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ajedrez.zip?inline=false"
+  version: "1.1.1"
+type: privileged
+license: MIT
+author: arma7x <arma7x@live.com>
+maintainer: Cyan <cyankindasus1@outlook.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: chess; lichess; game; arma7x; online; ajedrez;
+  categories:
+   - games
