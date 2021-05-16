@@ -4,7 +4,7 @@ icon: "https://raw.githubusercontent.com/arma7x/The-Economy/master/icon.png"
 website: "https://github.com/arma7x/The-Economy"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia.zip?inline=false"
-  version: "1.2.1"
+  version: "1.0.2"
 type: hosted
 license: MIT
 author: arma7x <arma7x@live.com>
