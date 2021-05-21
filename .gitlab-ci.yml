@@ -2,7 +2,10 @@ image: node:latest
 
 cache:
   paths:
-    - node_modules/
+    - _generator/node_modules/
+
+variables:
+  GIT_DEPTH: "0" # disable shallow clone -> https://docs.gitlab.com/ee/ci/large_repositories/index.html#shallow-cloning
 
 pages:
   variables:

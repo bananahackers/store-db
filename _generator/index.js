@@ -4,6 +4,7 @@ const { join, extname } = require('path')
 const isUrl = require('is-url-superb')
 const { http, https } = require('follow-redirects');
 var Ajv = require('ajv');
+const { generate_feed } = require('./generate-feed')
 
 const HostPrefix = process.env["HOST_PREFIX"]
 if(!HostPrefix){
@@ -255,7 +256,6 @@ async function main() {
             const yaml_content = await fs.readFile(join(APPS, file), 'utf-8')
             const appData = yaml.load(yaml_content)
             validate_apps(appData, Object.keys(categories))
-            console.log(typeof appData.author, appData.author);
             
             appData.slug = file.replace(/.ya?ml/, "")
             // download icon
@@ -314,9 +314,13 @@ async function main() {
 
     await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
 
+    console.log("writing feed")
+    await fs.writeFile(join(PUBLIC, 'feed.xml'), await generate_feed(apps, categories))
+    
     console.log("waiting for downloads to complete...")
     await Promise.all(download_queu);
     console.log("done")
+
 
     if (!success) {
         process.exit(1)
