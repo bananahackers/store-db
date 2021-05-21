@@ -1,3 +1,4 @@
 _generator/node_modules
+_generator/schema.d.ts
 public
 .idea
