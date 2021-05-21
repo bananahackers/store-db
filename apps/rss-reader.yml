@@ -1,18 +1,19 @@
-name: rss-reader
-description: read your favorit rss/atom feeds and download/stream your podcasts.
+name: feedolin
+description: read your favorit rss/atom feeds and stream your podcasts.
 icon: https://raw.githubusercontent.com/strukturart/rss-reader/master/images/logo.png
 # screenshots are optional
 screenshots:
 - https://github.com/strukturart/rss-reader/blob/master/images/image-1.png?raw=true
 - https://github.com/strukturart/rss-reader/blob/master/images/image-2.png?raw=true
 - https://github.com/strukturart/rss-reader/blob/master/images/image-3.png?raw=true
+- https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true
 license: MIT
 # website is optional
 website: https://github.com/strukturart/rss-reader
 # git repo is optional
 git_repo: https://github.com/strukturart/rss-reader
 download:
-  url: https://github.com/strukturart/rss-reader/releases/latest/download/rss-reader.zip
+  url: https://github.com/strukturart/rss-reader/releases/latest/download/feedolin.zip
   version: "1.0"
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
