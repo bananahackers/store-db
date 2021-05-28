@@ -1,9 +1,9 @@
 name: The Economy
 description: Get information about commodities price, energy price, metal price, foreign exchange(also known as FX or forex) & cryptocurrencies market value.
-icon: "https://raw.githubusercontent.com/arma7x/The-Economy/master/icon.png"
+icon: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia/ekonomia.png"
 website: "https://github.com/arma7x/The-Economy"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia.zip?inline=false"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia/ekonomia.zip?inline=false"
   version: "1.0.2"
 type: hosted
 license: MIT

@@ -2,13 +2,15 @@ name: K-Music
 description: An audio player for KaiOS with playlist manager + Equalizer
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/839171681188053032/musiku.png"
 screenshots:
-  - "https://cdn.discordapp.com/attachments/687788038298140732/834144559482142750/out2.png"
-  - "https://cdn.discordapp.com/attachments/687788038298140732/834144723156467812/out2.png"
-  - "https://cdn.discordapp.com/attachments/687788038298140732/834144836038426702/out2.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen1.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen2.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen3.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen4.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen5.png"
 website: "https://github.com/arma7x/kaimusic"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic.zip?inline=false"
-  version: "1.7.2"
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/kaimusic.zip?inline=false"
+  version: "1.8.2"
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>
