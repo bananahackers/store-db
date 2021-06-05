@@ -1,0 +1,24 @@
+name: Passport
+description: >
+  A helper app that omits images from the folder / passport and can display them. I use it to store QR code images there and then display them quickly.
+icon: https://raw.githubusercontent.com/strukturart/passport/master/images/logo.png
+# screenshots are optional
+screenshots:
+license: Unlicense
+# website is optional
+# website: https://github.com/strukturart/passport
+# git repo is optional
+git_repo: https://github.com/strukturart/passport
+download:
+  url: https://github.com/strukturart/osm-map/releases/latest/download/passport.zip
+  version: "1.1.0"
+author: perry<https://github.com/strukturart>
+maintainer:  perry<https://github.com/strukturart>
+has_tracking: false
+has_ads: false
+donation: https://paypal.me/strukturart
+meta:
+  tags: travel; utility;
+  categories: 
+    - utility
+type: packaged
