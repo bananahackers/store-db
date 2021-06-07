@@ -1,7 +1,8 @@
 
 name: Contact search
 description: >
-With this app you can search your contacts, start calls & sms. I wrote it because the KaiOs standart app is extremely slow.icon: https://raw.githubusercontent.com/strukturart/search/master/images/logo.png
+With this app you can search your contacts, start calls and sms. I wrote it because the KaiOs standart app is extremely slow.
+icon: https://raw.githubusercontent.com/strukturart/search/master/images/logo.png
 # screenshots are optional
 screenshots:
 license: Unlicense
