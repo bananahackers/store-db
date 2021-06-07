@@ -1,0 +1,25 @@
+
+name: Contact search
+description: >
+  With this app you can search your contacts, start calls and sms. I wrote it because the KaiOs standart app is extremely slow.
+icon: https://raw.githubusercontent.com/strukturart/search/master/images/logo.png
+# screenshots are optional
+screenshots:
+license: Unlicense
+# website is optional
+# website: https://github.com/strukturart/search
+# git repo is optional
+git_repo: https://github.com/strukturart/search
+download:
+  url: https://github.com/strukturart/search/releases/latest/download/search.zip
+  version: "1.1.0"
+author: perry<https://github.com/strukturart>
+maintainer:  perry<https://github.com/strukturart>
+has_tracking: false
+has_ads: false
+donation: https://paypal.me/strukturart
+meta:
+  tags: travel; utility;
+  categories: 
+    - utility
+type: packaged
