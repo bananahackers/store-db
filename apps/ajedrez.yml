@@ -9,11 +9,11 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/843902427769208912/cC7NadQ7ZRAAAAABJRU5ErkJggg.png"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ajedrez.zip?inline=false"
-  version: "1.1.1"
+  version: "1.2.0"
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>
-maintainer: Cyan <cyankindasus1@outlook.com>
+maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
