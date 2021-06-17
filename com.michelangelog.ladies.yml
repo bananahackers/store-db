@@ -1,0 +1,22 @@
+name: Ladies in a Box
+description: 'A very simple and opensource platform game.'
+icon: https://michelangelo.altervista.org/kaios/games/ladies/112.png
+screenshots:
+  - http://michelangelo.altervista.org/kaios/assets/img/ladies2.png
+  - http://michelangelo.altervista.org/kaios/assets/img/ladies3.png
+  - http://michelangelo.altervista.org/kaios/assets/img/ladies4.png
+website: http://michelangelo.altervista.org/kaios/#ladies
+git_repo: https://github.com/micheg/ladies_in_trouble/tree/open_store
+download:
+  url: https://github.com/micheg/ladies_in_trouble/releases/download/open/open_ladies.zip
+  version: "1.1.0"
+type: packaged
+license: MIT
+author: micheg
+maintainer: micheg
+has_ads: false
+has_tracking: false
+meta:
+  tags: platform; game; jump;
+  categories:
+   - games
