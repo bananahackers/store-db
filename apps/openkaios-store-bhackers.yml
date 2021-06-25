@@ -14,8 +14,8 @@ website: https://openkaios.top
 # git repo is optional
 git_repo: https://github.com/openkaios/openkaios-store-client
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/openkaios-store-client/releases/download/2.0.1/openkaios-store-2.0.1-bhackers-omnisd.zip
-  version: "2.0.1"
+  url: https://git.yumenaka.net/https://github.com/openkaios/openkaios-store-client/releases/download/2.0.2/openkaios-store-bhackers-2.0.2.zip
+  version: "2.0.2"
 author: openKaiOS
 maintainer: openKaiOS
 has_tracking: true
