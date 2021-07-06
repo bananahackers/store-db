@@ -1,0 +1,24 @@
+name: sequiviewer
+description: A sequential image viewer. You can read manga and comics you have on your device. It is designed for KaiOS and small screens. Do not read using your KaiOS device for a long time, as prolonged reading on a small screen can damage your eyes.
+icon: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer.png"
+screenshots:
+  - "https://alego.web.fc2.com/kaiosapps/sequiviewer/wread-sc1.png"
+  - "https://alego.web.fc2.com/kaiosapps/sequiviewer/wread-sc2.png"
+  - "https://alego.web.fc2.com/kaiosapps/sequiviewer/wread-sc3.png"
+  - "https://alego.web.fc2.com/kaiosapps/sequiviewer/wread-sc4.png"
+website: "https://alego.web.fc2.com/kaiosapps/sequiviewer/"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer.zip?inline=false"
+  version: "0.0.21"
+type: privileged
+license: unknown
+author: ale4710 <alego4710@vivaldi.net>
+locales: 
+  - English
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: Sequential; Manga; Comics; Reader;
+  categories:
+   - utility
