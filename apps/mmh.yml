@@ -1,0 +1,21 @@
+name: musmus highway
+description: musmus highway is a game that generates levels based on the music you give it.
+icon: "https://storage.kaiostech.com/v3.0/files/app/9/_h1WWAoSFD7BLuFrju7hw9Zu7jAFumllWG56JN/ICON_IMAGE.png"
+screenshots:
+  - "https://alego.web.fc2.com/kaiosapps/musmushighway/1.png"
+website: "https://alego.web.fc2.com/kaiosapps/musmushighway/"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/mmh.zip?inline=false"
+  version: "0.1.1"
+type: privileged
+locales: 
+  - English
+license: unknown
+author: ale4710 <alego4710@vivaldi.net>
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: musmus;
+  categories:
+   - games
