@@ -1,0 +1,29 @@
+name: openGiraffes Store Client
+description: >
+  Download and install apps.This version uses the database of openGiraffes Store. If you need to use the database of bHackers Store, please download the bHackers version.
+icon: https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/application/icons/icon-128-128.png
+# screenshots are optional
+screenshots:
+    - https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/images/screenshot-1.png
+    - https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/images/screenshot-3.png
+    - https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/images/screenshot-4.png
+    - https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/images/screenshot-5.png
+    - https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-client@master/images/screenshot-6.png
+license: MIT
+# website is optional
+website: https://opengiraffes.top
+# git repo is optional
+git_repo: https://github.com/openGiraffes/openGiraffes-store-client
+download:
+  url: https://git.yumenaka.net/https://github.com/openGiraffes/openGiraffes-store-client/releases/latest/download/openGiraffes-store-openGiraffes.zip
+  version: "2.1.0"
+author: openGiraffes
+maintainer: openGiraffes
+has_tracking: true
+has_ads: false
+donation: 
+meta:
+  tags: apps;
+  categories: 
+   - utility
+type: certified
