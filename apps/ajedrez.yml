@@ -9,7 +9,7 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/843902427769208912/cC7NadQ7ZRAAAAABJRU5ErkJggg.png"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ajedrez.zip?inline=false"
-  version: "1.2.0"
+  version: "1.3.0"
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>
