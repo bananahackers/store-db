@@ -9,7 +9,7 @@ screenshots:
 website: "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p.zip?inline=false"
-  version: "0.3.4"
+  version: "0.3.5"
 type: privileged
 license: unknown
 author: ale4710 <alego4710@vivaldi.net>
