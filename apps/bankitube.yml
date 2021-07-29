@@ -10,6 +10,11 @@ screenshots:
   - "https://alego.web.fc2.com/kaiosapps/bankitube/listenscreen.png"
   - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen-captions.png"
   - "https://alego.web.fc2.com/kaiosapps/bankitube/videofullscreen-vertical.png"
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/playlist.png"
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/channel.png"
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/videoactions.png"
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/history.png"
+  
 website: "https://alego.web.fc2.com/kaiosapps/bankitube/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/bankitube.zip?inline=false"
