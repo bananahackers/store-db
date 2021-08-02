@@ -1,0 +1,23 @@
+name: CoroNumbers
+description: Track COVID-19 numbers and get info to protect yourself and others. Information is from WHO and COVID-19 API, we are not responsible for the accuracy of the information provided. Please follow the instructions of your local authorities. We have made fair use of the following data and in no way monetize this content.
+icon: https://github.com/jkelol111/CoroNumbers/raw/master/src/assets/icons/coronumbers-112.png
+screenshots:
+  - https://github.com/jkelol111/CoroNumbers/raw/master/screenshots/location.png
+  - https://github.com/jkelol111/CoroNumbers/raw/master/screenshots/main.png
+  - https://github.com/jkelol111/CoroNumbers/raw/master/screenshots/information.png
+git_repo: https://github.com/jkelol111/CoroNumbers
+download:
+  url: https://github.com/jkelol111/CoroNumbers/releases/download/v1.0.4/coronumbers-1.0.4-stable-omnisd.zip
+  version: "1.0.4"
+type: privileged
+license: MIT
+author: jkelol111
+maintainer: jkelol111
+donation: https://paypal.me/jkelol111
+has_ads: true
+has_tracking: false
+meta:
+  tags: covid19
+  categories:
+    - utility
+    - health
