@@ -1,0 +1,32 @@
+name: Nihonoari
+description: A simple Japanese Kana training app for KaiOS.
+icon: "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/img/icons/icon128x128.png"
+screenshots:
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/mayn.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/bfrrrr.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/pilika.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/pi.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/tamaka.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/malika.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/shtatishtiks.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/3.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/4.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/5.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/6.png"
+website: "https://github.com/cyan-2048/Nihonoari-KaiOS"
+download:
+  url: "https://github.com/cyan-2048/Nihonoari-KaiOS/releases/download/1.0.1/nihonoari-omni.zip?raw=true"
+  version: "1.0.1"
+type: privileged
+locales: 
+  - English
+license: MIT
+author: Cyan <cyankindasus@protonmail.com>
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: Japanese; Kana;
+  categories:
+   - education
+   - utility
