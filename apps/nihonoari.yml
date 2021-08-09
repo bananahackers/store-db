@@ -1,23 +1,23 @@
 name: Nihonoari
 description: A simple Japanese Kana training app for KaiOS.
-icon: "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/img/icons/icon128x128.png"
+icon: "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/img/icons/icon112x112.png"
 screenshots:
-  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/mayn.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/upload%20to%20KaiStore/mayn.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/bfrrrr.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/pilika.png"
-  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/pi.png"
-  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/tamaka.png"
-  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/malika.png"
-  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/shtatishtiks.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/upload%20to%20KaiStore/pi.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/upload%20to%20KaiStore/tamaka.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/upload%20to%20KaiStore/malika.png"
+  - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/upload%20to%20KaiStore/shtatishtiks.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/3.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/4.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/5.png"
   - "https://raw.githubusercontent.com/cyan-2048/Nihonoari-KaiOS/main/screenshots/6.png"
 website: "https://github.com/cyan-2048/Nihonoari-KaiOS"
 download:
-  url: "https://github.com/cyan-2048/Nihonoari-KaiOS/releases/download/1.0.1/nihonoari-omni.zip?raw=true"
-  version: "1.0.1"
-type: privileged
+  url: "https://github.com/cyan-2048/Nihonoari-KaiOS/releases/download/v1.0.9/nihonoari-omni.zip"
+  version: "1.0.9"
+type: packaged
 locales: 
   - English
 license: MIT
