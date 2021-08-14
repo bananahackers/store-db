@@ -4,7 +4,7 @@ icon: "https://cdn.discordapp.com/attachments/472144650128457738/839176477325000
 website: "https://github.com/arma7x/b2gfm"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/b2gfm.zip?inline=false"
-  version: "1.3.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/b2gfm.json
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>

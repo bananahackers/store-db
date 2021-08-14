@@ -12,7 +12,7 @@ website: https://github.com/strukturart/shell-command
 git_repo: https://github.com/strukturart/shell-command
 download:
   url: https://github.com/strukturart/shell-command/releases/latest/download/shell_command.zip
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/shell-commands.json
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
 has_tracking: false

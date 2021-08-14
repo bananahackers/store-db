@@ -9,7 +9,7 @@ icon: https://github.com/CAHbKA-IV/Kai-ISO-player/raw/main/application/img/icons
 git_repo: https://github.com/CAHbKA-IV/Kai-ISO-player
 download:
   url: https://github.com/CAHbKA-IV/Kai-ISO-player/releases/download/v1.0/iso-player.c-iv.ru.zip
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/isoplayer.json
 type: certified
 license: GPL
 author: CAHbKA-IV <cahbka-iv@mail.ru>

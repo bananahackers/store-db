@@ -8,7 +8,7 @@ screenshots:
 website: "https://shareit.ushareit.com/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/SHAREit.zip?inline=false"
-  version: "1.1.08"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/shareit.json
 type: certified
 license: Apache License 2.0
 author: Smart Media4U Technology Pte.Ltd <feedback_pc@ushareit.com>

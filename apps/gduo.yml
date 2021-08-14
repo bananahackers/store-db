@@ -12,7 +12,7 @@ screenshots:
 website: "https://duo.google.com"
 download:
   url: "https://cdn.discordapp.com/attachments/687788038298140732/834415955080773632/duo.google.com.zip"
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/gduo.json
 type: certified
 license: unknown
 author: Google

@@ -10,7 +10,7 @@ website: https://www.youtube.com/watch?v=tjAd4_LFKDI
 git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/cricket
 download: 
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/freehitcricketbyRktechYoutube.zip
-  version: "0.0.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/crickett.json
 author: Rk Tech Youtube<https://doodlecricket.github.io>
 maintainer:  Rk Tech Youtube<https://doodlecricket.github.io>
 has_tracking: true

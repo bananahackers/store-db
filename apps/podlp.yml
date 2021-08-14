@@ -10,7 +10,7 @@ screenshots:
 website: "https://podlp.com"
 download:
   url: "https://app.podlp.com/d/PodLP_2.0.0.1.zip"
-  version: "2.0.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/podlp.json
 type: privileged
 license: Unknown
 author: Tom Barrasso <support@podlp.com>

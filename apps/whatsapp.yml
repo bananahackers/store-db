@@ -4,7 +4,7 @@ icon: "https://cdn.discordapp.com/attachments/687788038298140732/834155226197393
 website: "https://groups.google.com/g/bananahackers/c/AStA-oas3Jg"
 download:
   url: "https://cdn.discordapp.com/attachments/687788038298140732/834149222105743373/whatsapp-debug-20210312.gpkg.zip"
-  version: "2.2106.35"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/whatsapp.json
 type: certified
 license: Proprietary
 author: Affe Null

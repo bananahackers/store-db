@@ -50,11 +50,17 @@ icon: "https://app.example.com/icon.png"
 this url can't be shortened because it must include `.png`, `.jpeg` or `.gif` at the end
 
 ### .download
-An object that contains a url to the app and the version it is in.
+An object that contains a url to the app and the manifest. The manifest is used
+to fetch the latest version, so it must contain a `version` property.
+**Old apps have a generated manifest in this repository. If you are the owner
+of an app and did not add a manifest URL yet, you should replace it with a link
+to your manifest, make sure that it has a version and delete the generated
+file.**
+
 ```yaml
 download:
-  url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip
-  version: "1.0"
+  url: https://app.example.com/package.zip
+  manifest: https://app.example.com/manifest.webapp
 ```
 
 ### .type 
@@ -121,6 +127,7 @@ license: MIT
 > **Why?** Because if you don't and according to [Berne convention](https://en.wikipedia.org/wiki/Berne_Convention)
 > your app will be closed source and propiety which no one else can re-distribute or change
 > **even if you release its source code** on Github or Gitlab or anywhere else.
+
 {: .alert .alert-danger}
 
 ### .screenshots (optional)

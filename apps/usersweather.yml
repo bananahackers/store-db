@@ -10,7 +10,7 @@ screenshots:
 git_repo: https://github.com/user18130814200115-2/User-s-Weather
 download:
   url: https://github.com/user18130814200115-2/User-s-Weather/releases/download/latest/weather.zip
-  version: "4.4"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/usersweather.json
 type: packaged
 license: MIT
 author: User18130814200115

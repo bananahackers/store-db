@@ -10,7 +10,7 @@ website: https://groups.google.com/g/bananahackers/c/H1bsIJOnOTM/m/_vFwJ9ejAgAJ
 # git_repo: 
 download:
   url: https://cdn.discordapp.com/attachments/687788038298140732/834354419800735764/KaiBoy-0.1.0.gpkg.zip
-  version: 0.1.0
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kaiboy.json
 type: privileged
 license: Unknown
 author: Luxferre/Suborg/Nihilist

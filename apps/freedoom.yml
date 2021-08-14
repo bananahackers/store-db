@@ -14,7 +14,7 @@ website: https://github.com/pelya/doom-kaios
 git_repo: https://github.com/pelya/doom-kaios
 download:
   url: https://github.com/pelya/doom-kaios/releases/download/1.6.1/Freedoom-omnisd.zip
-  version: "1.6.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/freedoom.json
 author: pelya <x.pelya.x@gmail.com>
 maintainer: pelya <x.pelya.x@gmail.com>
 has_tracking: false

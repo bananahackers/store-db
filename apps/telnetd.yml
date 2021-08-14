@@ -10,7 +10,7 @@ icon: https://cdn.discordapp.com/attachments/604645847703093248/7526993925946737
 # git_repo: 
 download:
   url: https://groups.google.com/group/bananahackers/attach/cff5882d389fb/telnetd.zip?part=0.5&authuser=0
-  version: 1.1.0
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/telnetd.json
 type: root
 license: Unknown
 author: speeduploop

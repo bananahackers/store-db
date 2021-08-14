@@ -10,7 +10,7 @@ license: MIT
 # git_repo: 
 download:
   url: https://qichuan.github.io/kaios-twitter-gh/release/tweetfit_0.1.2_bHStore.zip
-  version: "0.1.2"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/tweetfit.json
 author:  ZHANG Qichuan<https://github.com/qichuan>
 maintainer: ZHANG Qichuan<https://github.com/qichuan>
 has_tracking: true

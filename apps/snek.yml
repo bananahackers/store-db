@@ -11,7 +11,7 @@ screenshots:
 website: "http://gameloft.com"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/snek.zip?inline=false"
-  version: "2.2"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/snek.json
 type: certified
 license: Unknown
 author: Gameloft <support@gameloft.com>

@@ -10,7 +10,7 @@ website: https://xkcd.com/
 git_repo: https://github.com/aaronrolls/kaios/tree/master/xkcd%20viewer
 download:
   url: https://github.com/aaronrolls/kaios/blob/master/xkcd%20viewer/versions/0.0.2/xkcd%20viewer.zip?raw=true
-  version: "0.0.2"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/xkcd.json
 author:  Aaron Rolls<https://bananahackers.net>
 maintainer: Aaron Rolls<https://bananahackers.net>
 has_tracking: false

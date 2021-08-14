@@ -10,7 +10,7 @@ icon: https://gitlab.com/suborg/wallace-toolbox/-/raw/master/img/werewolf-112.pn
 git_repo: https://gitlab.com/suborg/wallace-toolbox
 download:
   url: https://gitlab.com/suborg/wallace-toolbox/uploads/00f74da910b22737749f0b095b92b81f/wallace-toolbox-current.zip
-  version: 0.0.5
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/wallacetoolbox.json
 type: root
 license: Unknown
 author: Luxferre/Suborg/Nihilist

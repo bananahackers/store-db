@@ -9,7 +9,7 @@ icon: https://raw.githubusercontent.com/canicjusz/10000h/master/minified/img/ico
 git_repo: https://github.com/canicjusz/10000h
 download:
   url: https://github.com/canicjusz/10000h/raw/master/10000h.zip
-  version: "1.0.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/10000h.json
 type: privileged
 license: WTFPL
 author: Jan Michalak <janmichalak@int.pl>

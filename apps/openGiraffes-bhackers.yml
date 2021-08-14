@@ -15,7 +15,7 @@ website: https://opengiraffes.top
 git_repo: https://github.com/openGiraffes/openGiraffes-store-client
 download:
   url: https://git.yumenaka.net/https://github.com/openGiraffes/openGiraffes-store-client/releases/latest/download/openGiraffes-store-bHackers.zip
-  version: "2.1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/openGiraffes-bhackers.json
 author: openGiraffes
 maintainer: openGiraffes
 has_tracking: true

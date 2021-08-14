@@ -6,7 +6,7 @@ icon: https://gitlab.com/musky603/bh-apps/-/raw/master/rpsIdnLogo.png
 license: Proprietary
 download:
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/roposo.zip
-  version: "1.0.0.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/roposo.json
 author:  Rk Tech Youtube<http://easyonlineshop.rf.gd>
 maintainer: Rk Tech Youtube<http://easyonlineshop.rf.gd>
 has_tracking: true

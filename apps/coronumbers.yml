@@ -8,7 +8,7 @@ screenshots:
 git_repo: https://github.com/jkelol111/CoroNumbers
 download:
   url: https://github.com/jkelol111/CoroNumbers/releases/download/v1.0.4/coronumbers-1.0.4-stable-omnisd.zip
-  version: "1.0.4"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/coronumbers.json
 type: privileged
 license: MIT
 author: jkelol111

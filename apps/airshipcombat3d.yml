@@ -10,7 +10,7 @@ screenshots:
 website: "https://ays-arts.de"
 download:
   url: "https://ays-arts.de/public/ac3d/ac3d_1.4.22.zip"
-  version: "1.4.22"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/airshipcombat3d.json
 type: privileged
 license: Unknown
 author: Christian Waadt <contact@ays-arts.de>

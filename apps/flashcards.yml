@@ -9,7 +9,7 @@ icon: https://raw.githubusercontent.com/canicjusz/flashcards/master/flashcards_1
 git_repo: https://github.com/canicjusz/flashcards
 download:
   url: https://github.com/canicjusz/flashcards/blob/master/flashcards.zip?raw=true
-  version: "1.1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/flashcards.json
 type: privileged
 license: WTFPL
 author: Jan Michalak <janmichalak@int.pl>

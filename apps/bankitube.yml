@@ -18,7 +18,7 @@ screenshots:
 website: "https://alego.web.fc2.com/kaiosapps/bankitube/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/bankitube.zip?inline=false"
-  version: "0.0.4"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/bankitube.json
 type: privileged
 locales: 
   - English

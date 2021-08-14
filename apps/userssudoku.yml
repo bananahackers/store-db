@@ -10,7 +10,7 @@ screenshots:
 git_repo: https://github.com/user18130814200115-2/User-s-sudoku
 download:
   url: https://github.com/user18130814200115-2/User-s-sudoku/releases/download/Latest/userssudoku.zip
-  version: "1.3"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/userssudoku.json
 type: packaged
 license: MIT
 author: User18130814200115

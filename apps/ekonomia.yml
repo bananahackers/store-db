@@ -4,7 +4,7 @@ icon: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia/ekonomia.png"
 website: "https://github.com/arma7x/The-Economy"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ekonomia/ekonomia.zip?inline=false"
-  version: "1.0.2"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/ekonomia.json
 type: hosted
 license: MIT
 author: arma7x <arma7x@live.com>

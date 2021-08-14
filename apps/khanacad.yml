@@ -10,7 +10,7 @@ license: Proprietary
 git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/khanacademy
 download:
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/khanacademy/khanV1.zip
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/khanacad.json
 author:  Sylvain D<https://bananahackers.net>
 maintainer: Fanofgk<https://bananahackers.net>
 has_tracking: false
