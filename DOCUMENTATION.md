@@ -57,6 +57,8 @@ of an app and did not add a manifest URL yet, you should replace it with a link
 to your manifest, make sure that it has a version and delete the generated
 file.**
 
+See [Package Format](#package-format) for the app package format.
+
 ```yaml
 download:
   url: https://app.example.com/package.zip
@@ -164,4 +166,25 @@ if advertising will appear
 .has_ads: true
 ```
 
+## Package format
 
+Packages are in the [OmniSD format](https://wiki.bananahackers.net/en/development/your-first-app#the-app-format-accepted-by-omnisd). The app package is a zip
+containing two files:
+
+ - `application.zip` - a nested zip containing the app code
+ - `metadata.json` - the metadata file.
+
+> **IMPORTANT: The manifestURL in the metadata file must be the same as the
+> `download.manifest` property in the app's `.yml` file, otherwise some clients
+> might fail to identify an installed app.**
+
+Here is an example metadata file:
+```json
+{
+  "version": 1,
+  "manifestURL": "https://app.example.com/manifest.webapp"
+}
+```
+
+`version` must always be `1` since it is the version of the package format, not
+the app version.
