@@ -1,0 +1,19 @@
+name: MDX Dictionary
+description: MDX Dictionary allows you to open MDict dictionary(mdx only) files, and you can easily search the dictionary in the app
+icon: "https://raw.githubusercontent.com/arma7x/kai-mdx-dictionary/master/icons/icon112x112.png"
+website: "https://github.com/arma7x"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/mdx.zip?inline=false"
+  version: "1.0.0"
+type: privileged
+locales: 
+  - English
+license: MIT
+author: arma7x
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: MDX; 
+  categories:
+   - utility
