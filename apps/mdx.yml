@@ -4,7 +4,7 @@ icon: "https://raw.githubusercontent.com/arma7x/kai-mdx-dictionary/master/icons/
 website: "https://github.com/arma7x"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/mdx.zip?inline=false"
-  version: "1.0.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/mdx.json
 type: privileged
 locales: 
   - English
