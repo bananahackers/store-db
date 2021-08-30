@@ -16,7 +16,7 @@ license: MIT
 # git repo is optional
 git_repo: https://github.com/strukturart/o.map
 download:
-  url: https://github.com/strukturart/osm-map/releases/latest/download/omap.zip
+  url: https://github.com/strukturart/osm-map/releases/latest/download/o.map.zip
   version: "1.1.0"
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
