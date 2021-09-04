@@ -1,0 +1,19 @@
+name: Habit Tracker
+description: Habit Tracker is an app to track your daily habits or if you want to stop yourself from bad habits.
+icon: "https://raw.githubusercontent.com/arma7x/kai-habit-tracker/master/icons/icon112x112.png"
+website: "https://github.com/arma7x/kai-habit-tracker/"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/habit/habit.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/habit/manifest.webapp"
+type: privileged
+locales: 
+  - English
+license: MIT
+author: arma7x <ahmadmuhamad101@gmail.com>
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: Habit;
+  categories:
+   - utility

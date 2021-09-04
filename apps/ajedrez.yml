@@ -1,6 +1,6 @@
 name: K-Chess
 description: K-Chess is unofficial lichess.org client for KaiOS
-icon: "https://raw.githubusercontent.com/arma7x/kai-chess/master/icon.png"
+icon: "https://raw.githubusercontent.com/arma7x/kai-chess/master/icons/icon112x112.png"
 website: "https://github.com/arma7x/kai-chess"
 screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/843903502043447327/VQ2PUi1daAAAAAElFTkSuQmCC.png"
@@ -8,11 +8,11 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/843902139041841212/4LfCWLRcXDay8AAAAASUVORK5CYII.png"
   - "https://cdn.discordapp.com/attachments/472144650128457738/843902427769208912/cC7NadQ7ZRAAAAABJRU5ErkJggg.png"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ajedrez.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/ajedrez.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/chess/ajedrez.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/chess/manifest.webapp"
 type: privileged
 license: MIT
-author: arma7x <arma7x@live.com>
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false

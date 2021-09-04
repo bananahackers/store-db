@@ -9,11 +9,11 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/472144650128457738/834140704371376128/out2.png"
 website: "https://github.com/arma7x/telekram"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/telekram/telekram.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/telekram.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/telekram/telekram.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/telekram/manifest.webapp"
 type: privileged
 license: GPLv3
-author: arma7x <arma7x@live.com>
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus1@outlook.com>
 locales:
   - English

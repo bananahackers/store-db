@@ -3,13 +3,13 @@ description: MDX Dictionary allows you to open MDict dictionary(mdx only) files,
 icon: "https://raw.githubusercontent.com/arma7x/kai-mdx-dictionary/master/icons/icon112x112.png"
 website: "https://github.com/arma7x"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/mdx.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/mdx.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/mdx/mdx.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/mdx/manifest.webapp"
 type: privileged
 locales: 
   - English
 license: MIT
-author: arma7x
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
