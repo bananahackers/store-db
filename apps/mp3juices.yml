@@ -8,7 +8,7 @@ license: Unknown
 website: https://www.mp3juices.cc
 download: 
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/mp3juices/mp3juices_cc.zip
-  version: "0.0.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/mp3juices.json
 author: S Aronno <https://www.youtube.com/channel/UCroSTt_KrlgJGwA-ODT2frA>
 maintainer: S Aronno <https://www.youtube.com/channel/UCroSTt_KrlgJGwA-ODT2frA>
 has_tracking: true

@@ -48,8 +48,10 @@ function validate_apps(appData, availibleCategories) {
         } else if (!isUrl(appData.download.url)) {
             error("download.url invalid")
         }
-        if (isEmpty(appData.download.version)) {
-            error("download.version missing")
+        if (isEmpty(appData.download.manifest)) {
+            error("download.manifest missing")
+        } else if (!isUrl(appData.download.manifest)) {
+            error("download.manifest invalid")
         }
     } else {
         error("Download field missing")
@@ -226,12 +228,15 @@ async function main() {
 
     for (let i = 0; i < cfiles.length; i++) {
         const file = cfiles[i]
+        if (!(/\.ya?ml$/.test(file))) {
+            continue
+        }
         console.log("... Processing", file, '...')
         try {
             const yaml_content = await fs.readFile(join(CATEGORIES, file), 'utf-8')
             const data = yaml.load(yaml_content)
             validate_category(data)
-            categories[file.replace(/.ya?ml/, "")] = data
+            categories[file.replace(/\.ya?ml$/, "")] = data
         } catch (error) {
             console.error(`Error/s in ${file}:\n`, error.message)
             success = false
@@ -251,13 +256,16 @@ async function main() {
 
     for (let i = 0; i < afiles.length; i++) {
         const file = afiles[i]
+        if (!(/\.ya?ml$/.test(file))) {
+            continue
+        }
         console.log("... Processing", file, '...')
         try {
             const yaml_content = await fs.readFile(join(APPS, file), 'utf-8')
             const appData = yaml.load(yaml_content)
             validate_apps(appData, Object.keys(categories))
             
-            appData.slug = file.replace(/.ya?ml/, "")
+            appData.slug = file.replace(/\.ya?ml$/, "")
             // download icon
             download_queu.push(
                 download_icon(appData.slug, appData.icon)
@@ -291,7 +299,7 @@ async function main() {
 
     await fs.writeJSON(join(PUBLIC, 'data.json'), {
         $schema: "./schema.json",
-        version: 2,
+        version: 3,
         generated_at,
         categories,
         apps

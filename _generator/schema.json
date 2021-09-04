@@ -63,13 +63,13 @@
                             "url": {
                                 "type": "string"
                             },
-                            "version": {
+                            "manifest": {
                                 "type": "string"
                             }
                         },
                         "required": [
                             "url",
-                            "version"
+                            "manifest"
                         ]
                     },
                     "author": {

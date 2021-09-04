@@ -11,7 +11,7 @@ website: https://github.com/strukturart/wikipedia-search
 git_repo: https://github.com/strukturart/wikipedia-search/blob/master/build/wikipedia.zip
 download: 
   url: https://github.com/strukturart/wikipedia-search/blob/master/build/wikipedia.zip?raw=true
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/wikipedia-search.json
 author: strukturart<https://github.com/strukturart>
 maintainer:  strukturart<https://github.com/strukturart>
 has_tracking: false

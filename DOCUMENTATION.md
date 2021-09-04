@@ -50,11 +50,19 @@ icon: "https://app.example.com/icon.png"
 this url can't be shortened because it must include `.png`, `.jpeg` or `.gif` at the end
 
 ### .download
-An object that contains a url to the app and the version it is in.
+An object that contains a url to the app and the manifest. The manifest is used
+to fetch the latest version, so it must contain a `version` property.
+**Old apps have a generated manifest in this repository. If you are the owner
+of an app and did not add a manifest URL yet, you should replace it with a link
+to your manifest, make sure that it has a version and delete the generated
+file.**
+
+See [Package Format](#package-format) for the app package format.
+
 ```yaml
 download:
-  url: https://github.com/strukturart/rss-reader/blob/master/build/rss-reader.zip
-  version: "1.0"
+  url: https://app.example.com/package.zip
+  manifest: https://app.example.com/manifest.webapp
 ```
 
 ### .type 
@@ -121,6 +129,7 @@ license: MIT
 > **Why?** Because if you don't and according to [Berne convention](https://en.wikipedia.org/wiki/Berne_Convention)
 > your app will be closed source and propiety which no one else can re-distribute or change
 > **even if you release its source code** on Github or Gitlab or anywhere else.
+
 {: .alert .alert-danger}
 
 ### .screenshots (optional)
@@ -157,4 +166,25 @@ if advertising will appear
 .has_ads: true
 ```
 
+## Package format
 
+Packages are in the [OmniSD format](https://wiki.bananahackers.net/en/development/your-first-app#the-app-format-accepted-by-omnisd). The app package is a zip
+containing two files:
+
+ - `application.zip` - a nested zip containing the app code
+ - `metadata.json` - the metadata file.
+
+> **IMPORTANT: The manifestURL in the metadata file must be the same as the
+> `download.manifest` property in the app's `.yml` file, otherwise some clients
+> might fail to identify an installed app.**
+
+Here is an example metadata file:
+```json
+{
+  "version": 1,
+  "manifestURL": "https://app.example.com/manifest.webapp"
+}
+```
+
+`version` must always be `1` since it is the version of the package format, not
+the app version.

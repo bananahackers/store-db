@@ -10,7 +10,7 @@ license: Unknown
 git_repo: https://gitlab.com/musky603/bh-apps/-/tree/master/chemicalaid
 download:
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/chemicalaid/ChemicalAid.zip
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/chemicala.json
 author:  S Aronno<https://bananahackers.net>
 maintainer: S Aronno<https://bananahackers.net>
 has_tracking: false

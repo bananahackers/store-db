@@ -6,7 +6,7 @@ type: privileged
 git_repo: https://gitlab.com/guide42/plastic-map
 download:
   url: https://gitlab.com/guide42/plastic-map/uploads/ab15f178d0e1e341ec4fd0c3a722af96/plastic-map-v0.4.0.zip
-  version: "0.4.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/plastic-map.json
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false

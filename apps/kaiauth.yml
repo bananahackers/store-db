@@ -12,7 +12,7 @@ website: https://kaiauth.zjyl1994.com
 git_repo: https://github.com/zjyl1994/KaiAuth
 download:
   url: https://kaiauth.zjyl1994.com/download/kaiauth-omnisd-latest.zip
-  version: "1.1.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kaiauth.json
 type: privileged
 license: MIT
 author: zjyl1994 <me@zjyl1994.com>

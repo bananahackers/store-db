@@ -12,7 +12,7 @@ license: MIT
 git_repo: https://github.com/Delta-Applications/delta.map
 download:
   url: https://raw.githubusercontent.com/Delta-Applications/delta.map/main/build.zip
-  version: "1.0.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/delta-map.json
 author: LolloDev5123;
 maintainer: LolloDev5123;
 has_tracking: false

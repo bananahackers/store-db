@@ -7,7 +7,7 @@ screenshots:
 git_repo: https://github.com/GP4Flo/Topo-Map
 download:
   url: https://github.com/user18130814200115-2/Topo-Map/releases/download/latest/topomap.zip
-  version: "1.0.4"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/topomap.json
 type: packaged
 license: MIT
 author: GP4Flo

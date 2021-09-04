@@ -10,7 +10,7 @@ icon: https://gitlab.com/suborg/omnibb/-/raw/master/img/icon112.png?inline=false
 git_repo: https://gitlab.com/suborg/omnibb
 download:
   url: https://cloud.disroot.org/s/xG6eg3XEtE5naZk/download
-  version: 0.0.1
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/omnibb.json
 type: root
 license: Unknown
 author: Luxferre/Suborg/Nihilist

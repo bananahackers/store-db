@@ -6,7 +6,7 @@ type: packaged
 git_repo: https://gitlab.com/guide42/guita
 download:
   url: https://gitlab.com/guide42/guita/uploads/c159ec33acb59dc9dcd5537a82b674f7/guita-v0.3.0.zip
-  version: "0.3.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/guita.json
 author: Juan M <http://jm.guide42.com>
 maintainer: Juan M <http://jm.guide42.com>
 has_tracking: false

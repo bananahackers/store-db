@@ -3,7 +3,7 @@ description: 'The first KaiOS video poker game under 3K bytes (unpacked), featur
 icon: https://i.imgur.com/UsmWBhn.png 
 download:
   url: https://cloud.disroot.org/s/JcjPF3k6RAp2x4a/download
-  version: "0.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/dotkvp.json
 type: packaged
 license: Unlicense <https://unlicense.org/>
 author: Luxferre

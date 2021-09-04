@@ -10,7 +10,7 @@ screenshots:
 website: "https://github.com/arma7x/telekram"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/telekram/telekram.zip?inline=false"
-  version: "0.7.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/telekram.json
 type: privileged
 license: GPLv3
 author: arma7x <arma7x@live.com>

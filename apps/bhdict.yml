@@ -10,7 +10,7 @@ license: Unknown
 git_repo: https://github.com/musky603/E-M-Dictionary/
 download:
   url: https://gitlab.com/musky603/bh-apps/-/raw/master/medidictV1.10.zip
-  version: "1.10"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/bhdict.json
 author:  Fanofgk<http://easyonlineshop.rf.gd>
 maintainer: Fanofgk<http://easyonlineshop.rf.gd>
 has_tracking: false

@@ -10,7 +10,7 @@ screenshots:
 website: "https://github.com/arma7x/kaimusic"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/kaimusic.zip?inline=false"
-  version: "1.9.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kmusic.json
 type: privileged
 license: MIT
 author: arma7x <arma7x@live.com>

@@ -9,7 +9,7 @@ screenshots:
 website: "https://alego.web.fc2.com/kaiosapps/sequiviewer/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer.zip?inline=false"
-  version: "0.0.21"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/sequiviewer.json
 type: privileged
 license: unknown
 author: ale4710 <alego4710@vivaldi.net>

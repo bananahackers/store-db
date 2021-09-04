@@ -11,7 +11,7 @@ screenshots:
 website: "https://groups.google.com/g/bananahackers/c/8oVmcMmjysY/m/CgLYfTvhCgAJ"
 download:
   url: "https://cdn.discordapp.com/attachments/687788038298140732/834391369756966992/gmaps_for_kaios_with_micro.zip"
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/gmaps.json
 type: certified
 license: unknown
 author: Google

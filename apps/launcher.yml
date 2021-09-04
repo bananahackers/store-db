@@ -15,7 +15,7 @@ website: https://github.com/strukturart/qlauncher
 git_repo: https://github.com/strukturart/qlauncher
 download:
   url: https://github.com/strukturart/qlauncher/blob/master/build/qlauncher.zip?raw=true
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/launcher.json
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
 has_tracking: false

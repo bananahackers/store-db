@@ -6,7 +6,7 @@ screenshots:
 website: "https://alego.web.fc2.com/kaiosapps/musmushighway/"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/mmh.zip?inline=false"
-  version: "0.1.1"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/mmh.json
 type: privileged
 locales: 
   - English

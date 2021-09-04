@@ -9,7 +9,7 @@ icon: https://raw.githubusercontent.com/canicjusz/Zipper/master/zipper_128.png
 git_repo: https://github.com/canicjusz/Zipper
 download:
   url: https://github.com/canicjusz/Zipper/blob/master/Zipper.zip?raw=true
-  version: "1.1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/zipper.json
 type: privileged
 license: WTFPL
 author: Jan Michalak <janmichalak@int.pl>

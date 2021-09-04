@@ -9,7 +9,7 @@ screenshots:
 website: "https://ays-arts.de"
 download:
   url: "https://ays-arts.de/public/kloan/kloan_1.3.3.zip"
-  version: "1.3.3"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kloan.json
 type: privileged
 license: Unknown
 author: Christian Waadt <contact@ays-arts.de>

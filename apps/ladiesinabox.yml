@@ -9,7 +9,7 @@ website: http://michelangelo.altervista.org/kaios/#ladies
 git_repo: https://github.com/micheg/ladies_in_trouble/tree/open_store
 download:
   url: https://github.com/micheg/ladies_in_trouble/releases/download/open/open_ladies.zip
-  version: "1.1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/ladiesinabox.json
 type: packaged
 license: MIT
 author: micheg

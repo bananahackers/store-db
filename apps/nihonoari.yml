@@ -16,7 +16,7 @@ screenshots:
 website: "https://github.com/cyan-2048/Nihonoari-KaiOS"
 download:
   url: "https://github.com/cyan-2048/Nihonoari-KaiOS/releases/download/v1.0.9/nihonoari-omni.zip"
-  version: "1.0.9"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/nihonoari.json
 type: packaged
 locales: 
   - English

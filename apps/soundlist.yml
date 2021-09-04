@@ -7,7 +7,7 @@ screenshots:
 git_repo: https://github.com/FabianOvrWrt/kaios-freshapps
 download:
   url: https://github.com/FabianOvrWrt/kaios-freshapps/raw/master/Soundlist.zip
-  version: "1.0"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/soundlist.json
 type: privileged
 license: GPLv3
 author: FabianOvrWrt
