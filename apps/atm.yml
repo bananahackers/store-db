@@ -15,5 +15,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
+  tags: Money;
   categories:
    - utility
