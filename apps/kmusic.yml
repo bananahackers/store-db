@@ -1,19 +1,19 @@
 name: K-Music
 description: An audio player for KaiOS with playlist manager + Equalizer + MP3 Cutter/Trimmer.
-icon: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/musiku.png"
+icon: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/musiku.png"
 screenshots:
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen1.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen2.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen3.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen4.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/screen5.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen1.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen2.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen3.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen4.png"
+  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen5.png"
 website: "https://github.com/arma7x/kaimusic"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/kaimusic/kaimusic.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kmusic.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/kaimusic.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/manifest.webapp"
 type: privileged
 license: MIT
-author: arma7x <arma7x@live.com>
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false

@@ -3,11 +3,11 @@ description: File Manager & Kloudless app(unofficial) for KaiOS
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/839176477325000734/b2gffff.png"
 website: "https://github.com/arma7x/b2gfm"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/b2gfm.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/b2gfm.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/b2gfm/b2gfm.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/b2gfm/manifest.webapp"
 type: privileged
 license: MIT
-author: arma7x <arma7x@live.com>
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
 has_tracking: false

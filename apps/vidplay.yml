@@ -1,0 +1,20 @@
+name: K-Video Player
+description: K-Video Player is a full-featured video player. Supports VTT/SRT, auto-resume last playback duration, control playback rate, screenshot & fullscreen.
+icon: "https://raw.githubusercontent.com/arma7x/k-video-player/master/icons/icon112x112.png"
+
+website: "https://github.com/arma7x/k-video-player"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/vidplay/vidplay.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/vidplay/manifest.webapp"
+type: privileged
+locales: 
+  - English
+license: MIT
+author: arma7x <ahmadmuhamad101@gmail.com>
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: video;
+  categories:
+   - multimedia

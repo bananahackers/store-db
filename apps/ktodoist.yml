@@ -3,11 +3,11 @@ description: K-Todoist is a unoffical Todoist client for KaiOS
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/839173492028866571/todotodo.png"
 website: "https://github.com/arma7x/k-todoist"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/k-todoist.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/ktodoist.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ktodoist/ktodoist.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ktodoist/manifest.webapp"
 type: privileged
 license: MIT
-author: arma7x <arma7x@live.com>
+author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
 has_tracking: false
