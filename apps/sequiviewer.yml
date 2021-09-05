@@ -8,8 +8,8 @@ screenshots:
   - "https://alego.web.fc2.com/kaiosapps/sequiviewer/wread-sc4.png"
 website: "https://alego.web.fc2.com/kaiosapps/sequiviewer/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/sequiviewer.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer/sequiviewer.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/sequiviewer/manifest.webapp"
 type: privileged
 license: unknown
 author: ale4710 <alego4710@vivaldi.net>
