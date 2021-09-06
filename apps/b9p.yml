@@ -8,8 +8,8 @@ screenshots:
   - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n4.png"
 website: "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/b9p.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p/b9p.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p/manifest.webapp"
 type: privileged
 license: unknown
 author: ale4710 <alego4710@vivaldi.net>

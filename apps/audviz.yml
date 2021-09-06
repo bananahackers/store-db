@@ -12,8 +12,8 @@ screenshots:
   - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot8.png"
 website: "https://alego.web.fc2.com/kaiosapps/audiovis/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/audviz.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/audviz.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/audviz/audviz.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/audviz/manifest.webapp"
 type: privileged
 locales: 
   - English
