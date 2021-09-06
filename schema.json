@@ -1,0 +1,135 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "version": {
+            "description": "The version of the format of the file.",
+            "type": "integer"
+        },
+        "generated_at": {
+            "type": "integer"
+        },
+        "categories": {
+            "type": "object",
+            "patternProperties": {
+                ".": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "icon": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "apps": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "icon": {
+                        "type": "string"
+                    },
+                    "screenshots": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "license": {
+                        "type": "string"
+                    },
+                    "website": {
+                        "type": "string"
+                    },
+                    "git_repo": {
+                        "type": "string"
+                    },
+                    "download": {
+                        "type": "object",
+                        "properties": {
+                            "url": {
+                                "type": "string"
+                            },
+                            "manifest": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "url",
+                            "manifest"
+                        ]
+                    },
+                    "author": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "maintainer": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "meta": {
+                        "type": "object",
+                        "properties": {
+                            "tags": {
+                                "type": "string"
+                            },
+                            "categories": {
+                                "type": "array",
+                                "items": [
+                                    {
+                                        "type": "string"
+                                    }
+                                ]
+                            }
+                        },
+                        "required": [
+                            "tags",
+                            "categories"
+                        ]
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "name",
+                    "description",
+                    "icon",
+                    "license",
+                    "download",
+                    "author",
+                    "maintainer",
+                    "meta",
+                    "type",
+                    "slug"
+                ]
+            }
+        }
+    },
+    "required": [
+        "version",
+        "generated_at",
+        "categories",
+        "apps"
+    ]
+}
