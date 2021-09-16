@@ -1,0 +1,19 @@
+name: OmniSD
+description: Install KaiOS apps from SD card.
+icon: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/omnisd/i.png"
+website: "https://wiki.bananahackers.net/install-omnisd"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/omnisd/omnisd.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/omnisd/manifest.webapp"
+type: certified
+locales: 
+  - English
+license: unknown
+author: Luxferre
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: omnisd; sideload;
+  categories:
+   - utility

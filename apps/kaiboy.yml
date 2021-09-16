@@ -9,12 +9,12 @@ website: https://groups.google.com/g/bananahackers/c/H1bsIJOnOTM/m/_vFwJ9ejAgAJ
 # git repo is optional
 # git_repo: 
 download:
-  url: https://cdn.discordapp.com/attachments/687788038298140732/834354419800735764/KaiBoy-0.1.0.gpkg.zip
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/kaiboy.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kaiboy/kaiboy.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kaiboy/manifest.webapp"
 type: privileged
 license: Unknown
-author: Luxferre/Suborg/Nihilist
-maintainer: jkelol111
+author: Luxferre
+maintainer: Cyan <cyankindasus@protonmail.com>
 # donation is optional
 # donation:
 has_ads: false

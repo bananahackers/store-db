@@ -1,0 +1,20 @@
+name: DALE-8
+description: This is a CHIP-8 platform emulator. It was completely created from scratch and initially was intended as a GerdaOS easter egg. Now, it's released as a stand-alone application into public domain. The unpacked engine source (dale.js) can be found in the src/ directory.
+icon: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/dale8/i.png"
+website: "https://gitlab.com/suborg/dale-8"
+download:
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/dale8/dale8.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/dale8/manifest.webapp"
+type: privileged
+locales: 
+  - English
+license: Unlicense <https://unlicense.org/>
+author: Luxferre
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: chip-8; emulator; 
+  categories:
+   - utility
+   - games

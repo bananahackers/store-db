@@ -1,22 +1,14 @@
 name: Wallace Toolbox
 description: Universal toolbox for KaiOS internal tweaking.
 icon: https://gitlab.com/suborg/wallace-toolbox/-/raw/master/img/werewolf-112.png?inline=false
-# screenshots are optional
-# screenshots:
-  
-# website is optional
-# website: 
-# git repo is optional
 git_repo: https://gitlab.com/suborg/wallace-toolbox
 download:
-  url: https://gitlab.com/suborg/wallace-toolbox/uploads/00f74da910b22737749f0b095b92b81f/wallace-toolbox-current.zip
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/wallacetoolbox.json
+  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/wallace-toolbox/wallace-toolbox.zip"
+  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/wallace-toolbox/manifest.webapp"
 type: root
 license: Unknown
-author: Luxferre/Suborg/Nihilist
-maintainer: jkelol111
-# donation is optional
-# donation:
+author: Luxferre
+maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
