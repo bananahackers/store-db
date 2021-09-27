@@ -1,0 +1,20 @@
+name: FoxCast Lite
+description: Foxcasts is an app for subscribing to and listening to podcasts. It started off on FirefoxOS and has been twice rebuilt from the ground up using different frameworks for KaiOS and as a general web app.
+icon: "https://raw.githubusercontent.com/garredow/foxcasts-lite/67c2a4121003bffd88ccd06a261cad8e691dafdf/src/assets/icons/icon-128.png"
+screenshots:
+ - "https://raw.githubusercontent.com/garredow/foxcasts-lite/67c2a4121003bffd88ccd06a261cad8e691dafdf/promo/foxcasts_banner1.png"
+website: "https://garrettdowns.com"
+download:
+  url: "https://github.com/JuanCarlosM1/foxcasts-lite/releases/download/v0.1.0/foxcasts-lite-v0.1.0.26-09-2021.zip"
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/FoxCastLite.json
+type: privileged
+license: MIT
+author: Garrett Downs
+maintainer: JuanCarlosM1
+has_ads: false
+has_tracking: unknown
+meta:
+  tags: podcasts; audio; news; Fox; Cast; Lite;
+  categories:
+   - news
+   - multimedia
