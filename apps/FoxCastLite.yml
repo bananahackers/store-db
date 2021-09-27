@@ -12,7 +12,7 @@ license: MIT
 author: Garrett Downs
 maintainer: JuanCarlosM1
 has_ads: false
-has_tracking: unknown
+has_tracking: true
 meta:
   tags: podcasts; audio; news; Fox; Cast; Lite;
   categories:
