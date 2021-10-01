@@ -5,7 +5,7 @@ screenshots:
  - "https://raw.githubusercontent.com/garredow/foxcasts-lite/67c2a4121003bffd88ccd06a261cad8e691dafdf/promo/foxcasts_banner1.png"
 website: "https://garrettdowns.com"
 download:
-  url: "https://github.com/JuanCarlosM1/foxcasts-lite/releases/download/v0.1.0/foxcasts-lite-v0.1.0.26-09-2021.zip"
+  url: "https://github.com/JuanCarlosM1/Apps-Download/blob/main/foxcasts-lite-v0.1.0%20beta.zip?raw=true"
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/FoxCastLite.json
 type: privileged
 license: MIT
