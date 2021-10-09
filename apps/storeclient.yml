@@ -1,0 +1,17 @@
+name: Store Client
+description: An almost universal client for KaiOS app stores. Supports both KaiStore and B-Hackers Store. Can update apps via Self-Debugging and falls back to OmniSD method if Self-Debugging is unavailable. Spoofs your IMEI and other personal data when accessing KaiStore.
+icon: https://gitlab.com/affenull2345/store-client/-/raw/main/public/icon_112.png
+git_repo: https://gitlab.com/affenull2345/store-client
+download:
+  url: https://affenull2345.gitlab.io/store-client/store.zip
+  manifest: https://affenull2345.gitlab.io/store-client/manifest.webapp
+type: certified
+license: Apache-2.0
+author: "Affe Null <affenull2345@gmail.com>"
+maintainer: "Affe Null <affenull2345@gmail.com>"
+has_ads: false
+has_tracking: false
+meta:
+  tags: appstore; bhackers;
+  categories:
+   - utility
