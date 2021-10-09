@@ -10,7 +10,7 @@ website:
 git_repo: 
 download:
   url: 
-  version:
+  manifest:
 type:
 license:
 author: 
