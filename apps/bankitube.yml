@@ -2,20 +2,20 @@ name: BankiTube
 description: Easily watch and listen to YouTube on your KaiOS device. It basically uses Invidious. The best part is that it does not use the cursor, because the cursor is a pain in the behind to use. It's called BankiTube for no special reason beside the fact I like Sekibanki.
 icon: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/bankitube.png?inline=false"
 screenshots:
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/homescreen.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/searchresults.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/videoinfo.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/comments.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/listenscreen.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen-captions.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/videofullscreen-vertical.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/playlist.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/channel.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/videoactions.png"
-  - "https://alego.web.fc2.com/kaiosapps/bankitube/history.png"
-  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/homescreen.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/search-results-carosel.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/videoinfo.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/comments.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/listenmode.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/relatedvideos.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen-vertical.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/videoactions.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/watchscreen-playlist.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/channel.png"  
+  - "https://alego.web.fc2.com/kaiosapps/bankitube/history.png"  
 website: "https://alego.web.fc2.com/kaiosapps/bankitube/"
+git_repo: "https://gitlab.com/ale4710/bankitube"
 download:
   url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/bankitube/bankitube.zip"
   manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/bankitube/manifest.webapp"
@@ -28,6 +28,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: YouTube; "Best YouTube Player for KaiOS"; Invidious; Sekibanki;
+  tags: YouTube; Best YouTube Player for KaiOS; Invidious; Sekibanki;
   categories:
    - multimedia
