@@ -1,0 +1,26 @@
+name: Mocha radio
+description: Listen to music from more than 20.000 internet radio stations streaming live right now. View album cover and song titles. Record music and listen when offline.
+icon: "https://mochasoft.dk/kaios/mocharadio/icon112x112.png"
+screenshots:
+  - "https://mochasoft.dk/kaios/mocharadio/screen1.png"
+  - "https://mochasoft.dk/kaios/mocharadio/screen2.png"
+  - "https://mochasoft.dk/kaios/mocharadio/screen3.png"
+  - "https://mochasoft.dk/kaios/mocharadio/screen4.png"
+  - "https://mochasoft.dk/kaios/mocharadio/screen5.png"
+website: "https://mochasoft.dk"
+download:
+  url: "https://mochasoft.dk/kaios/mocharadio/mocharadio.zip"
+  manifest: "https://mochasoft.dk/kaios/mocharadio/manifest.webapp"
+type: privileged
+license: Unknown
+author: Jan Frydendal <jan@mochasoft.dk>
+maintainer: Jan Frydendal <jan@mochasoft.dk>
+has_ads: false
+has_tracking: false
+meta:
+  tags: radio; music; streaming ; mocha;
+  categories:
+   - multimedia
+   - news
+
+   
