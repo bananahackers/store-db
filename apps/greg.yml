@@ -16,13 +16,13 @@ download:
   url: https://github.com/strukturart/greg/releases/latest/download/greg-omnisd.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/greg.json
 author: perry<https://github.com/strukturart>
-maintainer:  perry<https://github.com/strukturart>
+maintainer: perry<https://github.com/strukturart>
 has_tracking: false
 has_ads: false
 donation: https://paypal.me/strukturart
 meta:
-  tags: travel;
+  tags: utility
   categories: 
-   - travel
+   - utility
 type: packaged
 
