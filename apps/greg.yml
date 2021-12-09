@@ -1,0 +1,27 @@
+name: Greg
+description: >
+  Calendar app for KaiOs
+icon: https://raw.githubusercontent.com/strukturart/greg/master/images/logo.png
+# screenshots are optional
+screenshots:
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-1.png
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-2.png
+  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-3.png
+license: MIT
+# website is optional
+# website: https://github.com/strukturart/osm-map
+# git repo is optional
+git_repo: https://github.com/strukturart/greg
+download:
+  url: https://github.com/strukturart/greg/releases/latest/download/greg-omnisd.zip
+  manifest: https://github.com/strukturart/greg/blob/master/application/manifest.webapp
+author: perry<https://github.com/strukturart>
+maintainer: perry<https://github.com/strukturart>
+has_tracking: false
+has_ads: false
+donation: https://paypal.me/strukturart
+meta:
+  tags: utility
+  categories: 
+   - utility
+type: packaged
