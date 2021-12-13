@@ -1,0 +1,20 @@
+name: OrigAMI
+description: Origins of Application Marketless Installation
+icon: 'https://gitlab.com/suborg/origami/-/raw/master/img/icon112.png'
+
+website: 'https://gitlab.com/suborg/origami'
+download:
+  url: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/origami/origami.zip'
+  manifest: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/origami/manifest.webapp'
+type: certified
+locales:
+  - English
+license: The Unlicense
+author: Luxferre
+maintainer: Cyan <cyankindasus@protonmail.com>
+has_ads: false
+has_tracking: false
+meta:
+  tags: luxferre;
+  categories:
+    - utility
