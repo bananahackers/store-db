@@ -1,12 +1,12 @@
 name: Greg
 description: >
   Calendar app for KaiOs
-icon: https://raw.githubusercontent.com/strukturart/greg/master/images/logo.png
+icon: https://raw.githubusercontent.com/strukturart/greg/master/images/logo.svg
 # screenshots are optional
 screenshots:
-  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-1.png
-  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-2.png
-  - https://raw.githubusercontent.com/strukturart/o.map/master/images/image-3.png
+  - https://raw.githubusercontent.com/strukturart/greg/master/images/image-1.png
+  - https://raw.githubusercontent.com/strukturart/greg/master/images/image-2.png
+  - https://raw.githubusercontent.com/strukturart/greg/master/images/image-3.png
 license: MIT
 # website is optional
 # website: https://github.com/strukturart/osm-map
