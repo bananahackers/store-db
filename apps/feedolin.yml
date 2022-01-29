@@ -1,6 +1,6 @@
 name: feedolin
 description: read your favorit rss/atom feeds and stream your podcasts.
-icon: https://raw.githubusercontent.com/strukturart/feedolin/master/images/logo.png
+icon: https://raw.githubusercontent.com/strukturart/feedolin/master/images/logo.svg
 # screenshots are optional
 screenshots:
 - https://github.com/strukturart/feedolin/blob/master/images/image-1.png?raw=true
@@ -14,7 +14,7 @@ website: https://github.com/strukturart/feedolin
 git_repo: https://github.com/strukturart/feedolin
 download:
   url: https://github.com/strukturart/feedolin/releases/latest/download/feedolin-omnisd.zip
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/rss-reader.json
+  manifest: https://raw.githubusercontent.com/strukturart/feedolin/master/application/manifest.webapp
 author:  perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
 has_tracking: false
