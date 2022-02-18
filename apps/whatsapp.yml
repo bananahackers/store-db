@@ -1,14 +1,14 @@
-name: WhatsApp
-description: WhatsApp patched specifically for devices running GerdaOS.
+name: WhatsApp (up-to-date)
+description: "WhatsApp patched specifically for devices running GerdaOS. Now provides automatic updates when there's a new version on the KaiStore!"
 icon: "https://cdn.discordapp.com/attachments/687788038298140732/834155226197393418/whatsapp_112.png"
 website: "https://groups.google.com/g/bananahackers/c/AStA-oas3Jg"
 download:
-  url: "https://cdn.discordapp.com/attachments/687788038298140732/834149222105743373/whatsapp-debug-20210312.gpkg.zip"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/whatsapp.json
+  url: "http://89.58.28.240/waptcher/latest-bundle-whatsapp.zip"
+  manifest: "http://89.58.28.240/waptcher/manifest-latest.json"
 type: certified
-license: Proprietary
-author: Affe Null
-maintainer: Cyan <cyankindasus1@outlook.com>
+license: UNLICENSED
+author: WhatsApp
+maintainer: Affe Null
 has_ads: false
 has_tracking: true
 meta:
