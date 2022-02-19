@@ -2,15 +2,15 @@ name: KaiBoy
 description: The first Nintendo Game Boy and Game Boy Color emulator port for KaiOS.
 icon: https://media.discordapp.net/attachments/687788038298140732/829186884642668564/unknown.png
 # screenshots are optional
-# screenshots: 
-  
+# screenshots:
+
 # website is optional
 website: https://groups.google.com/g/bananahackers/c/H1bsIJOnOTM/m/_vFwJ9ejAgAJ
 # git repo is optional
-# git_repo: 
+# git_repo:
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kaiboy/kaiboy.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kaiboy/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/kaiboy/kaiboy.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/kaiboy/manifest.webapp"
 type: privileged
 license: Unknown
 author: Luxferre
@@ -20,6 +20,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: kaiboy, gameboy, gbc
-  categories:
-   - games
+    tags: kaiboy, gameboy, gbc
+    categories:
+        - games

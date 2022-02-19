@@ -2,13 +2,13 @@ name: SHAREit
 description: SHAREit is popular globally for transfering and sharing files without data. Now feel FREE to enjoy your sharing time with android phone friends as well as KaiOS phone friends. The Application, the Services and all trademarks, service marks and trade names and other intellectual property rights associated therewith are, and shall remain, the property of SHAREit and its licensors, as applicable. All content related to Services, including any text, graphics, logos, button icons, images, audio clips and software, is the exclusive property of SHAREit or its licensors and is protected by applicable legislation concerning protection and preservation of intellectual property rights. All software used on the Application is the property of SHAREit or its software suppliers. Any use except as specifically permitted, including the reproduction, modification, distribution, transmission, republication, display or performance, of the content on the Application is strictly prohibited except as otherwise permitted by law.
 icon: "https://cdn.discordapp.com/attachments/687788038298140732/841377026002649138/icon112x112.png"
 screenshots:
-  - "https://cdn.discordapp.com/attachments/687788038298140732/841368626740199454/wMWx4nmqdKAAAAABJRU5ErkJggg.png"
-  - "https://cdn.discordapp.com/attachments/687788038298140732/841368821260091442/J7Qqh0FK3A6wASw1hUYAAwA6UtrPCBrRH12aoXdWtJCRQ2JNoOE1ck4VQlJXEitwOsAEvsNQXUNRAivSrfKBF0dQ1YKW68aZRDHB.png"
-  - "https://cdn.discordapp.com/attachments/687788038298140732/841368865203290112/wMdi5iEw86pAAAAABJRU5ErkJggg.png"
+    - "https://cdn.discordapp.com/attachments/687788038298140732/841368626740199454/wMWx4nmqdKAAAAABJRU5ErkJggg.png"
+    - "https://cdn.discordapp.com/attachments/687788038298140732/841368821260091442/J7Qqh0FK3A6wASw1hUYAAwA6UtrPCBrRH12aoXdWtJCRQ2JNoOE1ck4VQlJXEitwOsAEvsNQXUNRAivSrfKBF0dQ1YKW68aZRDHB.png"
+    - "https://cdn.discordapp.com/attachments/687788038298140732/841368865203290112/wMdi5iEw86pAAAAABJRU5ErkJggg.png"
 website: "https://shareit.ushareit.com/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/SHAREit.zip?inline=false"
-  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/shareit.json
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/SHAREit.zip?inline=false"
+    manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/shareit.json
 type: certified
 license: Apache License 2.0
 author: Smart Media4U Technology Pte.Ltd <feedback_pc@ushareit.com>
@@ -16,6 +16,6 @@ maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: true
 has_tracking: true
 meta:
-  tags: files; transfer; send; receive; filetransfer;
-  categories:
-   - utility
+    tags: files; transfer; send; receive; filetransfer;
+    categories:
+        - utility

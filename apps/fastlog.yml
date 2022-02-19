@@ -1,20 +1,20 @@
 name: FastLog
 description: A lightweight alternative to stock KaiOS call log
-icon: 'https://gitlab.com/suborg/fastlog/-/raw/master/img/icon-112.png'
+icon: "https://gitlab.com/suborg/fastlog/-/raw/master/img/icon-112.png"
 
-website: 'https://gitlab.com/suborg/fastlog/'
+website: "https://gitlab.com/suborg/fastlog/"
 download:
-  url: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/fastlog/fastlog.zip'
-  manifest: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/fastlog/manifest.webapp'
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/fastlog/fastlog.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/fastlog/manifest.webapp"
 type: certified
 locales:
-  - English
+    - English
 license: The Unlicense
 author: Luxferre
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: luxferre;
-  categories:
-    - utility
+    tags: luxferre;
+    categories:
+        - utility

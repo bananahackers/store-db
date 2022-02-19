@@ -3,8 +3,8 @@ description: Universal toolbox for KaiOS internal tweaking.
 icon: https://gitlab.com/suborg/wallace-toolbox/-/raw/master/img/werewolf-112.png?inline=false
 git_repo: https://gitlab.com/suborg/wallace-toolbox
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/wallace-toolbox/wallace-toolbox.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/wallace-toolbox/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/wallace-toolbox/wallace-toolbox.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/wallace-toolbox/manifest.webapp"
 type: root
 license: Unknown
 author: Luxferre
@@ -12,6 +12,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: root, 8110, bananahackers, adb, reset, imei, mods, wallace
-  categories:
-   - utility
+    tags: root, 8110, bananahackers, adb, reset, imei, mods, wallace
+    categories:
+        - utility

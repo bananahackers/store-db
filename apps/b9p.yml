@@ -2,23 +2,23 @@ name: baka⑨player
 description: A fanmade application for listening to music from Gensokyo Radio.
 icon: "http://alego.byethost24.com/other/nineball-player/logo.png"
 screenshots:
-  - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n1.png"
-  - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n2.png"
-  - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n3.png"
-  - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n4.png"
+    - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n1.png"
+    - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n2.png"
+    - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n3.png"
+    - "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/n4.png"
 website: "https://alego.web.fc2.com/kaiosapps/bakabakaplayer/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p/b9p.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/b9p/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/ale4710/bakabakaplayer/bakabakaplayer.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/ale4710/bakabakaplayer/manifest.webapp"
 type: privileged
 license: unknown
 author: ale4710 <alego4710@vivaldi.net>
-locales: 
-  - English
+locales:
+    - English
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: Touhou; Music;
-  categories:
-   - multimedia
+    tags: Touhou; Music;
+    categories:
+        - multimedia

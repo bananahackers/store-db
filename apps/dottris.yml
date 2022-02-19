@@ -2,8 +2,8 @@ name: .TRIS
 description: The first KaiOS tetris game under 4096 bytes (unpacked)
 icon: https://i.imgur.com/2WimOw9.png
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/tris/tris.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/tris/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/tris/tris.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/tris/manifest.webapp"
 type: packaged
 license: Unlicense <https://unlicense.org/>
 author: Luxferre
@@ -11,6 +11,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: tetris; 4k
-  categories:
-   - games
+    tags: tetris; 4k
+    categories:
+        - games

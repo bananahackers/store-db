@@ -1,21 +1,21 @@
 name: MobiPICO
 description: This is a (fully unofficial, of course) port of PICO-8 fantasy console Web player/emulator, currently using the 0.2.4 engine version from the official website. It supports both plain .p8 and .p8.png cart file loading (single carts only). Since the official PICO-8 engine itself is closed-source and obfuscated, there can't be any guarantee about full compatibility or sufficient performance on any KaiOS phone model.
-icon: 'https://gitlab.com/suborg/mobipico/-/raw/master/img/icon112.png'
+icon: "https://gitlab.com/suborg/mobipico/-/raw/master/img/icon112.png"
 
-website: 'https://gitlab.com/suborg/mobipico/'
+website: "https://gitlab.com/suborg/mobipico/"
 download:
-  url: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/mobipico/mobipico.zip'
-  manifest: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/mobipico/manifest.webapp'
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/mobipico/mobipico.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/mobipico/manifest.webapp"
 type: packaged
 locales:
-  - English
+    - English
 license: The Unlicense
 author: Luxferre
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: luxferre;
-  categories:
-    - utility
-    - games
+    tags: luxferre;
+    categories:
+        - utility
+        - games

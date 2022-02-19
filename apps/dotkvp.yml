@@ -1,9 +1,9 @@
 name: .KVP
-description: 'The first KaiOS video poker game under 3K bytes (unpacked), featuring cryptographically secure random draws. Control: Center to deal/draw, 1 to 5 to hold, 6 to 0 to select bet value.'
-icon: https://i.imgur.com/UsmWBhn.png 
+description: "The first KaiOS video poker game under 3K bytes (unpacked), featuring cryptographically secure random draws. Control: Center to deal/draw, 1 to 5 to hold, 6 to 0 to select bet value."
+icon: https://i.imgur.com/UsmWBhn.png
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kvp/kvp.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/kvp/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/kvp/kvp.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/kvp/manifest.webapp"
 type: packaged
 license: Unlicense <https://unlicense.org/>
 author: Luxferre
@@ -11,6 +11,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: videopoker; poker; 3k
-  categories:
-   - games
+    tags: videopoker; poker; 3k
+    categories:
+        - games

@@ -1,19 +1,19 @@
 name: AppBuster
 description: Utility to safely disable/enable KaiOS pre-installed applications
-icon: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/appbuster/i.png"
+icon: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/i.png"
 website: "https://gitlab.com/suborg/appbuster/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/appbuster/appbuster.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/appbuster/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/appbuster.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/manifest.webapp"
 type: certified
-locales: 
-  - English
+locales:
+    - English
 license: Unlicense <https://unlicense.org/>
 author: Luxferre
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: cool; luxferre; app;
-  categories:
-   - utility
+    tags: cool; luxferre; app;
+    categories:
+        - utility

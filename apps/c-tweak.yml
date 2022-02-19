@@ -4,17 +4,17 @@ icon: "https://gitlab.com/suborg/crosstweak/-/raw/main/icon-112.png"
 
 website: "https://groups.google.com/g/bananahackers/c/ePuoMdwiz14"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/crosstweak/crosstweak.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/suborg/crosstweak/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/crosstweak/crosstweak.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/crosstweak/manifest.webapp"
 type: certified
 locales:
-  - English
+    - English
 license: The Unlicense
 author: Luxferre
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: root; mozactivity; opensource; luxferre;
-  categories:
-    - utility
+    tags: root; mozactivity; opensource; luxferre;
+    categories:
+        - utility
