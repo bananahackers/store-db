@@ -2,27 +2,27 @@ name: Audio Visualizer
 description: Visualize your music or voice recordings! There are 5 styles of visualization you can choose, and you can customize how the visualization looks and reacts.
 icon: "https://storage.kaiostech.com/v3.0/files/app/0/-Y5nKtADf00UMlvn8fj-Fa7pHXWFCYcRZMuPqX/ICON_IMAGE.png"
 screenshots:
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot1.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot2.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot4.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot3.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot5.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot6.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot7.png"
-  - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot8.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot1.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot2.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot4.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot3.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot5.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot6.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot7.png"
+    - "https://alego.web.fc2.com/kaiosapps/audiovis/scrot8.png"
 website: "https://alego.web.fc2.com/kaiosapps/audiovis/"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/audviz/audviz.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/ale4710/audviz/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/ale4710/audiovis/audiovis.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/ale4710/audiovis/manifest.webapp"
 type: privileged
-locales: 
-  - English
+locales:
+    - English
 license: MIT
 author: ale4710 <alego4710@vivaldi.net>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: Visualizer; Music; "Music Player";
-  categories:
-   - multimedia
+    tags: Visualizer; Music; "Music Player";
+    categories:
+        - multimedia

@@ -4,17 +4,17 @@ icon: "https://raw.githubusercontent.com/arma7x/k-video-player/master/icons/icon
 
 website: "https://github.com/arma7x/k-video-player"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/vidplay/vidplay.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/vidplay/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-video/k-video.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-video/manifest.webapp"
 type: privileged
-locales: 
-  - English
+locales:
+    - English
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: video;
-  categories:
-   - multimedia
+    tags: video;
+    categories:
+        - multimedia

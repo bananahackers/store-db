@@ -4,17 +4,17 @@ icon: "https://raw.githubusercontent.com/arma7x/pocket-atm/master/icons/icon112x
 
 website: "https://github.com/arma7x/pocket-atm"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/atm/atm.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/atm/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/atm/atm.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/atm/manifest.webapp"
 type: privileged
-locales: 
-  - English
+locales:
+    - English
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: Money;
-  categories:
-   - utility
+    tags: Money;
+    categories:
+        - utility

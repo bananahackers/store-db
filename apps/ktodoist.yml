@@ -3,8 +3,8 @@ description: K-Todoist is a unoffical Todoist client for KaiOS
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/839173492028866571/todotodo.png"
 website: "https://github.com/arma7x/k-todoist"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ktodoist/ktodoist.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ktodoist/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/todoist/todoist.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/todoist/manifest.webapp"
 type: privileged
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
@@ -12,6 +12,6 @@ maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: arma7x; todoist;
-  categories:
-   - utility
+    tags: arma7x; todoist;
+    categories:
+        - utility

@@ -3,8 +3,8 @@ description: Web Browser & Unoffical GetPocket client for KaiOS. K-Pocket Browse
 icon: "https://cdn.discordapp.com/attachments/472144650128457738/839175383168843776/best3rdpartybrowser.png"
 website: "https://github.com/arma7x/K-Pocket-Browser"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/k-pocket/k-pocket.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/k-pocket/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-pocket/k-pocket.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-pocket/manifest.webapp"
 type: privileged
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
@@ -12,6 +12,6 @@ maintainer: Cyan <cyankindasus1@outlook.com>
 has_ads: false
 has_tracking: true
 meta:
-  tags: browser; GetPocket; Browser;
-  categories:
-   - utility
+    tags: browser; GetPocket; Browser;
+    categories:
+        - utility

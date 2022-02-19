@@ -1,16 +1,16 @@
 name: K-Music
 description: An audio player for KaiOS with playlist manager + Equalizer + MP3 Cutter/Trimmer.
-icon: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/musiku.png"
+icon: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/musiku.png"
 screenshots:
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen1.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen2.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen3.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen4.png"
-  - "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/screen5.png"
-website: "https://github.com/arma7x/kaimusic"
+    - "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/screen1.png"
+    - "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/screen2.png"
+    - "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/screen3.png"
+    - "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/screen4.png"
+    - "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/screen5.png"
+website: "https://github.com/arma7x/k-music"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/kaimusic.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/kaimusic/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/k-music.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/k-music/manifest.webapp"
 type: privileged
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
@@ -18,6 +18,6 @@ maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: mp3; playlist; flac; equalizer; alac;
-  categories:
-   - multimedia
+    tags: mp3; playlist; flac; equalizer; alac;
+    categories:
+        - multimedia

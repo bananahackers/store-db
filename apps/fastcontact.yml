@@ -1,21 +1,21 @@
 name: FastContact
 description: A lightweight alternative to stock KaiOS contact list app.
-icon: 'https://gitlab.com/suborg/fastcontact/-/raw/master/img/icon-112.png'
+icon: "https://gitlab.com/suborg/fastcontact/-/raw/master/img/icon-112.png"
 
-website: 'https://gitlab.com/suborg/fastcontact/'
+website: "https://gitlab.com/suborg/fastcontact/"
 download:
-  url: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/fastcontact/fastcontact.zip'
-  manifest: 'https://gitlab.com/cyan2048/snek/-/raw/master/suborg/fastcontact/manifest.webapp'
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/fastcontact/fastcontact.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/fastcontact/manifest.webapp"
 type: certified
 locales:
-  - English
+    - English
 license: The Unlicense
 author: Luxferre
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: luxferre;
-  categories:
-    - utility
-    - social
+    tags: luxferre;
+    categories:
+        - utility
+        - social

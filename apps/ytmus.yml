@@ -3,17 +3,17 @@ description: YT Music Player
 icon: "https://raw.githubusercontent.com/arma7x/kai-yt-music/master/icons/icon112x112.png"
 website: "https://github.com/arma7x/kai-yt-music"
 download:
-  url: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ytmus/ytmus.zip"
-  manifest: "https://gitlab.com/cyan2048/snek/-/raw/master/arma7x/ytmus/manifest.webapp"
+    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/ytmus/ytmus.zip"
+    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/ytmus/manifest.webapp"
 type: privileged
-locales: 
-  - English
+locales:
+    - English
 license: MIT
 author: arma7x <ahmadmuhamad101@gmail.com>
 maintainer: Cyan <cyankindasus@protonmail.com>
 has_ads: false
 has_tracking: false
 meta:
-  tags: yt music;
-  categories:
-   - multimedia
+    tags: yt music;
+    categories:
+        - multimedia
