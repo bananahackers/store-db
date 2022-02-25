@@ -1,6 +1,6 @@
 name: Greg
 description: >
-  Calendar app for KaiOs
+  Calendar app for KaiOs. Events can be saved in the local calendar or subscribed to external calendars. you can jump between the months with the 1/3 keys, slide through events with the 2 key and jump to the current date with *. as a little extra there is a moon phase calendar that is activated with #.
 icon: https://raw.githubusercontent.com/strukturart/greg/master/images/logo.svg
 # screenshots are optional
 screenshots:
