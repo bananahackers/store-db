@@ -1,0 +1,18 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/t/L4B2drq2qNZVWfDEY3KnvFQwtjMzXkN_lcuCVr/ICON_IMAGE.png
+name: Trivia Quiz
+author: arma7x
+website: https://www.kaiostech.com
+description: Get smarter every day by answering online quizzes & improve your
+  knowledge in various fields
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: trivia;quiz;
+  categories:
+    - education
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Trivia%20Quiz/Trivia%20Quiz.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Trivia%20Quiz/manifest.webapp

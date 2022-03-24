@@ -1,0 +1,19 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/r/74DOfWxlRX3VQ0X5ZlaxxojTdXTMgLuBlwwzk3/ICON_IMAGE.png
+name: Kloud Storage
+author: arma7x
+website: https://www.kaiostech.com
+description: NO SIGNUP REQUIRED. Free file sharing service with unlimited
+  bandwidth, upload files securely & anonymously. You also can share the file
+  url via SMS/E-mail
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: kloud;storage;
+  categories:
+    - utility
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/kloud%20storage/kloud%20storage.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/kloud%20storage/manifest.webapp

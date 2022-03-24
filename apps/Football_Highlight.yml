@@ -1,0 +1,18 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/0/RhVHyfq-N6ddYiEU09XQMXCfAhLojtd8sb4ZdA/ICON_IMAGE.png
+name: Football Highlight
+author: arma7x
+website: https://www.kaiostech.com
+description: Watch free HD football match highlights and replay extended video
+  goals online from top leagues around the world
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: football;highlight;
+  categories:
+    - games
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Football%20Highlight/Football%20Highlight.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Football%20Highlight/manifest.webapp

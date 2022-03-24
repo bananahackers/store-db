@@ -1,0 +1,19 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/Q/2Ofh9pu1FVxsUFMqSZxsuXe_CnRLly3EIZ7tql/ICON_IMAGE.png
+name: Accessibility Suite
+author: arma7x
+website: https://www.kaiostech.com
+description: Accessibility Suite is an app for visually impaired or blind
+  person. Available features are date and time, battery, geolocation services
+  and weather forecast
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: accessibility;suite;
+  categories:
+    - utility
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Accessibility%20Suite/Accessibility%20Suite.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Accessibility%20Suite/manifest.webapp

@@ -1,0 +1,17 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/P/67CUYjLPvrSLa761Y8sLQOIoHmKqFR3_6swkYe/ICON_IMAGE.png
+name: IPTV Tube
+author: arma7x
+website: https://www.kaiostech.com
+description: Watch free iptv channels from around the world on KaiOS for free
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: iptv;tube;
+  categories:
+    - multimedia
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/IPTV%20Tube/IPTV%20Tube.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/IPTV%20Tube/manifest.webapp
