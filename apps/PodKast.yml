@@ -1,0 +1,19 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/p/sBOXwLdkHfn9C95hNJWdisWU-7ZlrqoExma4J5/ICON_IMAGE.png
+name: PodKast
+author: arma7x
+website: https://www.kaiostech.com
+description: With PodKast, you can play the latest episodes from your favourite
+  shows, explore podcast recommendations just for you and manage your listening
+  activity.
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: podkast;
+  categories:
+    - multimedia
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/PodKast/PodKast.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/PodKast/manifest.webapp

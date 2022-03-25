@@ -1,0 +1,18 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/H/IHyOIuRtGVPiMaa0urRhhjKIEGp40lVIrzSeJZ/ICON_IMAGE.png
+name: PoetryDB
+author: arma7x
+website: https://www.kaiostech.com
+description: Motivate your self by random advice, inspiration quotes and read
+  collection of sonnets and poems from famous writers
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: poetrydb;
+  categories:
+    - education
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/PoetryDB/PoetryDB.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/PoetryDB/manifest.webapp

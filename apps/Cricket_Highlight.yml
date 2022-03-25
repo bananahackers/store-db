@@ -1,0 +1,18 @@
+icon: https://storage.kaiostech.com/v3.0/files/app/G/oj3wKn4s4UmL6ph7SdKZwtOaH4ylffhi_aNoUn/ICON_IMAGE.png
+name: Cricket Highlight
+author: arma7x
+website: https://www.kaiostech.com
+description: Watch free HD cricket match highlights and replay extended video
+  online from top leagues around the world
+maintainer: Cyan
+has_ads: false
+has_tracking: false
+meta:
+  tags: cricket;highlight;
+  categories:
+    - games
+type: packaged
+license: Unknown
+download:
+  url: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Cricket%20Highlight/Cricket%20Highlight.zip
+  manifest: https://raw.githubusercontent.com/cyan-2048/_store/main/arma7x/Cricket%20Highlight/manifest.webapp
