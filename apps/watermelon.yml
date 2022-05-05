@@ -1,0 +1,28 @@
+name: Watermelon
+description: >
+  messenger app prototype
+icon: https://raw.githubusercontent.com/strukturart/watermelon/master/images/logo.png
+# screenshots are optional
+screenshots:
+  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-2.png
+  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-3.png
+  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-4.png
+license: unlicense
+# website is optional
+# website: https://github.com/strukturart/osm-map
+# git repo is optional
+git_repo: https://github.com/strukturart/watermelon
+download:
+  url: https://github.com/strukturart/watermelon/releases/latest/download/watermelon-omnisd.zip
+  manifest: https://raw.githubusercontent.com/strukturart/watermelon/master/application/manifest.webapp
+author: perry<https://github.com/strukturart>
+maintainer:  perry<https://github.com/strukturart>
+has_tracking: false
+has_ads: false
+donation: https://paypal.me/strukturart
+meta:
+  tags: prototype
+  categories: 
+   - utility
+type: packaged
+
