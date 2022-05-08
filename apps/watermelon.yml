@@ -1,12 +1,9 @@
 name: Watermelon
 description: >
   messenger app prototype
-icon: https://raw.githubusercontent.com/strukturart/watermelon/master/images/logo.png
+icon: https://raw.githubusercontent.com/strukturart/watermelon/master/images/logo.svg
 # screenshots are optional
 screenshots:
-  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-2.png
-  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-3.png
-  - https://raw.githubusercontent.com/strukturart/watermelon/master/images/image-4.png
 license: unlicense
 # website is optional
 # website: https://github.com/strukturart/osm-map
