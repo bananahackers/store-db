@@ -4,6 +4,7 @@ description: Matrix client for KaiOS supporting login through password and chat 
 screenshots:
   - https://github.com/farooqkz/matrix.org/blob/master/gatsby/static/docs/projects/images/chooj-screenie.png?raw=true
 license: GPL-3
+icon: https://github.com/farooqkz/chooj/raw/master/chooj.png
 website: https://github.com/farooqkz/chooj
 git_repo: https://github.com/farooqkz/chooj
 download:
