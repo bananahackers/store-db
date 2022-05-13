@@ -1,4 +1,4 @@
-name: Chooj
+name: chooj
 description: Matrix client for KaiOS supporting login through password and chat in rooms. It also supports outgoing voice calls but not incoming ones so Chooj to Chooj call is impossible at the moment. For donations or sponsering the project please email me. Note that this version is not minified thus not optimized.
 screenshots:
   - https://github.com/farooqkz/matrix.org/blob/master/gatsby/static/docs/projects/images/chooj-screenie.png?raw=true
