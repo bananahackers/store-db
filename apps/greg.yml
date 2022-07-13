@@ -14,7 +14,7 @@ license: MIT
 git_repo: https://github.com/strukturart/greg
 download:
   url: https://github.com/strukturart/greg/releases/latest/download/greg-omnisd.zip
-  manifest: https://github.com/strukturart/greg/blob/master/application/manifest.webapp
+  manifest: https://raw.githubusercontent.com/strukturart/greg/master/application/manifest.webapp
 author: perry<https://github.com/strukturart>
 maintainer: perry<https://github.com/strukturart>
 has_tracking: false
