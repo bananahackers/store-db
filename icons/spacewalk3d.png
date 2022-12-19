@@ -66,7 +66,7 @@ img.emoji {
 ( 'fetch' in window ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://ays-arts.de/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
 </script>
 <script type='text/javascript' src='https://ays-arts.de/wp-includes/js/dist/dom-ready.min.js?ver=eb19f7980f0268577acb5c2da5457de3' id='wp-dom-ready-js'></script>
-<script type='text/javascript' src='https://ays-arts.de/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=2.4.4' id='wpautoterms_base-js'></script>
+<script type='text/javascript' src='https://ays-arts.de/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=2.5.0' id='wpautoterms_base-js'></script>
 <script type='text/javascript' src='https://ays-arts.de/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.js?ver=4.71.1' id='spacexchimp_p005-bootstrap-tooltip-js-js'></script>
 <link rel="https://api.w.org/" href="https://ays-arts.de/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ays-arts.de/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ays-arts.de/wp-includes/wlwmanifest.xml" /> 
@@ -161,7 +161,6 @@ h1 a, h2 a, h3 a {
 <li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="https://ays-arts.de/category/games/">Games</a></li>
 <li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="https://ays-arts.de/category/apps/">Apps</a></li>
 <li id="menu-item-316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-316"><a href="https://ays-arts.de/category/development/">Development</a></li>
-<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-494"><a href="https://ays-arts.de/3d-nfts/">NFT</a></li>
 <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://ays-arts.de/contact/">Contact</a></li>
 						</ul>
 					</nav>
@@ -201,9 +200,6 @@ h1 a, h2 a, h3 a {
 					<a href="https://ays-arts.de/3d-watch-designer/">3D Watch Designer</a>
 									</li>
 											<li>
-					<a href="https://ays-arts.de/3d-nfts/">3D NFTs</a>
-									</li>
-											<li>
 					<a href="https://ays-arts.de/airship-combat-3d-online/">Airship Combat 3D &#8211; Online</a>
 									</li>
 											<li>
@@ -211,6 +207,9 @@ h1 a, h2 a, h3 a {
 									</li>
 											<li>
 					<a href="https://ays-arts.de/airship-combat-3d/">Airship Combat 3D</a>
+									</li>
+											<li>
+					<a href="https://ays-arts.de/scrolling-terrain/">Scrolling Terrain</a>
 									</li>
 					</ul>
 
@@ -226,8 +225,6 @@ h1 a, h2 a, h3 a {
 </li>
 	<li class="cat-item cat-item-9"><a href="https://ays-arts.de/category/development/">Development</a> (4)
 </li>
-	<li class="cat-item cat-item-10"><a href="https://ays-arts.de/category/nfts/">NFTs</a> (1)
-</li>
 								</ul>
 							</div><!-- .widget -->
 							
@@ -236,7 +233,6 @@ h1 a, h2 a, h3 a {
 			
 			<option value="">Select Month</option>
 				<option value='https://ays-arts.de/2022/07/'> July 2022 </option>
-	<option value='https://ays-arts.de/2021/04/'> April 2021 </option>
 	<option value='https://ays-arts.de/2021/01/'> January 2021 </option>
 	<option value='https://ays-arts.de/2020/10/'> October 2020 </option>
 	<option value='https://ays-arts.de/2019/12/'> December 2019 </option>
@@ -276,8 +272,6 @@ h1 a, h2 a, h3 a {
 	<li class="cat-item cat-item-3"><a href="https://ays-arts.de/category/games/">Games</a>
 </li>
 	<li class="cat-item cat-item-6"><a href="https://ays-arts.de/category/kaios/">KaiOS</a>
-</li>
-	<li class="cat-item cat-item-10"><a href="https://ays-arts.de/category/nfts/">NFTs</a>
 </li>
 			</ul>
 
