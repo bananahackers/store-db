@@ -10,7 +10,7 @@ license: Unlicense
 # git repo is optional
 git_repo: https://github.com/strukturart/passport
 download:
-  url: https://github.com/strukturart/passport/releases/latest/download/passport.zip
+  url: https://github.com/strukturart/passport/releases/latest/download/passport-omnisd.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/passport.json
 author: perry<https://github.com/strukturart>
 maintainer:  perry<https://github.com/strukturart>
