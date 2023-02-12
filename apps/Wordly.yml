@@ -1,0 +1,27 @@
+name: Wordly
+description: A quick, rough clone of a popular word game. Now available on the KaiStore!
+ - How to play
+ 1 - Use the d-pad to switch between letters. 
+ 2 - The number keys can be used to jump to letters. 
+ 3 - For example, pressing the 6 key will cycle through "m", "n", and "o".
+icon: https://raw.githubusercontent.com/garredow/wordly/main/src/assets/images/icon_112.png
+screenshots:
+    - https://raw.githubusercontent.com/garredow/wordly/main/promo/device_frame_half.png
+    - https://raw.githubusercontent.com/garredow/wordly/main/promo/screenshot1.png
+website: https://nothing.dev
+git_repo: https://github.com/garredow/wordly
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/main/Wordly-Kaios2.zip?raw=true
+    manifest: https://raw.githubusercontent.com/garredow/wordly/main/manifest.webapp
+type: hosted
+locales:
+    - English
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1
+has_ads: false
+has_tracking: false
+meta:
+    tags: wordly;game;word;
+    categories:
+        - games

@@ -1,0 +1,30 @@
+name: Wordly
+description: KaiRoot is a modification/fork of the existing Wallace Toolbox, with bugfixes such as a different root method, busy box installation, and other features from other applications and wiki tweaks to provide an all-in-one universal toolbox.
+    Based on LibWallace, Wallace Toolbox, and several independent researches.
+        To-do
+            Implement Risky Category
+            Change color choice to idk
+            Improve UI to open different menus
+            Show Factory Reset Image when performing reset
+icon: https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/img/icon-112.png
+screenshots:
+    - https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot1.png
+    - https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png
+    - https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot3.png
+    - https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot4.png
+git_repo: https://github.com/Delta-Applications/KaiRoot
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/09500e96878d2100c598fd328839a69b33d8fec7/kairoot.zip
+    manifest: https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/manifest.webapp
+type: certified
+locales:
+    - English
+license: unknown
+author: bananahackers
+maintainer: JuanCarlosM1
+has_ads: false
+has_tracking: false
+meta:
+    tags: kai;root;tool;wal;lace;box;
+    categories:
+        - utility

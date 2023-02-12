@@ -1,22 +1,37 @@
 name: FoxCast Lite
-description: Foxcasts is an app for subscribing to and listening to podcasts. It started off on FirefoxOS and has been twice rebuilt from the ground up using different frameworks for KaiOS and as a general web app.
-icon: "https://raw.githubusercontent.com/garredow/foxcasts-lite/67c2a4121003bffd88ccd06a261cad8e691dafdf/src/assets/icons/icon-128.png"
+description: >
+    Foxcasts is an app for subscribing to and listening to podcasts. 
+    It started off on FirefoxOS and has been twice rebuilt from the ground up using different frameworks for KaiOS and as a general web app.
+    Navigation
+        Browser
+            All interaction is done using the keyboard.
+            Arrows keys to navigate lists and tabs
+            1-9 are used as shortcuts in grids and lists
+            Backspace to navigate back a screen
+            Enter to perform the displayed action
+            Shift+LeftArrow and Shift+RightArrow to trigger left and right nav bar actions
+        On Device
+            Use the d-pad to navigate lists and tabs
+            1-9 are used as shortcuts in grids and lists
+            
+icon: https://raw.githubusercontent.com/garredow/foxcasts-lite/67c2a4121003bffd88ccd06a261cad8e691dafdf/src/assets/icons/icon-128.png
 screenshots:
- - "https://raw.githubusercontent.com/garredow/foxcasts-lite/main/promo/foxcasts_banner1.png"
-website: "https://garrettdowns.com"
+ - https://raw.githubusercontent.com/garredow/foxcasts-lite/main/promo/foxcasts_banner1.png
+website: https://garrettdowns.com
 download:
-  url: "https://github.com/JuanCarlosM1/Apps-Download/blob/main/foxcasts-lite-v0.1.0%20beta.zip?raw=true"
-  manifest: "https://github.com/garredow/foxcasts-lite/blob/7621a66b39e5aac1fcd87e3659c4f20257735152/manifest.webapp"
+  url: https://github.com/JuanCarlosM1/Apps-Download/blob/main/Foxcast-Lite.zip?raw=true
+  manifest: https://raw.githubusercontent.com/JuanCarlosM1/Apps-Download/main/manifest/foxcast.webapp
+git_repo: https://github.com/garredow/foxcasts-lite
 type: privileged
-license: MIT
-author: Garrett Downs
-maintainer: JuanCarlosM1
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1 
 locales:
     - English
 has_ads: false
-has_tracking: true
+has_tracking: false
 meta:
-  tags: podcasts; audio; news; Fox; Cast; Lite;
+  tags: podcasts; audio; news; Fox; Cast; Lite; mica
   categories:
    - news
    - multimedia

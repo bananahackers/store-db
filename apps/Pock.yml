@@ -1,0 +1,22 @@
+name: Pock
+description: A Pocket client for KaiOS.
+icon: https://github.com/garredow/pock/blob/4db5db58508d3e3ca5108567428574e99a17e182/public/images/icon_112.png
+screenshots:
+    - https://raw.githubusercontent.com/garredow/pock/main/promo/banner.png
+website: https://nothing.dev
+git_repo: https://github.com/garredow/pock
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/64c6bcbf85d85deeaaa579906c32f261d8fe81ce/Pock.zip
+    manifest: https://raw.githubusercontent.com/garredow/pock/main/public/manifest.webapp
+type: privileged
+locales:
+    - English
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1
+has_ads: false
+has_tracking: false
+meta:
+    tags: Pock
+    categories:
+        - utility

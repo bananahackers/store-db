@@ -1,0 +1,23 @@
+name: Kaite
+description: A Twitter client for KaiOS.
+icon: https://raw.githubusercontent.com/garredow/kaite/main/public/images/icon_112.png
+screenshots:
+    - https://raw.githubusercontent.com/garredow/kaite/main/promo/banner.png
+website: https://nothing.dev/
+git_repo: https://github.com/garredow/kaite
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/main/Kaite.zip?raw=true
+    manifest: https://raw.githubusercontent.com/garredow/kaite/main/public/manifest.webapp
+type: privileged
+locales:
+    - English
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1 
+has_ads: false
+has_tracking: false
+meta:
+    tags: twitter;social;media
+    categories:
+        - social
+        - communication
