@@ -1,0 +1,23 @@
+name: Mica
+description: Minimalist podcast app for KaiOS. Design inspired by MuditaOS.
+icon: https://raw.githubusercontent.com/garredow/mica/main/public/images/icon-128.png
+screenshots:
+    - https://raw.githubusercontent.com/garredow/mica/main/promo/mica_banner2.png
+website: https://nothing.dev/
+git_repo: https://github.com/garredow/mica
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/main/mica.zip?raw=true
+    manifest: https://raw.githubusercontent.com/garredow/mica/main/public/manifest.webapp
+type: privileged
+locales:
+    - English
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1 
+has_ads: false
+has_tracking: false
+meta:
+    tags: pod;cast;audio;news;fox;casts;lite;mica
+    categories:
+        - multimedia
+        - news

@@ -1,0 +1,31 @@
+name: RainCloud
+description: A SoundCloud client for KaiOS. 
+     - Some things to know
+     1 - Right Soft Key (RSK) while a list item is selected will open its context menu, where you can choose to play.
+     2 - Left Soft Key (LSK) opens the app menu.
+     3 - With the player open, Left will skip back 10 seconds, Right will skip forward 30 seconds, while Up and Down control volume.
+     - How to use
+     1 - On your computer, visit the RainCloud website to sign into SoundCloud.
+     2 - In the app, select 'Sign In via QR Code' and scan the code on your screen. *You may have to exit and reopen the app to scan the code after giving permission.
+     3 - When you scan the code, you're in!
+
+icon: https://raw.githubusercontent.com/garredow/raincloud/main/public/images/icon.svg
+screenshots:
+    - https://raw.githubusercontent.com/garredow/raincloud/main/promo/device_banner.png
+website: https://nothing.dev/
+git_repo: https://github.com/garredow/raincloud
+download:
+    url: https://github.com/JuanCarlosM1/Apps-Download/blob/main/RainCloud.zip?raw=true
+    manifest: https://raw.githubusercontent.com/garredow/raincloud/main/public/manifest.webapp
+type: privileged
+locales:
+    - English
+license: unknown
+author: Garrett Downs <@Garredow>
+maintainer: JuanCarlosM1
+has_ads: false
+has_tracking: false
+meta:
+    tags: sound;cloud;music;audio;client;
+    categories:
+        - multimedia 
