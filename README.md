@@ -31,7 +31,7 @@ Please report that app in an gitlab issue and we'll look into it.
 ## Clients
 
 ### App for KaiOS / GerdaROM devices
-- https://github.com/strukturart/kaiOs-alt-app-store
+- https://gitlab.com/affenull2345/store-client
 
 ### Desktop Website
 - https://github.com/jkelol111/webstore ([live version](https://jkelol111.github.io/webstore/))
