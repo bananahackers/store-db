@@ -10,7 +10,7 @@ screenshots:
   - "https://cdn.discordapp.com/attachments/687788038298140732/834413916938829904/out2.png"
 website: "https://duo.google.com"
 download:
-  url: "https://cdn.discordapp.com/attachments/687788038298140732/834415955080773632/duo.google.com.zip"
+  url: "https://raw.githubusercontent.com/cyan-2048/_store/main/duo.zip"
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/gduo.json
 type: certified
 license: unknown
