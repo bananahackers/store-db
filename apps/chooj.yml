@@ -1,19 +1,19 @@
 name: chooj
-description: Matrix client for KaiOS supporting login through password and chat in rooms. It also supports outgoing voice calls but not incoming ones so Chooj to Chooj call is impossible at the moment. For donations or sponsering the project please email me. Note that this version is not minified thus not optimized.
+description: Matrix client for KaiOS supporting login through password and chat in rooms. The project is in early alpha state but useful.
 screenshots:
-  - https://github.com/farooqkz/matrix.org/blob/master/gatsby/static/docs/projects/images/chooj-screenie.png?raw=true
+  - https://github.com/matrix-org/matrix.org/blob/master/gatsby/static/docs/projects/images/chooj-screenie.png?raw=true
 license: GPL-3
-icon: https://github.com/farooqkz/chooj/raw/master/chooj.png
+icon: https://github.com/farooqkz/chooj/raw/main/src/chooj.png
 website: https://github.com/farooqkz/chooj
 git_repo: https://github.com/farooqkz/chooj
 download:
-  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/5ab7792844d65c726548f57e074684b6f14b39da-omnisd.zip
+  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/ed50cae1aa9ab262596ccf862dcc90103f9ada4f-omnisd.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/chooj.json
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
 has_tracking: false
 has_ads: false
-# donation is optional
+donation: https://github.com/farooqkz/chooj#donations
 meta:
   tags: matrix; chat; matrix-client; voip; voice-chat;
   categories: 
