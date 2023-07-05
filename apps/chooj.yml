@@ -2,12 +2,12 @@ name: chooj
 description: Matrix client for KaiOS supporting login through password and chat in rooms. The project is in early alpha state but useful.
 screenshots:
   - https://github.com/matrix-org/matrix.org/blob/master/gatsby/static/docs/projects/images/chooj-screenie.png?raw=true
-license: GPL-3
+license: GPL-3-or-later
 icon: https://github.com/farooqkz/chooj/raw/main/src/chooj.png
 website: https://github.com/farooqkz/chooj
 git_repo: https://github.com/farooqkz/chooj
 download:
-  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/aede27a1093743546538ccd1ae83420c11932b18-omnisd.zip
+  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/8c3744a67ed82cd7a8befcdbbf6e0dfbf18cf234-omnisd.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/chooj.json
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
