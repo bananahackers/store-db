@@ -22,7 +22,7 @@
   
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-fb1d51d1ef66.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-60c5e476b0dc.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-1e5779e1dfc0.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-5f348e729995.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-2c7b1701fb19.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-5aae01d45c34.css" />
 
@@ -85,7 +85,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="B852:2BFD:273648:39AC48:64A59A7F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f420761a087f487614f226f37cc5767a13bd3d3f4641bf750ce579dd4d0fa9b6" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCODUyOjJCRkQ6MjczNjQ4OjM5QUM0ODo2NEE1OUE3RiIsInZpc2l0b3JfaWQiOiI5MDYxMDc5MjMwMzE1ODYyNjU1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="850a7360a7e1074214778c1dfede0120dae00f430cc9332678f9a0877fb722e3" data-pjax-transient="true"/>
+  <meta name="request-id" content="F83A:744E:55B64C:7E15BD:64A6AB0B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="bcd18d9bd00962102824b47ffaafa327705daee5368879bb61bde954d15acbe8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGODNBOjc0NEU6NTVCNjRDOjdFMTVCRDo2NEE2QUIwQiIsInZpc2l0b3JfaWQiOiI2MzQzMzM0Nzk5OTg3ODc4NjY3IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="2028ad75afa44b9d2ae12050943d532d6081f779b919490a2dbe7b4c3f15d441" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:400170957" data-turbo-transient>
@@ -140,9 +140,9 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,FAILBOT_HANDLE_NON_ERRORS">
 
 
-  <meta http-equiv="x-pjax-version" content="56a72ceeb5ecfa9ace9bac2abfd63a19600c506b1bd79192bb823b76bf9ddbec" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="03a140e309bbf31ad55e2143e8445676dcb8c837c9a690adda6781592df4cb60" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="0db263f9a873141d8256f783c35f244c06d490aacc3b680f99794dd8fd59fb59" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="6a95f2d869d11acdb0cb69bbb69e72cc0893958aed5dfe309dc6cbe7c75d7d77" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="3000e019ff590305c0f8161b66ff64511efad1dab4d115748640f790f9ccb3ae" data-turbo-track="reload">
   <meta http-equiv="x-pjax-js-version" content="ee9e2f0d1dbd071bf68333a9e6769ddca8815769b71018fe95bfe16c2974c387" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
@@ -597,7 +597,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="cbnQZe727oGoEBQrtuaWrgTaD305oDZzXcxnJ57hLNJ3aRhpeU4vJKsGqXX3BJ40YTttyPStUphTNCaeI9PUVw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="AFUw8ZfDLPzZM/D1WRD8UZxwSHhBPK7C0maUcNEOh6MgCn4l7vcAO2CODryKaPvJ+sp/TN+YC6S/ibqA5jd85g==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
