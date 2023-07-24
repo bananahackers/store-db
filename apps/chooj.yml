@@ -7,7 +7,7 @@ icon: https://github.com/farooqkz/chooj/raw/main/src/chooj.png
 website: https://github.com/farooqkz/chooj
 git_repo: https://github.com/farooqkz/chooj
 download:
-  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/14898e8b22195f2cb81920ab026ca28d815c202e-omnisd.zip
+  url: https://farooqkz.de1.hashbang.sh/matrix-client-builds/9904c31fe5ccd5036cb11f7b482723508986f076-omnisd.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/chooj.json
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
