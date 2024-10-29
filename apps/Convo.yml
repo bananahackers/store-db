@@ -1,0 +1,24 @@
+name: Convo
+description: A basic XMPP messaging client for KaiOS supporting sending messages to existing contacts and joining existing groupchats. The app is a bit limited on its own, but works well along with a companion desktop app.
+icon: https://git.disroot.org/badrihippo/convo/raw/branch/master/public/images/icon-64.png
+screenshots:
+  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/splash.png
+  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/messages.png
+  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/contacts.png
+  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/groupchat.png
+git_repo: https://git.disroot.org/badrihippo/convo
+download:
+  url: https://git.disroot.org/badrihippo/convo/releases/download/0.1.0/convo-0.1.0-kaios2-omnisd.zip
+  manifest: https://git.disroot.org/badrihippo/convo/raw/branch/master/public/manifest.webapp
+type: packaged
+license: GPL-3-or-later
+author: Badri Sunderarajan <badrihippo@disroot.org>
+maintainer: Badri Sunderarajan <badrihippo@disroot.org>
+donation: https://git.disroot.org/badrihippo/convo#donations
+has_ads: false
+has_tracking: false
+meta:
+  tags: xmpp; xmpp-client; chat; messaging;
+  categories:
+   - communication
+   - social
