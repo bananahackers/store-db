@@ -1,0 +1,22 @@
+name: Easy Quran
+description: Read and listen to The Noble Quran
+icon: https://al-quran.reflectslight.io/x/i/EasyQuran/icon.png
+screenshots:
+ - https://al-quran.reflectslight.io/x/i/EasyQuran/1.png
+ - https://al-quran.reflectslight.io/x/i/EasyQuran/2.png
+ - https://al-quran.reflectslight.io/x/i/EasyQuran/3.png
+license: GPLv3
+website: https://github.com/ReflectsLight/EasyQuran#readme
+git_repo: https://github.com/ReflectsLight/EasyQuran#readme
+download:
+  url: https://github.com/user-attachments/files/17943016/al-quran.KaiOS.production-4bc5503.zip
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/easyquran.json
+author: 0x1eef <0x1eef@proton.me>
+maintainer: 0x1eef <0x1eef@proton.me>
+has_tracking: false
+has_ads: false
+meta:
+  tags: quran; koran; islam; islamic-software; quran study tool; study tool;
+  categories:
+  - education
+type: packaged
