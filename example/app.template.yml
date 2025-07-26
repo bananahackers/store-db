@@ -1,25 +1,25 @@
-name: 
-description:
-icon: 
-# screenshots are optional
-screenshots:
-  
-# website is optional
-website: 
-# git repo is optional
-git_repo: 
+name: # Name of the app
+description: >
+  Description of the app. What is the app about? (tip: by specifying the '>', you can add multiple lines to the description!)
+icon: # URL to the icon of the app as a direct image file, supports "png", "jpeg" and "gif" file extensions (URL string must end in one of these extensions)
+screenshots: # Array of URLs to the screenshots of the app as direct image files, supports "png", "jpeg", "svg" and "gif" file extensions (optional)
+  - "https://"
+  - "https://"
+type: # weblink, hosted, packaged, privileged, certified, root (see https://developer.kaiostech.com/core-developer-topics/permissions)
+author: # Person, group or organisation developing the app
+maintainer: # Person maintaining this file and the app package referenced in [download]
+locales: # (optional)
+  - English
+website: # URL to the (promotional) website of the application (optional)
+git_repo: # URL to the Git repo of the application, should it be open-sourced (optional)
+license: # Name of the open-source license the app is distributed with, with link, or "Unknown"
+donation: # URL to the developers' donation website (optional)
 download:
-  url: 
-  manifest:
-type:
-license:
-author: 
-maintainer: 
-#donation is optional
-donation:
-has_ads:
-has_tracking:
+  url: # URL to the app package in OmniSD-compatible ZIP format
+  manifest: # contains the app version string, create a JSON file with `{ "version": "version_here" }`
+has_ads: # true or false, whether the app has advertising either from KaiAds or other format
+has_tracking: # true or false, whether the app tracks user activities
 meta:
-  tags: 
-  categories:
-   -
+  tags: # One-line array of tags to help with search results, each phrase separated by a semicolon `;`
+  categories: # Array of category names that the app should appear in. Make sure the category is defined.
+    - category1
