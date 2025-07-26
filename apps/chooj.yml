@@ -7,7 +7,7 @@ icon: https://chooj.app/chooj.png
 website: https://chooj.app
 git_repo: https://codeberg.org/chooj/chooj
 download:
-  url: https://codeberg.org/chooj/chooj/releases/latest
+  url: https://codeberg.org/chooj/chooj/releases/download/1.0.1/chooj-1.0.1-kai2.zip
   manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/chooj.json
 author: Farooq Karimi Zadeh <hapu@riseup.net>
 maintainer:  Farooq Karimi Zadeh <hapu@riseup.net>
