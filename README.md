@@ -34,4 +34,4 @@ Please report that app in an gitlab issue and we'll look into it.
 - https://gitlab.com/affenull2345/store-client
 
 ### Desktop Website
-- https://github.com/jkelol111/webstore ([live version](https://jkelol111.github.io/webstore/))
+- https://github.com/bananahackers/store ([live version](https://store.bananahackers.net))
