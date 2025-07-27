@@ -111,13 +111,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:fc9e17d4-296e-5f09-6572-0c9281435524">
+  <meta name="fetch-nonce" content="v2:31917019-324d-da78-6bdb-0166154ccc03">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="4420:32BA5E:1B8E6D9:232EA1F:6885EF50" data-pjax-transient="true"/><meta name="html-safe-nonce" content="7c6010d2957deefb3dec89938b592dfd6ec6741ee2feadc0838e37ecd6af1b3c" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI0NDIwOjMyQkE1RToxQjhFNkQ5OjIzMkVBMUY6Njg4NUVGNTAiLCJ2aXNpdG9yX2lkIjoiNjYwMzU1ODA4OTYwNDMyOTI5NiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="0d74b2849e455154d257ed946185e38eea12f7e97d676e210aebb90f77c76278" data-pjax-transient="true"/>
+  <meta name="request-id" content="3C1F:275898:D78E7:111098:6885F15C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="edd486fb3235badd5aac7e7b30df0ba78e86a3cbd3e9c0bc14ee47207eb39e79" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzQzFGOjI3NTg5ODpENzhFNzoxMTEwOTg6Njg4NUYxNUMiLCJ2aXNpdG9yX2lkIjoiNTYxMzc5MzgyODQwNzczNDYyMCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="388b40ec872335166b6d2879fd92b967d09ac899b176f78521749f6766687917" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:400170957" data-turbo-transient>
@@ -287,10 +287,10 @@
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-a5552d63-0fe8-4be3-8d55-7333289af780" aria-labelledby="tooltip-d766eb59-05c1-4ece-910d-ea91fbdaaa68" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-fd00f3b0-e659-4574-9fc9-773064f0fcc5" aria-labelledby="tooltip-f488205b-a9fe-4364-b5f4-114813c801e6" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d766eb59-05c1-4ece-910d-ea91fbdaaa68" for="icon-button-a5552d63-0fe8-4be3-8d55-7333289af780" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-f488205b-a9fe-4364-b5f4-114813c801e6" for="icon-button-fd00f3b0-e659-4574-9fc9-773064f0fcc5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.634d084f73c5cb1c2125.module.css" />
@@ -979,7 +979,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:delta-applications/KaiRoot" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="k4JF0CuoAIvSlhqdRXxEXj0cIIPPernVlQI0U9nBNGLvVYLF4V2zbIHMRMOGAxDS-9ClWCSv1PFuQ6D8LcN3TA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="delta-applications/KaiRoot" data-current-org="delta-applications" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:delta-applications/KaiRoot" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="PdwBAIGpz65T4RbCrLYv6LTKagdNrcHybqGsmQLbmuqUF_INC9QnDA7VAgPEwQL_pou0kTs2Q7OBcBZhVT3jRw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="delta-applications/KaiRoot" data-current-org="delta-applications" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -1043,7 +1043,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-fb4fd563-b594-4232-b683-d9ab3adbc022" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-f8e757ac-d9f9-4679-afd1-eea29e1a0388" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1281,7 +1281,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-fb4fd563-b594-4232-b683-d9ab3adbc022" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-f8e757ac-d9f9-4679-afd1-eea29e1a0388" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1322,7 +1322,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="56ZYv3rZzf2dTkiUYs1zdVmsx+lWYW3IZpkrxoT3OU3CWxI5fBmZMYVx2WHC9Tt3PV5KMN2AIupFC99zRiJE2w==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="OVO95JrtEWBBEUuO0BOroJSLBxdZ1ochI9gK9XYRM1Mk3tDGOaUiJyrNu9zImDvNG2NZr2SCYetVcr629jyIVg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1360,7 +1360,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="NnX3uyUeL2/DNnDC3qLJTSa+H9N/f9NPoubZ1xf+lojFf0Q+J2JnpdAOga3C7lASr3ZP+OnMeS6e0I+mS/DC2A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="hNO235m+trIYdfx/fNeEsUtLIqY12IfqY2+A4bTm6JB0DvTXl8x35BEDGqKcUHrRSCwns0Ei0AMLrdaWOELrLg==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1378,7 +1378,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="BLOkc1S1H5Vj/IwXKbE0pmaqY7a7DDV9CCYFfrOhC+hmPD/2mdPKu9SRf+c/shr7ZD/MURgpywFVmIobRcABFQ==" />
+              <input type="hidden" data-csrf="true" value="PFVFLmX9bNadjS8+ORaId3hNyyb7UQ3/TCPndPUtvT+KV7nQanorLgbZGNuRmbmYexgOjBzwnbukkQ6TDtb3kw==" />
             </auto-check>
           </div>
 
@@ -1440,10 +1440,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-7ebecfed-062e-452a-a6a2-273d9d6e54a9" aria-labelledby="tooltip-c649b97d-1a11-4b6e-86df-f34527261c32" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-8255dd2b-12b8-40bb-b26c-422259cc0f7a" aria-labelledby="tooltip-b0295333-f156-4b3d-957e-971a980eb2b5" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-c649b97d-1a11-4b6e-86df-f34527261c32" for="icon-button-7ebecfed-062e-452a-a6a2-273d9d6e54a9" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-b0295333-f156-4b3d-957e-971a980eb2b5" for="icon-button-8255dd2b-12b8-40bb-b26c-422259cc0f7a" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.634d084f73c5cb1c2125.module.css" />
@@ -1480,10 +1480,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-31986259-ce27-4b18-82f7-08094191de92" aria-labelledby="tooltip-b3d96a32-447a-4cea-9cd7-bf5d1a849113" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-e27e848e-98d2-41fb-b188-2c4049bb3bc6" aria-labelledby="tooltip-ecc37856-d0fe-4eeb-a766-e62f9e16fa4b" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-b3d96a32-447a-4cea-9cd7-bf5d1a849113" for="icon-button-31986259-ce27-4b18-82f7-08094191de92" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-ecc37856-d0fe-4eeb-a766-e62f9e16fa4b" for="icon-button-e27e848e-98d2-41fb-b188-2c4049bb3bc6" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1587,7 +1587,7 @@
             <a href="/login?return_to=%2Fdelta-applications%2FKaiRoot" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="484a8e679dd178c47381fe12682519d5e5b1b209782190e1b0341f44dbdccb3a" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-b314736a-79ef-4008-8ffb-005a17c2019a" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-6e63514b-75b9-4316-9d53-f25ad1b3f9da" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -1688,7 +1688,7 @@
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/delta-applications/KaiRoot/security/overall-count" accept="text/fragment+html" data-nonce="v2:fc9e17d4-296e-5f09-6572-0c9281435524" data-view-component="true">
+          <include-fragment src="/delta-applications/KaiRoot/security/overall-count" accept="text/fragment+html" data-nonce="v2:31917019-324d-da78-6bdb-0166154ccc03" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1722,22 +1722,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-button" popovertarget="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-overlay" aria-controls="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-list" aria-haspopup="true" aria-labelledby="tooltip-4a603faa-9eb5-4b2e-a2a7-7c9c79605cf4" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-button" popovertarget="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-overlay" aria-controls="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-list" aria-haspopup="true" aria-labelledby="tooltip-f187b7fe-af4e-4c68-a1b0-25c504632251" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-4a603faa-9eb5-4b2e-a2a7-7c9c79605cf4" for="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-f187b7fe-af4e-4c68-a1b0-25c504632251" for="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-overlay" anchor="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-overlay" anchor="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-button" id="action-menu-b28e92b4-415a-48f6-b1ce-c89297996c83-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-button" id="action-menu-ab03b868-2cb6-44ee-9394-f07ebe3d82d4-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-317ce785-cbdc-42f1-b48d-8db62a316394" href="/delta-applications/KaiRoot" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-b3fe06c4-6795-40eb-8ff8-0769be49bb0f" href="/delta-applications/KaiRoot" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1753,7 +1753,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-20fe6cb2-155c-4ef4-89c1-31a1600c63b8" href="/delta-applications/KaiRoot/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-242965cb-9d38-434c-9650-89d342799886" href="/delta-applications/KaiRoot/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1769,7 +1769,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c00725b9-dfd3-4514-abc3-66d80c9e3e98" href="/delta-applications/KaiRoot/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-bfed1f47-7825-4a25-b258-065fc5e8aa7c" href="/delta-applications/KaiRoot/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1785,7 +1785,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-0ae95d05-3bd9-4659-8aa5-921e66988233" href="/delta-applications/KaiRoot/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-effdc52b-b30a-4e0c-8732-38d06e040f44" href="/delta-applications/KaiRoot/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1801,7 +1801,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-8b1d673f-a685-45d3-beed-45822579753a" href="/delta-applications/KaiRoot/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-d6f3f13d-ccd8-4f24-a477-8509021b7817" href="/delta-applications/KaiRoot/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1817,7 +1817,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-32700af1-70de-4fc1-a74c-4389dfc046cd" href="/delta-applications/KaiRoot/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9b86dfc6-cef4-4c7a-b0ff-10226a4d053f" href="/delta-applications/KaiRoot/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1833,7 +1833,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cabbc1f4-52cf-4d70-a972-d8234bb9a21d" href="/delta-applications/KaiRoot/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-74eae3fb-aea6-4832-acb9-103ae1413505" href="/delta-applications/KaiRoot/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1891,7 +1891,7 @@
   data-react-profiling="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"screenshots":{"items":[{"name":"screenshot1.png","path":"screenshots/screenshot1.png","contentType":"file"},{"name":"screenshot2.png","path":"screenshots/screenshot2.png","contentType":"file"},{"name":"screenshot3.png","path":"screenshots/screenshot3.png","contentType":"file"},{"name":"screenshot4.png","path":"screenshots/screenshot4.png","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"RecoveryInstaller","path":"RecoveryInstaller","contentType":"directory"},{"name":"css","path":"css","contentType":"directory"},{"name":"img","path":"img","contentType":"directory"},{"name":"js","path":"js","contentType":"directory"},{"name":"locales","path":"locales","contentType":"directory"},{"name":"rsrc","path":"rsrc","contentType":"directory"},{"name":"screenshots","path":"screenshots","contentType":"directory"},{"name":".gitattributes","path":".gitattributes","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"alla.html","path":"alla.html","contentType":"file"},{"name":"build.sh","path":"build.sh","contentType":"file"},{"name":"explorer.html","path":"explorer.html","contentType":"file"},{"name":"index.html","path":"index.html","contentType":"file"},{"name":"manifest.webapp","path":"manifest.webapp","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":3.697718,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":400170957,"defaultBranch":"main","name":"KaiRoot","ownerLogin":"delta-applications","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2021-08-26T13:02:38.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/87499247?v=4","public":true,"private":false,"isOrgOwned":true},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"c16b960bd0eaa40f0d5f0523458aab3b5931dad0","listCacheKey":"v0:1629983393.234","canEdit":false,"refType":"tree","currentOid":"c16b960bd0eaa40f0d5f0523458aab3b5931dad0"},"path":"screenshots/screenshot2.png","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/delta-applications/KaiRoot/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"screenshot2.png","displayUrl":"https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png?raw=true","headerInfo":{"blobSize":"16 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":null,"isGitLfs":false,"onBranch":false,"shortPath":"194345e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FDelta-Applications%2FKaiRoot%2Fblob%2Fc16b960bd0eaa40f0d5f0523458aab3b5931dad0%2Fscreenshots%2Fscreenshot2.png","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":true,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/delta-applications/KaiRoot/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/Delta-Applications/KaiRoot/raw/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/Delta-Applications/KaiRoot/branches":{"post":"sYgxtXGYq0OhBIOn2Y9tBdb7E261i_4yQCTwJWTnQN-wBT3kYDrOA7jS7izF2P9WjhNoKBvdZ3iHqqr4_mQH7w"},"/repos/preferences":{"post":"frtCIsmwy_3oJAPGuBlBK9Sb6ogxaEzJd9YUmWDrxnwCalijXsdehzwY3x1DibxI4F4DLAL3E4qjwkMEhx5EjQ"}}},"title":"KaiRoot/screenshots/screenshot2.png at c16b960bd0eaa40f0d5f0523458aab3b5931dad0 · delta-applications/KaiRoot","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-0b6f8702959e.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"screenshots":{"items":[{"name":"screenshot1.png","path":"screenshots/screenshot1.png","contentType":"file"},{"name":"screenshot2.png","path":"screenshots/screenshot2.png","contentType":"file"},{"name":"screenshot3.png","path":"screenshots/screenshot3.png","contentType":"file"},{"name":"screenshot4.png","path":"screenshots/screenshot4.png","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"RecoveryInstaller","path":"RecoveryInstaller","contentType":"directory"},{"name":"css","path":"css","contentType":"directory"},{"name":"img","path":"img","contentType":"directory"},{"name":"js","path":"js","contentType":"directory"},{"name":"locales","path":"locales","contentType":"directory"},{"name":"rsrc","path":"rsrc","contentType":"directory"},{"name":"screenshots","path":"screenshots","contentType":"directory"},{"name":".gitattributes","path":".gitattributes","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"alla.html","path":"alla.html","contentType":"file"},{"name":"build.sh","path":"build.sh","contentType":"file"},{"name":"explorer.html","path":"explorer.html","contentType":"file"},{"name":"index.html","path":"index.html","contentType":"file"},{"name":"manifest.webapp","path":"manifest.webapp","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":4.834897000000001,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":400170957,"defaultBranch":"main","name":"KaiRoot","ownerLogin":"delta-applications","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2021-08-26T13:02:38.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/87499247?v=4","public":true,"private":false,"isOrgOwned":true},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"c16b960bd0eaa40f0d5f0523458aab3b5931dad0","listCacheKey":"v0:1629983393.234","canEdit":false,"refType":"tree","currentOid":"c16b960bd0eaa40f0d5f0523458aab3b5931dad0"},"path":"screenshots/screenshot2.png","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/delta-applications/KaiRoot/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"screenshot2.png","displayUrl":"https://github.com/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png?raw=true","headerInfo":{"blobSize":"16 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":null,"isGitLfs":false,"onBranch":false,"shortPath":"194345e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FDelta-Applications%2FKaiRoot%2Fblob%2Fc16b960bd0eaa40f0d5f0523458aab3b5931dad0%2Fscreenshots%2Fscreenshot2.png","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":true,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Delta-Applications/KaiRoot/blob/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/delta-applications/KaiRoot/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/Delta-Applications/KaiRoot/raw/c16b960bd0eaa40f0d5f0523458aab3b5931dad0/screenshots/screenshot2.png","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/Delta-Applications/KaiRoot/branches":{"post":"ycsHrAKavGTgftoG4q6vhX_zZw3-ymPGpOn_2zh_M9-gPVAw_zSAYE8kG9ADyGdQdgDMCdPyKkQhiqjvqKJU1g"},"/repos/preferences":{"post":"Hmg0l_m9ArtEi_wogucAiOofmzziLWRcH7uHmkoGikAxsOGAjveGywlZgcyJ8w9SN5dHG2mN9JhN6cqXDUL4Vw"}}},"title":"KaiRoot/screenshots/screenshot2.png at c16b960bd0eaa40f0d5f0523458aab3b5931dad0 · delta-applications/KaiRoot","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-0b6f8702959e.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
