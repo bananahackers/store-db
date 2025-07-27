@@ -1,0 +1,23 @@
+name: EKQR
+description: Easy (and complete) KaiOS QR Scanner/Generator/Manager
+screenshots:
+  - https://codeberg.org/ItsZariep/pages/raw/branch/main/assets/projects/ekqr/img/1.jpg
+  - https://codeberg.org/ItsZariep/pages/raw/branch/main/assets/projects/ekqr/img/2.jpg
+  - https://codeberg.org/ItsZariep/pages/raw/branch/main/assets/projects/ekqr/img/3.jpg
+  - https://codeberg.org/ItsZariep/pages/raw/branch/main/assets/projects/ekqr/img/5.jpg
+license: GPL-3-only
+icon: https://codeberg.org/ItsZariep/ekqr/raw/branch/main/application/ekqr.png
+git_repo: https://codeberg.org/ItsZariep/ekqr
+download:
+  url: https://codeberg.org/ItsZariep/ekqr/releases/download/latest/ekqr.zip
+  manifest: https://codeberg.org/ItsZariep/ekqr/releases/download/latest/version.json
+author: ItsZariep <itszariep@disroot.org>
+maintainer:  ItsZariep <itszariep@disroot.org>
+has_tracking: false
+has_ads: true
+donation: https://ko-fi.com/itszariep
+meta:
+  tags: qr;
+  categories: 
+      - utility
+type: packaged
