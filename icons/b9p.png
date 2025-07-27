@@ -1,1 +1,494 @@
-<html><body><script type="text/javascript" src="/aes.js" ></script><script>function toNumbers(d){var e=[];d.replace(/(..)/g,function(d){e.push(parseInt(d,16))});return e}function toHex(){for(var d=[],d=1==arguments.length&&arguments[0].constructor==Array?arguments[0]:arguments,e="",f=0;f<d.length;f++)e+=(16>d[f]?"0":"")+d[f].toString(16);return e.toLowerCase()}var a=toNumbers("f655ba9d09a112d4968c63579db590b4"),b=toNumbers("98344c2eee86c3994890592585b49f80"),c=toNumbers("7573ec19d67f958ec2d52a0307beb30e");document.cookie="__test="+toHex(slowAES.decrypt(c,2,a,b))+"; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"; location.href="http://alego.byethost24.com/other/nineball-player/logo.png?i=1";</script><noscript>This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support</noscript></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain Not Available</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+            min-height: 100vh;
+        }
+        .card {
+            backdrop-filter: blur(10px);
+            background-color: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-radius: 1rem;
+            transition: all 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+        }
+        .benefit-list {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        /* Better centering with flexbox */
+        .main-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body class="font-sans antialiased">
+    <div class="main-container">
+        <div class="card p-8 text-center w-full max-w-2xl mx-auto">
+            <h1 id="main-title" class="text-3xl font-bold mb-4 text-gray-800"></h1>
+            <h2 id="subtitle" class="text-xl mb-4 text-gray-600"></h2>
+            <p id="description" class="text-gray-700 mb-6"></p>
+
+            <div id="upgrade-section">
+                <h3 id="upgrade-text" class="text-lg font-semibold mb-4"></h3>
+                <ul id="benefits-list" class="benefit-list text-left mx-auto max-w-md"></ul>
+
+                <a href="#" id="upgrade-link" class="inline-block bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition duration-300 mt-4"></a>
+            </div>
+            
+            <!-- Language selector -->
+            <div class="mt-6">
+                <label for="language-selector" class="block text-sm text-gray-600 mb-2">
+                    <span id="language-label">🌐 Language / Idioma / 语言 / भाषा</span>
+                </label>
+                <select id="language-selector" class="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <option value="auto">🔍 Auto-detect</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Comprehensive translations object covering most popular languages
+        const translations = {
+            'en': {
+                title: 'Domain Suspended',
+                subtitle: 'This domain is suspended for reaching server limits or similar.',
+                description: 'Please contact support in your hosting control panel if you have a query.',
+                upgradeText: 'Get this domain online today! Upgrade to Premium Hosting and enjoy:',
+                benefits: [
+                    'Unlimited Space',
+                    'Unlimited CPU',
+                    'Unlimited Daily Hits',
+                    '100\'s of Additional Benefits'
+                ],
+                linkText: 'Upgrade to Premium Hosting',
+                langName: 'English'
+            },
+            'es': {
+                title: 'Dominio Suspendido',
+                subtitle: 'Este dominio está suspendido por alcanzar los límites del servidor o similar.',
+                description: 'Por favor, contacte con soporte en su panel de control de hosting si tiene alguna consulta.',
+                upgradeText: '¡Ponga este dominio en línea hoy! Actualice a Hosting Premium y disfrute de:',
+                benefits: [
+                    'Espacio Ilimitado',
+                    'CPU Ilimitado',
+                    'Visitas Diarias Ilimitadas',
+                    'Cientos de Beneficios Adicionales'
+                ],
+                linkText: 'Actualizar a Hosting Premium',
+                langName: 'Español'
+            },
+            'zh': {
+                title: '域名已暂停',
+                subtitle: '此域名因达到服务器限制或类似原因而被暂停。',
+                description: '如有疑问，请在您的主机控制面板中联系支持。',
+                upgradeText: '立即让此域名上线！升级到高级主机并享受：',
+                benefits: [
+                    '无限空间',
+                    '无限CPU',
+                    '无限每日访问量',
+                    '数百种额外优势'
+                ],
+                linkText: '升级到高级主机',
+                langName: '中文'
+            },
+            'hi': {
+                title: 'डोमेन निलंबित',
+                subtitle: 'यह डोमेन सर्वर सीमा तक पहुंचने या इसी तरह के कारण से निलंबित है।',
+                description: 'यदि आपके कोई प्रश्न हैं तो कृपया अपने होस्टिंग कंट्रोल पैनल में सहायता से संपर्क करें।',
+                upgradeText: 'इस डोमेन को आज ही ऑनलाइन करें! प्रीमियम होस्टिंग में अपग्रेड करें और आनंद लें:',
+                benefits: [
+                    'असीमित स्थान',
+                    'असीमित CPU',
+                    'असीमित दैनिक हिट्स',
+                    'सैकड़ों अतिरिक्त लाभ'
+                ],
+                linkText: 'प्रीमियम होस्टिंग में अपग्रेड करें',
+                langName: 'हिन्दी'
+            },
+            'ar': {
+                title: 'النطاق معلق',
+                subtitle: 'تم تعليق هذا النطاق لبلوغه حدود الخادم أو ما شابه.',
+                description: 'يرجى الاتصال بالدعم في لوحة تحكم الاستضافة الخاصة بك إذا كان لديك استفسار.',
+                upgradeText: 'احصل على هذا النطاق عبر الإنترنت اليوم! قم بالترقية إلى الاستضافة المميزة واستمتع بـ:',
+                benefits: [
+                    'مساحة غير محدودة',
+                    'معالج غير محدود',
+                    'زيارات يومية غير محدودة',
+                    'المئات من المزايا الإضافية'
+                ],
+                linkText: 'الترقية إلى الاستضافة المميزة',
+                langName: 'العربية'
+            },
+            'pt': {
+                title: 'Domínio Suspenso',
+                subtitle: 'Este domínio está suspenso por atingir os limites do servidor ou similar.',
+                description: 'Por favor, contate o suporte no seu painel de controle de hospedagem se tiver alguma dúvida.',
+                upgradeText: 'Coloque este domínio online hoje! Atualize para Hospedagem Premium e aproveite:',
+                benefits: [
+                    'Espaço Ilimitado',
+                    'CPU Ilimitado',
+                    'Acessos Diários Ilimitados',
+                    'Centenas de Benefícios Adicionais'
+                ],
+                linkText: 'Atualizar para Hospedagem Premium',
+                langName: 'Português'
+            },
+            'ru': {
+                title: 'Домен приостановлен',
+                subtitle: 'Этот домен приостановлен из-за достижения лимитов сервера или подобного.',
+                description: 'Пожалуйста, обратитесь в службу поддержки в вашей панели управления хостингом, если у вас есть вопросы.',
+                upgradeText: 'Запустите этот домен сегодня! Обновитесь до Премиум-хостинга и наслаждайтесь:',
+                benefits: [
+                    'Неограниченное пространство',
+                    'Неограниченный CPU',
+                    'Неограниченные ежедневные посещения',
+                    'Сотни дополнительных преимуществ'
+                ],
+                linkText: 'Обновить до Премиум-хостинга',
+                langName: 'Русский'
+            },
+            'ja': {
+                title: 'ドメイン停止中',
+                subtitle: 'このドメインはサーバー制限に達したか、同様の理由で停止されています。',
+                description: 'ご質問がある場合は、ホスティングコントロールパネルでサポートにお問い合わせください。',
+                upgradeText: '今すぐこのドメインをオンラインにしましょう！プレミアムホスティングにアップグレードして、以下をお楽しみください：',
+                benefits: [
+                    '無制限のスペース',
+                    '無制限のCPU',
+                    '無制限の1日あたりのアクセス',
+                    '数百の追加特典'
+                ],
+                linkText: 'プレミアムホスティングにアップグレード',
+                langName: '日本語'
+            },
+            'de': {
+                title: 'Domain gesperrt',
+                subtitle: 'Diese Domain ist gesperrt, weil Serverlimits erreicht wurden oder ähnliches.',
+                description: 'Bitte kontaktieren Sie den Support in Ihrem Hosting-Kontrollpanel, wenn Sie eine Anfrage haben.',
+                upgradeText: 'Bringen Sie diese Domain noch heute online! Upgraden Sie auf Premium-Hosting und genießen Sie:',
+                benefits: [
+                    'Unbegrenzter Speicherplatz',
+                    'Unbegrenzte CPU',
+                    'Unbegrenzte tägliche Zugriffe',
+                    'Hunderte zusätzliche Vorteile'
+                ],
+                linkText: 'Auf Premium-Hosting upgraden',
+                langName: 'Deutsch'
+            },
+            'fr': {
+                title: 'Domaine suspendu',
+                subtitle: 'Ce domaine est suspendu pour avoir atteint les limites du serveur ou similaire.',
+                description: 'Veuillez contacter le support dans votre panneau de contrôle d\'hébergement si vous avez une question.',
+                upgradeText: 'Mettez ce domaine en ligne aujourd\'hui ! Passez à l\'hébergement Premium et profitez de :',
+                benefits: [
+                    'Espace illimité',
+                    'CPU illimité',
+                    'Visites quotidiennes illimitées',
+                    'Des centaines d\'avantages supplémentaires'
+                ],
+                linkText: 'Passer à l\'hébergement Premium',
+                langName: 'Français'
+            },
+            'ko': {
+                title: '도메인 정지됨',
+                subtitle: '이 도메인은 서버 제한에 도달했거나 유사한 이유로 정지되었습니다.',
+                description: '문의사항이 있으시면 호스팅 제어판에서 지원팀에 문의해 주세요.',
+                upgradeText: '오늘 이 도메인을 온라인으로 만드세요! 프리미엄 호스팅으로 업그레이드하고 즐기세요:',
+                benefits: [
+                    '무제한 공간',
+                    '무제한 CPU',
+                    '무제한 일일 방문',
+                    '수백 가지 추가 혜택'
+                ],
+                linkText: '프리미엄 호스팅으로 업그레이드',
+                langName: '한국어'
+            },
+            'it': {
+                title: 'Dominio sospeso',
+                subtitle: 'Questo dominio è sospeso per aver raggiunto i limiti del server o simili.',
+                description: 'Si prega di contattare il supporto nel pannello di controllo dell\'hosting per eventuali domande.',
+                upgradeText: 'Porta online questo dominio oggi! Passa all\'Hosting Premium e goditi:',
+                benefits: [
+                    'Spazio illimitato',
+                    'CPU illimitata',
+                    'Visite giornaliere illimitate',
+                    'Centinaia di vantaggi aggiuntivi'
+                ],
+                linkText: 'Passa all\'Hosting Premium',
+                langName: 'Italiano'
+            },
+            'tr': {
+                title: 'Alan Adı Askıya Alındı',
+                subtitle: 'Bu alan adı sunucu sınırlarına ulaştığı veya benzer bir nedenle askıya alındı.',
+                description: 'Bir sorunuz varsa lütfen hosting kontrol panelinizden destek ile iletişime geçin.',
+                upgradeText: 'Bu alan adını bugün çevrimiçi yapın! Premium Hosting\'e yükseltin ve keyfini çıkarın:',
+                benefits: [
+                    'Sınırsız Alan',
+                    'Sınırsız CPU',
+                    'Sınırsız Günlük Hit',
+                    'Yüzlerce Ek Avantaj'
+                ],
+                linkText: 'Premium Hosting\'e Yükselt',
+                langName: 'Türkçe'
+            },
+            'pl': {
+                title: 'Domena zawieszona',
+                subtitle: 'Ta domena została zawieszona z powodu osiągnięcia limitów serwera lub podobnych.',
+                description: 'Skontaktuj się z pomocą techniczną w panelu kontrolnym hostingu, jeśli masz pytania.',
+                upgradeText: 'Uruchom tę domenę już dziś! Przejdź na Premium Hosting i ciesz się:',
+                benefits: [
+                    'Nieograniczona przestrzeń',
+                    'Nieograniczony CPU',
+                    'Nieograniczone dzienne odsłony',
+                    'Setki dodatkowych korzyści'
+                ],
+                linkText: 'Przejdź na Premium Hosting',
+                langName: 'Polski'
+            },
+            'nl': {
+                title: 'Domein opgeschort',
+                subtitle: 'Dit domein is opgeschort wegens het bereiken van serverlimieten of iets dergelijks.',
+                description: 'Neem contact op met support in uw hosting controlepaneel als u een vraag heeft.',
+                upgradeText: 'Zet dit domein vandaag nog online! Upgrade naar Premium Hosting en geniet van:',
+                benefits: [
+                    'Onbeperkte ruimte',
+                    'Onbeperkte CPU',
+                    'Onbeperkte dagelijkse hits',
+                    'Honderden extra voordelen'
+                ],
+                linkText: 'Upgrade naar Premium Hosting',
+                langName: 'Nederlands'
+            },
+            'sv': {
+                title: 'Domän avstängd',
+                subtitle: 'Denna domän är avstängd för att ha nått servergränser eller liknande.',
+                description: 'Kontakta support i din värdkontrollpanel om du har en fråga.',
+                upgradeText: 'Få denna domän online idag! Uppgradera till Premium Hosting och njut av:',
+                benefits: [
+                    'Obegränsat utrymme',
+                    'Obegränsad CPU',
+                    'Obegränsade dagliga träffar',
+                    'Hundratals ytterligare fördelar'
+                ],
+                linkText: 'Uppgradera till Premium Hosting',
+                langName: 'Svenska'
+            },
+            'vi': {
+                title: 'Tên miền bị tạm ngưng',
+                subtitle: 'Tên miền này bị tạm ngưng do đạt giới hạn máy chủ hoặc tương tự.',
+                description: 'Vui lòng liên hệ với bộ phận hỗ trợ trong bảng điều khiển hosting của bạn nếu có thắc mắc.',
+                upgradeText: 'Đưa tên miền này lên mạng ngay hôm nay! Nâng cấp lên Premium Hosting và tận hưởng:',
+                benefits: [
+                    'Dung lượng không giới hạn',
+                    'CPU không giới hạn',
+                    'Lượt truy cập hàng ngày không giới hạn',
+                    'Hàng trăm lợi ích bổ sung'
+                ],
+                linkText: 'Nâng cấp lên Premium Hosting',
+                langName: 'Tiếng Việt'
+            },
+            'th': {
+                title: 'โดเมนถูกระงับ',
+                subtitle: 'โดเมนนี้ถูกระงับเนื่องจากถึงขีดจำกัดของเซิร์ฟเวอร์หรือคล้ายกัน',
+                description: 'กรุณาติดต่อฝ่ายสนับสนุนในแผงควบคุมโฮสติ้งของคุณหากมีข้อสงสัย',
+                upgradeText: 'นำโดเมนนี้ออนไลน์วันนี้! อัปเกรดเป็น Premium Hosting และเพลิดเพลินกับ:',
+                benefits: [
+                    'พื้นที่ไม่จำกัด',
+                    'CPU ไม่จำกัด',
+                    'การเข้าชมต่อวันไม่จำกัด',
+                    'สิทธิประโยชน์เพิ่มเติมหลายร้อยรายการ'
+                ],
+                linkText: 'อัปเกรดเป็น Premium Hosting',
+                langName: 'ไทย'
+            },
+            'id': {
+                title: 'Domain Ditangguhkan',
+                subtitle: 'Domain ini ditangguhkan karena mencapai batas server atau sejenisnya.',
+                description: 'Silakan hubungi dukungan di panel kontrol hosting Anda jika ada pertanyaan.',
+                upgradeText: 'Buat domain ini online hari ini! Tingkatkan ke Premium Hosting dan nikmati:',
+                benefits: [
+                    'Ruang Tak Terbatas',
+                    'CPU Tak Terbatas',
+                    'Hit Harian Tak Terbatas',
+                    'Ratusan Manfaat Tambahan'
+                ],
+                linkText: 'Tingkatkan ke Premium Hosting',
+                langName: 'Bahasa Indonesia'
+            },
+            'ms': {
+                title: 'Domain Digantung',
+                subtitle: 'Domain ini digantung kerana mencapai had pelayan atau seumpamanya.',
+                description: 'Sila hubungi sokongan dalam panel kawalan pengehosan anda jika ada pertanyaan.',
+                upgradeText: 'Dapatkan domain ini dalam talian hari ini! Naik taraf ke Premium Hosting dan nikmati:',
+                benefits: [
+                    'Ruang Tanpa Had',
+                    'CPU Tanpa Had',
+                    'Hit Harian Tanpa Had',
+                    'Beratus-ratus Faedah Tambahan'
+                ],
+                linkText: 'Naik taraf ke Premium Hosting',
+                langName: 'Bahasa Melayu'
+            }
+        };
+
+        // Function to get current domain
+        function getCurrentDomain() {
+            // Check for 'host' GET parameter first
+            const urlParams = new URLSearchParams(window.location.search);
+            const hostParam = urlParams.get('host');
+            
+            // If host parameter exists and is not empty, use it
+            if (hostParam && hostParam.trim() !== '') {
+                return hostParam;
+            }
+            
+            // Otherwise, use the actual domain that was requested
+            return window.location.hostname;
+        }
+
+        // Function to parse domain into SLD and TLD
+        function parseDomain(domain) {
+            // Remove any protocol if present
+            domain = domain.replace(/^https?:\/\//, '');
+            
+            // Split by dots
+            const parts = domain.split('.');
+            
+            if (parts.length >= 2) {
+                // We'll consider everything after the first dot as TLD
+                const sld = parts[0];
+                const tld = parts.slice(1).join('.');
+                
+                return { sld, tld };
+            } else {
+                // Fallback if domain format is unexpected
+                return { sld: domain, tld: '' };
+            }
+        }
+
+        // Function to get browser language
+        function getBrowserLanguage() {
+            const lang = navigator.language || navigator.userLanguage || 'en';
+            return lang.split('-')[0];
+        }
+
+        // Function to populate language selector
+        function populateLanguageSelector() {
+            const selector = document.getElementById('language-selector');
+            
+            Object.keys(translations).forEach(langCode => {
+                const option = document.createElement('option');
+                option.value = langCode;
+                option.textContent = translations[langCode].langName;
+                selector.appendChild(option);
+            });
+        }
+
+        // Translate and populate page content
+        function translatePage(lang) {
+            // Default to English if translation not found
+            const translation = translations[lang] || translations['en'];
+
+            // Set page language attribute
+            document.documentElement.lang = lang;
+
+            // Set page title
+            document.title = translation.title;
+
+            // Set main content
+            document.getElementById('main-title').textContent = translation.title;
+            document.getElementById('subtitle').textContent = translation.subtitle;
+            document.getElementById('description').textContent = translation.description;
+
+            // Set upgrade section
+            document.getElementById('upgrade-text').textContent = translation.upgradeText;
+
+            // Populate benefits list
+            const benefitsList = document.getElementById('benefits-list');
+            benefitsList.innerHTML = translation.benefits.map(benefit =>
+                `<li class="mb-2">${benefit}</li>`
+            ).join('');
+
+            // Set upgrade link
+            const upgradeLink = document.getElementById('upgrade-link');
+            upgradeLink.textContent = translation.linkText;
+
+            // Update language selector
+            document.getElementById('language-selector').value = lang === 'auto' ? 'auto' : lang;
+        }
+
+        // Set up page on load
+        document.addEventListener('DOMContentLoaded', () => {
+            const domain = getCurrentDomain();
+            const domainParts = parseDomain(domain);
+            const { sld, tld } = domainParts;
+
+            // Set upgrade link with SLD and TLD parameters
+            const upgradeLink = document.getElementById('upgrade-link');
+            upgradeLink.href = `https://ifastnet.com/portal/aff.php?aff=31168&a=add&pid=78&sld=${encodeURIComponent(sld)}&tld=.${encodeURIComponent(tld)}&billingcycle=annually&domainoption=owndomain`;
+
+            // Populate language selector
+            populateLanguageSelector();
+
+            // Get browser language for detection
+            const browserLang = getBrowserLanguage();
+
+            // Check for saved language preference first
+            const savedLang = Cookies.get('preferred_language');
+            let langToUse = browserLang; // Default to browser language
+            
+            if (savedLang) {
+                if (savedLang === 'auto') {
+                    langToUse = browserLang;
+                } else {
+                    langToUse = savedLang;
+                }
+            }
+
+            // Translate page to determined language
+            translatePage(langToUse);
+
+            // Set the selector to show current language
+            if (savedLang) {
+                document.getElementById('language-selector').value = savedLang;
+            } else {
+                // If no saved preference, check if browser language is supported
+                if (translations[browserLang]) {
+                    document.getElementById('language-selector').value = browserLang;
+                } else {
+                    document.getElementById('language-selector').value = 'auto';
+                }
+            }
+
+            // Add language selector event listener
+            document.getElementById('language-selector').addEventListener('change', (e) => {
+                const selectedLang = e.target.value;
+                if (selectedLang === 'auto') {
+                    translatePage(getBrowserLanguage());
+                    Cookies.set('preferred_language', 'auto', { expires: 365 });
+                } else {
+                    translatePage(selectedLang);
+                    Cookies.set('preferred_language', selectedLang, { expires: 365 });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
