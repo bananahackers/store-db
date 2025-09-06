@@ -1,19 +1,24 @@
 name: AppBuster
-description: Utility to safely disable/enable KaiOS pre-installed applications
-icon: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/i.png"
-website: "https://gitlab.com/suborg/appbuster/"
+description: >
+    Utility to safely disable/enable KaiOS pre-installed applications
+icon: "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/icon112.png"
+screenshots:
+    - "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/1.png"
+    - "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/2.png"
+    - "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/3.png"
+git_repo: "https://github.com/bananahackers/AppBuster"
 download:
-    url: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/appbuster.zip"
-    manifest: "https://raw.githubusercontent.com/cyan-2048/_store/main/suborg/appbuster/manifest.webapp"
+    url: "https://github.com/bananahackers/AppBuster/releases/download/latest/appbuster.zip"
+    manifest: "https://github.com/bananahackers/AppBuster/releases/download/latest/manifest.json"
 type: certified
 locales:
     - English
 license: Unlicense <https://unlicense.org/>
-author: Luxferre
-maintainer: Cyan <cyankindasus@protonmail.com>
+author: Luxferre <mailto:suborgblack@gmail.com>
+maintainer: Duc Bui <mailto:bananahackers@ducmbui.com>
 has_ads: false
 has_tracking: false
 meta:
-    tags: cool; luxferre; app;
+    tags: luxferre; hide; disable; remove; uninstall; app; bloatware
     categories:
         - utility
