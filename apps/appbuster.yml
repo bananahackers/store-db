@@ -1,5 +1,5 @@
 name: AppBuster
-description: >
+description: |-
     Utility to safely disable/enable KaiOS pre-installed applications
 icon: "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/icon112.png"
 screenshots:
@@ -8,8 +8,8 @@ screenshots:
     - "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/3.png"
 git_repo: "https://github.com/bananahackers/AppBuster"
 download:
-    url: "https://github.com/bananahackers/AppBuster/releases/download/latest/appbuster.zip"
-    manifest: "https://github.com/bananahackers/AppBuster/releases/download/latest/manifest.json"
+    url: "https://github.com/bananahackers/AppBuster/releases/latest/download/appbuster.zip"
+    manifest: "https://github.com/bananahackers/AppBuster/releases/latest/download/manifest.json"
 type: certified
 locales:
     - English
