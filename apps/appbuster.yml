@@ -1,6 +1,14 @@
 name: AppBuster
 description: |-
     Utility to safely disable/enable KaiOS pre-installed applications
+
+    A fork of the original AppBuster developed by Luxferre, modified to remove the requirement for 'engmode-extension', making it possible to sideload on devices that restrict installing apps with the 'engmode-extension' permission.
+
+    To use, select the app you want to disable/enable from the list. Use D-Pad Up or Down to switch to the previous or next page of the app list, then press the number key corresponding to the name of the app you want to disable/enable. Disabled apps will be crossed and greyed out.
+
+    Once you are done, press # to apply the changes. Follow the prompt and manually restart your phone for the changes to take effect.
+
+    'webapps-manage' permission is necessary to access the 'navigator.mozApps.mgmt' APIs for the core functionality of this app.
 icon: "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/icon112.png"
 screenshots:
     - "https://raw.githubusercontent.com/bananahackers/AppBuster/refs/heads/main/img/1.png"
@@ -14,8 +22,8 @@ type: certified
 locales:
     - English
 license: Unlicense <https://unlicense.org/>
-author: Luxferre <mailto:suborgblack@gmail.com>
-maintainer: Duc Bui <mailto:bananahackers@ducmbui.com>
+author: Luxferre <suborgblack@gmail.com>
+maintainer: Duc Bui <bananahackers@ducmbui.com>
 has_ads: false
 has_tracking: false
 meta:
