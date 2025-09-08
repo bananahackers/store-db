@@ -1,6 +1,6 @@
 name: # Name of the app
-description: >
-  Description of the app. What is the app about? (tip: by specifying the '>', you can add multiple lines to the description!)
+description: |-
+  Description of the app. What is the app about? (tip: by specifying the '|-', you can add multiple lines to the description!)
 icon: # URL to the icon of the app as a direct image file, supports "png", "jpeg" and "gif" file extensions (URL string must end in one of these extensions)
 screenshots: # Array of URLs to the screenshots of the app as direct image files, supports "png", "jpeg", "svg" and "gif" file extensions (optional)
   - "https://"
@@ -16,7 +16,8 @@ license: # Name of the open-source license the app is distributed with, with lin
 donation: # URL to the developers' donation website (optional)
 download:
   url: # URL to the app package in OmniSD-compatible ZIP format
-  manifest: # contains the app version string, create a JSON file with `{ "version": "version_here" }`
+  manifest: # contains the app version string, link to your manifest.webapp/manifest.webmanifest or create a JSON file with `{ "version": "version_here" }`
+  # version: # (not recommended, use manifest instead) static version string of the app, if you plan to only distribute one version of the app
 has_ads: # true or false, whether the app has advertising either from KaiAds or other format
 has_tracking: # true or false, whether the app tracks user activities
 meta:
