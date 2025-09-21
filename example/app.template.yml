@@ -10,6 +10,9 @@ author: # Person, group or organisation developing the app
 maintainer: # Person maintaining this file and the app package referenced in [download]
 locales: # (optional)
   - English
+dependencies: # Does this application depend on/work in conjuction with other applications? (optional)
+  - name: # Name of the app in question
+    url: # URL to the app in question, e.g. https://store.bananahackers.net/#omnibb
 website: # URL to the (promotional) website of the application (optional)
 git_repo: # URL to the Git repo of the application, should it be open-sourced (optional)
 license: # Name of the open-source license the app is distributed with, with link, or "Unknown"
