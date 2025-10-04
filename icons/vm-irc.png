@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head data-suburl="">
+  <meta name="generator" content=
+  "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
+  <meta http-equiv="Content-Type" content=
+  "text/html; charset=us-ascii">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/error/css/ui.css" type="text/css">
+  <link rel="stylesheet" href="/error/css/gogs.css" type=
+  "text/css">
+
+  <title>ERROR! :( NotABug.org: Free code hosting</title>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="promo-wrapper">
+      <div class="container clear">
+        <div id="promo-logo" class="left"><img src=
+        "/error/notabug-error.png" alt="logo"></div>
+
+        <div id="promo-content">
+          <h1>NotABug.org</h1>
+
+          <h2>NotABug is experiencing an issue.</h2>
+	  <h3>Please refresh the page</h3>
+        </div>
+      </div>
+    </div>
+
+    <div id="feature-wrapper">
+      <div class="container clear">
+        <p>If this error persists please contact us at <a href=
+        "mailto:admin@notabug.org">admin@notabug.org</a>. We
+        apologize for the inconvenience. Our bug elves are working
+        hard to restore the service.</p>
+
+        <p>The <a href="mailto:admin@notabug.org">appropriate
+        people</a> are being blamed as you're reading this.</p>
+	<p>(This most definitely is a bug)</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
