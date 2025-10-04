@@ -1,15 +1,16 @@
 name: Convo
 description: A basic XMPP messaging client for KaiOS supporting sending messages to existing contacts and joining existing groupchats. The app is a bit limited on its own, but works well along with a companion desktop app.
-icon: https://git.disroot.org/badrihippo/convo/raw/branch/master/public/images/icon-64.png
+icon: https://convo.fsci.in/repos/convo/public/images/icon-64.png
 screenshots:
-  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/splash.png
-  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/messages.png
-  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/contacts.png
-  - https://git.disroot.org/badrihippo/convo/raw/branch/master/screenshots/groupchat.png
+  - https://convo.fsci.in/repos/convo/screenshots/splash.png
+  - https://convo.fsci.in/repos/convo/screenshots/messages.png
+  - https://convo.fsci.in/repos/convo/screenshots/contacts.png
+  - https://convo.fsci.in/repos/convo/screenshots/groupchat.png
 git_repo: https://git.disroot.org/badrihippo/convo
+website: https://convo.fsci.in
 download:
-  url: https://git.disroot.org/badrihippo/convo/releases/download/0.1.0/convo-0.1.0-kaios2-omnisd.zip
-  manifest: https://git.disroot.org/badrihippo/convo/raw/branch/master/public/manifest.webapp
+  url: https://convo.fsci.in/downloads/convo-0.2.0-kaios2-omnisd.zip
+  manifest: https://convo.fsci.in/repos/convo/public/manifest.webapp
 type: packaged
 license: GPL-3-or-later
 author: Badri Sunderarajan <badrihippo@disroot.org>
