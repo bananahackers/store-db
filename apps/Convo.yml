@@ -9,8 +9,8 @@ screenshots:
 git_repo: https://git.disroot.org/badrihippo/convo
 website: https://convo.fsci.in
 download:
-  url: https://convo.fsci.in/downloads/convo-0.2.0-kaios2-omnisd.zip
-  manifest: https://convo.fsci.in/repos/convo/public/manifest.webapp
+  url: https://convo.fsci.in/downloads/convo-latest-kaios2-omnisd.zip
+  manifest: https://convo.fsci.in/repos/convo/src/manifest.webapp
 type: packaged
 license: GPL-3-or-later
 author: Badri Sunderarajan <badrihippo@disroot.org>
