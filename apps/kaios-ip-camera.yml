@@ -1,0 +1,20 @@
+name: IP Camera
+description: |-
+  Turn your KaiOS 2.5 device (JioPhone, Nokia 8110 4G, Alcatel Smartflip, etc.) into a network IP Camera.
+  Features: Live MJPEG streaming, remote browser web control panel, live audio monitoring, still photo snapshots, 24/7 background streaming with display-off mode, and segmented rolling video recording to SD card.
+icon: https://raw.githubusercontent.com/su60pi/kaios-ip-camera/main/app/icons/icon-112.png
+git_repo: https://github.com/su60pi/kaios-ip-camera
+download:
+  url: https://github.com/su60pi/kaios-ip-camera/releases/download/v1.1.0/kaios-ip-camera.zip
+  manifest: https://raw.githubusercontent.com/su60pi/kaios-ip-camera/main/app/manifest.webapp
+type: certified
+license: CC BY-NC-SA 4.0
+author: su60pi
+maintainer: su60pi
+has_ads: false
+has_tracking: false
+meta:
+  tags: camera; ipcamera; stream; mjpeg; cctv; security; server; utility;
+  categories:
+    - utility
+    - multimedia
