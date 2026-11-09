@@ -1,0 +1,7 @@
+{
+  "name": "LensVKP",
+  "description": "A dedicated QR code scanner and reader for KaiOS and JioPhone devices.",
+  "version": "1.0.0",
+  "manifestURL": "https://raw.githubusercontent.com/SPDigitalSolutions/LensVKP/main/manifest.webapp",
+  "download": "https://github.com/SPDigitalSolutions/LensVKP/releases/download/v1.0.0/LensVKP.zip"
+}

@@ -1,0 +1,10 @@
+id: com.vkp.sharevkp
+name: ShareVKP
+description: Local Wi-Fi high-speed file transfer bridge between KaiOS/JioPhone and Android.
+author: SPDigitalSolutions
+version: 1.0.0
+type: packaged
+license: GPL-3.0
+download:
+  url: "https://github.com/SPDigitalSolutions/sharevkp/releases/download/v1.0.0/OmnisdShareVKP.zip"
+icon: "https://github.com/SPDigitalSolutions/sharevkp/releases/download/v1.0.0/icon.png"
